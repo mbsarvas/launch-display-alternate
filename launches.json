@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-07-23T19:32:28.768038+00:00",
+  "fetched_at": "2026-07-23T21:50:23.858727+00:00",
   "launches": [
-    {
-      "mission": "Flight 13",
-      "rocket": "Starship",
-      "site": "SpaceX Starbase, TX, USA",
-      "country": "United States",
-      "date": "Thu Jul 23 2026",
-      "time": "03:45 PM PDT",
-      "status": "Go",
-      "net": "2026-07-23T22:45:00Z"
-    },
     {
       "mission": "Unknown Payload",
       "rocket": "Kinetica 1",
@@ -20,6 +10,16 @@
       "time": "04:30 PM PDT",
       "status": "Go",
       "net": "2026-07-23T23:30:00Z"
+    },
+    {
+      "mission": "Flight 13",
+      "rocket": "Starship",
+      "site": "SpaceX Starbase, TX, USA",
+      "country": "United States",
+      "date": "Fri Jul 24 2026",
+      "time": "03:45 PM PDT",
+      "status": "Go",
+      "net": "2026-07-24T22:45:00Z"
     },
     {
       "mission": "Starlink Group 17-51",
