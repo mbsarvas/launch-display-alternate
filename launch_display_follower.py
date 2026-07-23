@@ -1,6 +1,6 @@
 """
 Rocket Launch Follower — Multi-Display Edition
-Raspberry Pi Zero 2 W | Python 3.13
+Raspberry Pi Zero 2 W or Zero W | Python 3.13
 Version 1.0.0
 Date: June 25, 2026
 Created by Matthew Sarvas
@@ -87,13 +87,13 @@ BUTTON_PIN       = 27    # GPIO pin for the Vandenberg filter toggle button
 # e.g. if your username is "pi", set PI_USER = "pi"
 PI_USER          = "pi"
 API_KEY_FILE     = f"/home/{PI_USER}/ll2_api_key.txt"
-SCRIPT_PATH      = f"/home/{PI_USER}/launch-display-private/launch_display_follower.py"
+SCRIPT_PATH      = f"/home/{PI_USER}/launch-display/launch_display_follower.py"
 
 # ── Auto-update settings ───────────────────────────────────────────────────────
 SCRIPT_VERSION   = "1.0.0"
-GITHUB_RAW_URL   = "https://raw.githubusercontent.com/mbsarvas/launch-display-private/main/launch_display_follower.py"
+GITHUB_RAW_URL   = "https://raw.githubusercontent.com/mbsarvas/launch-display-alternate/main/launch_display_follower.py"
 UPDATE_INTERVAL  = 86400   # seconds between update checks (86400 = 24 hours)
-GITHUB_DATA_URL  = "https://raw.githubusercontent.com/mbsarvas/launch-display-private/main/launches.json"
+GITHUB_DATA_URL  = "https://raw.githubusercontent.com/mbsarvas/launch-display-alternate/main/launches.json"
 
 # ── API key ──────────────────────────────────────────────────────────────────
 
