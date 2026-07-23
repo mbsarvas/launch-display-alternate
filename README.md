@@ -1,6 +1,6 @@
 # 🚀 Rocket Launch Display System — Private
 
-Personal deployment of the Rocket Launch Display System consisting of a dedicated fetcher Pi and one or more follower display Pis.
+A unique deployment of the Rocket Launch Display System designed for a specific case
 
 **Created by Matthew Sarvas**
 
