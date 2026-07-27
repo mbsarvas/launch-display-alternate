@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-27T16:09:40.239870+00:00",
+  "fetched_at": "2026-07-27T16:15:41.439084+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -142,6 +142,16 @@
       "net": "2026-08-09T11:00:00Z"
     },
     {
+      "mission": "Starlink Group 17-49",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Vandenberg SFB, CA, USA",
+      "country": "United States",
+      "date": "Sun Aug 09 2026",
+      "time": "07:00 PM PDT",
+      "status": "Go",
+      "net": "2026-08-10T02:00:00Z"
+    },
+    {
       "mission": "Unknown Payload",
       "rocket": "Long March 12",
       "site": "Wenchang Space Launch Site, People's Republic of China",
@@ -186,16 +196,6 @@
       "rocket": "Falcon 9 Block 5",
       "site": "Cape Canaveral SFS, FL, USA",
       "country": "United States",
-      "date": "Sun Aug 30 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-08-31T00:00:00Z"
-    },
-    {
-      "mission": "Maiden Flight",
-      "rocket": "RFA One",
-      "site": "SaxaVord Spaceport",
-      "country": "United Kingdom",
       "date": "Sun Aug 30 2026",
       "time": "05:00 PM PDT",
       "status": "TBD",
