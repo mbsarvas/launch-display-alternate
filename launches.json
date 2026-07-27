@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-27T22:35:35.847207+00:00",
+  "fetched_at": "2026-07-27T22:41:36.722765+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -197,9 +197,9 @@
       "site": "Kennedy SC",
       "country": "United States",
       "date": "Sun Aug 30 2026",
-      "time": "04:20 AM PDT",
+      "time": "04:26 AM PDT",
       "status": "Go",
-      "net": "2026-08-30T11:20:00Z"
+      "net": "2026-08-30T11:26:00Z"
     }
   ]
 }
