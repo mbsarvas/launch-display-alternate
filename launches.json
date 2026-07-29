@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-07-29T11:47:34.251070+00:00",
+  "fetched_at": "2026-07-29T11:53:35.885695+00:00",
   "launches": [
-    {
-      "mission": "Unknown Payload",
-      "rocket": "Long March 7A",
-      "site": "Wenchang Space Launch Site, People's Republic of China",
-      "country": "China",
-      "date": "Wed Jul 29 2026",
-      "time": "04:50 AM PDT",
-      "status": "Go",
-      "net": "2026-07-29T11:50:00Z"
-    },
     {
       "mission": "Unknown Payload",
       "rocket": "Long March 6A",
