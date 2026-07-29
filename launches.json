@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-28T02:54:35.501148+00:00",
+  "fetched_at": "2026-07-29T06:29:09.330867+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -32,46 +32,6 @@
       "net": "2026-07-30T07:09:00Z"
     },
     {
-      "mission": "LOXSAT 1",
-      "rocket": "Electron",
-      "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-      "country": "New Zealand",
-      "date": "Thu Jul 30 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-07-31T00:00:00Z"
-    },
-    {
-      "mission": "The Grain Goddess Provides (iQPS Launch 7)",
-      "rocket": "Electron",
-      "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-      "country": "New Zealand",
-      "date": "Thu Jul 30 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-07-31T00:00:00Z"
-    },
-    {
-      "mission": "Demo Flight",
-      "rocket": "Mir",
-      "site": "Sea Launch",
-      "country": "???",
-      "date": "Thu Jul 30 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-07-31T00:00:00Z"
-    },
-    {
-      "mission": "StriX Launch 11",
-      "rocket": "Electron",
-      "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-      "country": "New Zealand",
-      "date": "Thu Jul 30 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-07-31T00:00:00Z"
-    },
-    {
       "mission": "Starlink Group 17-52",
       "rocket": "Falcon 9 Block 5",
       "site": "Vandenberg SFB, CA, USA",
@@ -93,6 +53,16 @@
     },
     {
       "mission": "Unknown Payload",
+      "rocket": "Smart Dragon 3",
+      "site": "Haiyang Oriental Spaceport",
+      "country": "China",
+      "date": "Mon Aug 03 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-08-04T00:00:00Z"
+    },
+    {
+      "mission": "Unknown Payload",
       "rocket": "Long March 8A",
       "site": "Wenchang Space Launch Site, People's Republic of China",
       "country": "China",
@@ -100,6 +70,16 @@
       "time": "01:50 AM PDT",
       "status": "Go",
       "net": "2026-08-04T08:50:00Z"
+    },
+    {
+      "mission": "BlueBird Block 2 #6-8",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Cape Canaveral SFS, FL, USA",
+      "country": "United States",
+      "date": "Wed Aug 05 2026",
+      "time": "12:42 AM PDT",
+      "status": "Go",
+      "net": "2026-08-05T07:42:00Z"
     },
     {
       "mission": "Onward and Upward",
@@ -200,6 +180,26 @@
       "time": "04:26 AM PDT",
       "status": "Go",
       "net": "2026-08-30T11:26:00Z"
+    },
+    {
+      "mission": "LOXSAT 1",
+      "rocket": "Electron",
+      "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "country": "New Zealand",
+      "date": "Sun Aug 30 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-08-31T00:00:00Z"
+    },
+    {
+      "mission": "The Grain Goddess Provides (iQPS Launch 7)",
+      "rocket": "Electron",
+      "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "country": "New Zealand",
+      "date": "Sun Aug 30 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-08-31T00:00:00Z"
     }
   ]
 }
