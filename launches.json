@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-30T05:33:37.211051+00:00",
+  "fetched_at": "2026-07-30T05:39:38.155041+00:00",
   "launches": [
     {
       "mission": "NROL-95",
@@ -23,16 +23,6 @@
     },
     {
       "mission": "Unknown Payload",
-      "rocket": "Smart Dragon 3",
-      "site": "Haiyang Oriental Spaceport",
-      "country": "China",
-      "date": "Mon Aug 03 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-08-04T00:00:00Z"
-    },
-    {
-      "mission": "Unknown Payload",
       "rocket": "Long March 8A",
       "site": "Wenchang Space Launch Site, People's Republic of China",
       "country": "China",
@@ -52,7 +42,17 @@
       "net": "2026-08-04T14:00:00Z"
     },
     {
-      "mission": "BlueBird Block 2 #6-8",
+      "mission": "Unknown Payload",
+      "rocket": "Smart Dragon 3",
+      "site": "Haiyang Oriental Spaceport",
+      "country": "China",
+      "date": "Tue Aug 04 2026",
+      "time": "07:35 PM PDT",
+      "status": "Go",
+      "net": "2026-08-05T02:35:00Z"
+    },
+    {
+      "mission": "BlueBird 11-13 (Block 2 #6-8)",
       "rocket": "Falcon 9 Block 5",
       "site": "Cape Canaveral SFS, FL, USA",
       "country": "United States",
