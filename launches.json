@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-07-30T07:09:19.582957+00:00",
+  "fetched_at": "2026-07-30T07:15:21.163125+00:00",
   "launches": [
-    {
-      "mission": "NROL-95",
-      "rocket": "Falcon 9 Block 5",
-      "site": "Cape Canaveral SFS, FL, USA",
-      "country": "United States",
-      "date": "Thu Jul 30 2026",
-      "time": "12:10 AM PDT",
-      "status": "Go",
-      "net": "2026-07-30T07:10:19Z"
-    },
     {
       "mission": "Starlink Group 17-52",
       "rocket": "Falcon 9 Block 5",
