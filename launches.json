@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-07-29T14:30:22.534768+00:00",
+  "fetched_at": "2026-07-30T05:17:38.221044+00:00",
   "launches": [
-    {
-      "mission": "Unknown Payload",
-      "rocket": "Long March 6A",
-      "site": "Taiyuan Satellite Launch Center, People's Republic of China",
-      "country": "China",
-      "date": "Wed Jul 29 2026",
-      "time": "06:00 PM PDT",
-      "status": "Go",
-      "net": "2026-07-30T01:00:00Z"
-    },
     {
       "mission": "NROL-95",
       "rocket": "Falcon 9 Block 5",
@@ -26,20 +16,10 @@
       "rocket": "Falcon 9 Block 5",
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
-      "date": "Thu Jul 30 2026",
+      "date": "Fri Jul 31 2026",
       "time": "07:00 PM PDT",
       "status": "Go",
-      "net": "2026-07-31T02:00:00Z"
-    },
-    {
-      "mission": "Starlink Group 17-53",
-      "rocket": "Falcon 9 Block 5",
-      "site": "Vandenberg SFB, CA, USA",
-      "country": "United States",
-      "date": "Mon Aug 03 2026",
-      "time": "07:00 AM PDT",
-      "status": "Go",
-      "net": "2026-08-03T14:00:00Z"
+      "net": "2026-08-01T02:00:00Z"
     },
     {
       "mission": "Unknown Payload",
@@ -60,6 +40,16 @@
       "time": "01:50 AM PDT",
       "status": "Go",
       "net": "2026-08-04T08:50:00Z"
+    },
+    {
+      "mission": "Starlink Group 17-53",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Vandenberg SFB, CA, USA",
+      "country": "United States",
+      "date": "Tue Aug 04 2026",
+      "time": "07:00 AM PDT",
+      "status": "Go",
+      "net": "2026-08-04T14:00:00Z"
     },
     {
       "mission": "BlueBird Block 2 #6-8",
@@ -96,10 +86,10 @@
       "rocket": "Falcon 9 Block 5",
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
-      "date": "Fri Aug 07 2026",
+      "date": "Sat Aug 08 2026",
       "time": "07:00 AM PDT",
       "status": "Go",
-      "net": "2026-08-07T14:00:00Z"
+      "net": "2026-08-08T14:00:00Z"
     },
     {
       "mission": "Unknown Payload",
@@ -126,10 +116,10 @@
       "rocket": "Falcon 9 Block 5",
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
-      "date": "Mon Aug 10 2026",
+      "date": "Tue Aug 11 2026",
       "time": "07:00 PM PDT",
       "status": "Go",
-      "net": "2026-08-11T02:00:00Z"
+      "net": "2026-08-12T02:00:00Z"
     },
     {
       "mission": "Unknown Payload",
