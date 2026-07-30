@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-30T21:32:55.497640+00:00",
+  "fetched_at": "2026-07-30T21:38:57.756035+00:00",
   "launches": [
     {
       "mission": "Starlink Group 17-52",
@@ -97,9 +97,9 @@
       "site": "Cape Canaveral SFS, FL, USA",
       "country": "United States",
       "date": "Mon Aug 10 2026",
-      "time": "04:00 AM PDT",
+      "time": "07:50 AM PDT",
       "status": "Go",
-      "net": "2026-08-10T11:00:00Z"
+      "net": "2026-08-10T14:50:00Z"
     },
     {
       "mission": "Starlink Group 17-49",
