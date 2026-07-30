@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-30T05:27:35.155261+00:00",
+  "fetched_at": "2026-07-30T05:33:37.211051+00:00",
   "launches": [
     {
       "mission": "NROL-95",
@@ -7,9 +7,9 @@
       "site": "Cape Canaveral SFS, FL, USA",
       "country": "United States",
       "date": "Thu Jul 30 2026",
-      "time": "12:09 AM PDT",
+      "time": "12:10 AM PDT",
       "status": "Go",
-      "net": "2026-07-30T07:09:01Z"
+      "net": "2026-07-30T07:10:19Z"
     },
     {
       "mission": "Starlink Group 17-52",
