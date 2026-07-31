@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-07-31T00:58:08.204941+00:00",
+  "fetched_at": "2026-07-31T01:04:09.173922+00:00",
   "launches": [
     {
       "mission": "Starlink Group 17-52",
@@ -176,6 +176,16 @@
       "rocket": "Mir",
       "site": "Sea Launch",
       "country": "???",
+      "date": "Sun Aug 30 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-08-31T00:00:00Z"
+    },
+    {
+      "mission": "StriX Launch 11",
+      "rocket": "Electron",
+      "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "country": "New Zealand",
       "date": "Sun Aug 30 2026",
       "time": "05:00 PM PDT",
       "status": "TBD",
