@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-02T03:05:16.371334+00:00",
+  "fetched_at": "2026-08-02T03:11:18.339814+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -186,6 +186,16 @@
       "rocket": "Falcon 9 Block 5",
       "site": "Cape Canaveral SFS, FL, USA",
       "country": "United States",
+      "date": "Sun Aug 30 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-08-31T00:00:00Z"
+    },
+    {
+      "mission": "Flight 2",
+      "rocket": "Zhuque-3",
+      "site": "Jiuquan Satellite Launch Center, People's Republic of China",
+      "country": "China",
       "date": "Sun Aug 30 2026",
       "time": "05:00 PM PDT",
       "status": "TBD",
