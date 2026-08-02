@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-02T20:28:25.402108+00:00",
+  "fetched_at": "2026-08-02T20:34:26.494572+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -40,16 +40,6 @@
       "time": "12:42 AM PDT",
       "status": "Go",
       "net": "2026-08-05T07:42:00Z"
-    },
-    {
-      "mission": "Onward and Upward",
-      "rocket": "Spectrum",
-      "site": "And\u00f8ya Spaceport",
-      "country": "Norway",
-      "date": "Wed Aug 05 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-08-06T00:00:00Z"
     },
     {
       "mission": "Michibiki 7 (QZS-7)",
@@ -140,6 +130,16 @@
       "time": "04:26 AM PDT",
       "status": "Go",
       "net": "2026-08-30T11:26:00Z"
+    },
+    {
+      "mission": "Onward and Upward",
+      "rocket": "Spectrum",
+      "site": "And\u00f8ya Spaceport",
+      "country": "Norway",
+      "date": "Sun Aug 30 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-08-31T00:00:00Z"
     },
     {
       "mission": "LOXSAT 1",
