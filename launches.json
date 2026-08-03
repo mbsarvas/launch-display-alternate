@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-03T14:40:57.162852+00:00",
+  "fetched_at": "2026-08-03T14:46:58.224524+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -87,9 +87,9 @@
       "site": "Cape Canaveral SFS, FL, USA",
       "country": "United States",
       "date": "Sat Aug 15 2026",
-      "time": "06:02 PM PDT",
+      "time": "06:12 PM PDT",
       "status": "TBD",
-      "net": "2026-08-16T01:02:00Z"
+      "net": "2026-08-16T01:12:00Z"
     },
     {
       "mission": "Unknown Payload",
