@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-03T16:59:34.388608+00:00",
+  "fetched_at": "2026-08-03T17:05:36.239868+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -116,10 +116,10 @@
       "rocket": "Ariane 62",
       "site": "Guiana Space Centre, French Guiana",
       "country": "GUF",
-      "date": "Wed Aug 26 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-08-27T00:00:00Z"
+      "date": "Thu Aug 27 2026",
+      "time": "01:10 PM PDT",
+      "status": "Go",
+      "net": "2026-08-27T20:10:00Z"
     },
     {
       "mission": "Nancy Grace Roman Space Telescope",
