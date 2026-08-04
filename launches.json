@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-08-04T17:03:29.325482+00:00",
+  "fetched_at": "2026-08-04T17:09:30.317957+00:00",
   "launches": [
-    {
-      "mission": "Starlink Group 17-53",
-      "rocket": "Falcon 9 Block 5",
-      "site": "Vandenberg SFB, CA, USA",
-      "country": "United States",
-      "date": "Tue Aug 04 2026",
-      "time": "10:05 AM PDT",
-      "status": "Go",
-      "net": "2026-08-04T17:05:03Z"
-    },
     {
       "mission": "Unknown Payload",
       "rocket": "Smart Dragon 3",
