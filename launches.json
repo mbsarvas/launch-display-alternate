@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-04T04:40:37.546700+00:00",
+  "fetched_at": "2026-08-04T04:46:38.565336+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -17,9 +17,9 @@
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
       "date": "Tue Aug 04 2026",
-      "time": "09:24 AM PDT",
+      "time": "09:29 AM PDT",
       "status": "Go",
-      "net": "2026-08-04T16:24:55Z"
+      "net": "2026-08-04T16:29:39Z"
     },
     {
       "mission": "Unknown Payload",
