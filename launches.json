@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-08-04T08:47:41.917469+00:00",
+  "fetched_at": "2026-08-04T08:53:43.008345+00:00",
   "launches": [
-    {
-      "mission": "Unknown Payload",
-      "rocket": "Long March 8A",
-      "site": "Wenchang Space Launch Site, People's Republic of China",
-      "country": "China",
-      "date": "Tue Aug 04 2026",
-      "time": "01:50 AM PDT",
-      "status": "Go",
-      "net": "2026-08-04T08:50:00Z"
-    },
     {
       "mission": "Starlink Group 17-53",
       "rocket": "Falcon 9 Block 5",
