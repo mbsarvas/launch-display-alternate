@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-08-05T07:44:22.398620+00:00",
+  "fetched_at": "2026-08-05T07:50:23.971720+00:00",
   "launches": [
-    {
-      "mission": "BlueBird 11-13 (Block 2 #6-8)",
-      "rocket": "Falcon 9 Block 5",
-      "site": "Cape Canaveral SFS, FL, USA",
-      "country": "United States",
-      "date": "Wed Aug 05 2026",
-      "time": "12:49 AM PDT",
-      "status": "Go",
-      "net": "2026-08-05T07:49:00Z"
-    },
     {
       "mission": "Starlink Group 17-38",
       "rocket": "Falcon 9 Block 5",
