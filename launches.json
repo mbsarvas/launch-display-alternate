@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-08-05T02:30:00.012136+00:00",
+  "fetched_at": "2026-08-05T02:36:01.017409+00:00",
   "launches": [
-    {
-      "mission": "Unknown Payload",
-      "rocket": "Smart Dragon 3",
-      "site": "Haiyang Oriental Spaceport",
-      "country": "China",
-      "date": "Tue Aug 04 2026",
-      "time": "07:35 PM PDT",
-      "status": "Go",
-      "net": "2026-08-05T02:35:00Z"
-    },
     {
       "mission": "BlueBird 11-13 (Block 2 #6-8)",
       "rocket": "Falcon 9 Block 5",
