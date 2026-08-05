@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-05T01:59:48.642553+00:00",
+  "fetched_at": "2026-08-05T02:05:52.678213+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -36,10 +36,10 @@
       "rocket": "Long March 7A",
       "site": "Wenchang Space Launch Site, People's Republic of China",
       "country": "China",
-      "date": "Sun Aug 09 2026",
-      "time": "04:00 AM PDT",
-      "status": "TBD",
-      "net": "2026-08-09T11:00:00Z"
+      "date": "Mon Aug 10 2026",
+      "time": "05:00 AM PDT",
+      "status": "Go",
+      "net": "2026-08-10T12:00:00Z"
     },
     {
       "mission": "Starlink Group 10-19",
