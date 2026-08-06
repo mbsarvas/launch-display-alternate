@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-08-06T09:16:16.793954+00:00",
+  "fetched_at": "2026-08-06T09:22:17.226658+00:00",
   "launches": [
-    {
-      "mission": "The Grain Goddess Provides (iQPS Launch 7)",
-      "rocket": "Electron",
-      "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-      "country": "New Zealand",
-      "date": "Thu Aug 06 2026",
-      "time": "02:18 AM PDT",
-      "status": "Go",
-      "net": "2026-08-06T09:18:00Z"
-    },
     {
       "mission": "Starlink Group 17-38",
       "rocket": "Falcon 9 Block 5",
