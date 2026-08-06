@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-06T08:33:53.514427+00:00",
+  "fetched_at": "2026-08-06T08:39:55.159145+00:00",
   "launches": [
     {
       "mission": "The Grain Goddess Provides (iQPS Launch 7)",
@@ -7,9 +7,9 @@
       "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
       "country": "New Zealand",
       "date": "Thu Aug 06 2026",
-      "time": "02:00 AM PDT",
+      "time": "02:18 AM PDT",
       "status": "Go",
-      "net": "2026-08-06T09:00:00Z"
+      "net": "2026-08-06T09:18:00Z"
     },
     {
       "mission": "Starlink Group 17-38",
