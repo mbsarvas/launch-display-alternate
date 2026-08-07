@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-07T11:59:18.639499+00:00",
+  "fetched_at": "2026-08-07T12:05:19.039888+00:00",
   "launches": [
     {
       "mission": "Starlink Group 17-38",
@@ -10,6 +10,16 @@
       "time": "07:00 AM PDT",
       "status": "Go",
       "net": "2026-08-08T14:00:00Z"
+    },
+    {
+      "mission": "Michibiki 7 (QZS-7)",
+      "rocket": "H3-22",
+      "site": "Tanegashima",
+      "country": "Japan",
+      "date": "Sun Aug 09 2026",
+      "time": "12:00 PM PDT",
+      "status": "Go",
+      "net": "2026-08-09T19:00:00Z"
     },
     {
       "mission": "Unknown Payload",
@@ -176,16 +186,6 @@
       "rocket": "Pallas-1",
       "site": "Jiuquan Satellite Launch Center, People's Republic of China",
       "country": "China",
-      "date": "Sun Aug 30 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-08-31T00:00:00Z"
-    },
-    {
-      "mission": "Michibiki 7 (QZS-7)",
-      "rocket": "H3-22",
-      "site": "Tanegashima",
-      "country": "Japan",
       "date": "Sun Aug 30 2026",
       "time": "05:00 PM PDT",
       "status": "TBD",
