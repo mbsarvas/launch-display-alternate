@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-07T17:12:49.227257+00:00",
+  "fetched_at": "2026-08-07T17:18:50.338660+00:00",
   "launches": [
     {
       "mission": "Starlink Group 17-38",
@@ -78,7 +78,7 @@
       "country": "United States",
       "date": "Sat Aug 15 2026",
       "time": "06:12 PM PDT",
-      "status": "TBD",
+      "status": "Go",
       "net": "2026-08-16T01:12:00Z"
     },
     {
