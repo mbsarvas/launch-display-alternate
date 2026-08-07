@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-07T09:16:44.091560+00:00",
+  "fetched_at": "2026-08-07T09:22:44.536964+00:00",
   "launches": [
     {
       "mission": "Starlink Group 17-38",
@@ -186,6 +186,16 @@
       "rocket": "H3-22",
       "site": "Tanegashima",
       "country": "Japan",
+      "date": "Sun Aug 30 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-08-31T00:00:00Z"
+    },
+    {
+      "mission": "Flight 2",
+      "rocket": "Long March 12A",
+      "site": "Jiuquan Satellite Launch Center, People's Republic of China",
+      "country": "China",
       "date": "Sun Aug 30 2026",
       "time": "05:00 PM PDT",
       "status": "TBD",
