@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-07T16:30:36.690537+00:00",
+  "fetched_at": "2026-08-07T16:36:38.927475+00:00",
   "launches": [
     {
       "mission": "Starlink Group 17-38",
@@ -7,9 +7,9 @@
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
       "date": "Sat Aug 08 2026",
-      "time": "07:00 AM PDT",
+      "time": "09:24 AM PDT",
       "status": "Go",
-      "net": "2026-08-08T14:00:00Z"
+      "net": "2026-08-08T16:24:49Z"
     },
     {
       "mission": "Michibiki 7 (QZS-7)",
