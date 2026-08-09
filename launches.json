@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-09T08:34:22.411152+00:00",
+  "fetched_at": "2026-08-09T08:40:22.957434+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -27,9 +27,9 @@
       "site": "Tanegashima",
       "country": "Japan",
       "date": "Mon Aug 10 2026",
-      "time": "12:00 PM PDT",
+      "time": "12:23 PM PDT",
       "status": "Go",
-      "net": "2026-08-10T19:00:00Z"
+      "net": "2026-08-10T19:23:31Z"
     },
     {
       "mission": "Flight 2",
