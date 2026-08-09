@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-09T23:38:36.606455+00:00",
+  "fetched_at": "2026-08-09T23:44:38.031379+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -17,9 +17,9 @@
       "site": "Cape Canaveral SFS, FL, USA",
       "country": "United States",
       "date": "Mon Aug 10 2026",
-      "time": "07:49 AM PDT",
+      "time": "08:07 AM PDT",
       "status": "Go",
-      "net": "2026-08-10T14:49:00Z"
+      "net": "2026-08-10T15:07:28Z"
     },
     {
       "mission": "Michibiki 7 (QZS-7)",
