@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-10T00:09:01.145925+00:00",
+  "fetched_at": "2026-08-10T00:15:01.519156+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -182,6 +182,16 @@
       "net": "2026-08-31T00:00:00Z"
     },
     {
+      "mission": "Kosmos (Unknown Payload)",
+      "rocket": "Angara 1.2",
+      "site": "Plesetsk Cosmodrome, Russian Federation",
+      "country": "Russia",
+      "date": "Sun Aug 30 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-08-31T00:00:00Z"
+    },
+    {
       "mission": "Flight 2",
       "rocket": "Long March 12A",
       "site": "Jiuquan Satellite Launch Center, People's Republic of China",
@@ -190,16 +200,6 @@
       "time": "05:00 PM PDT",
       "status": "TBD",
       "net": "2026-08-31T00:00:00Z"
-    },
-    {
-      "mission": "Progress MS-35 (96P)",
-      "rocket": "Soyuz 2.1b",
-      "site": "Baikonur Cosmodrome, Republic of Kazakhstan",
-      "country": "Kazakhstan",
-      "date": "Wed Sep 09 2026",
-      "time": "09:10 AM PDT",
-      "status": "TBD",
-      "net": "2026-09-09T16:10:00Z"
     }
   ]
 }
