@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-10T20:39:17.482082+00:00",
+  "fetched_at": "2026-08-10T20:45:18.717456+00:00",
   "launches": [
     {
       "mission": "Starlink Group 10-19",
@@ -22,13 +22,13 @@
       "net": "2026-08-12T02:00:00Z"
     },
     {
-      "mission": "R-1",
+      "mission": "USSF-366",
       "rocket": "Falcon 9 Block 5",
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
       "date": "Sat Aug 15 2026",
       "time": "02:52 PM PDT",
-      "status": "TBD",
+      "status": "Go",
       "net": "2026-08-15T21:52:00Z"
     },
     {
