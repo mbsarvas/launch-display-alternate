@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-10T12:55:23.726576+00:00",
+  "fetched_at": "2026-08-10T13:01:25.017911+00:00",
   "launches": [
     {
       "mission": "Starlink Group 10-19",
@@ -7,9 +7,9 @@
       "site": "Cape Canaveral SFS, FL, USA",
       "country": "United States",
       "date": "Mon Aug 10 2026",
-      "time": "08:07 AM PDT",
+      "time": "09:20 AM PDT",
       "status": "Go",
-      "net": "2026-08-10T15:07:28Z"
+      "net": "2026-08-10T16:20:09Z"
     },
     {
       "mission": "Michibiki 7 (QZS-7)",
