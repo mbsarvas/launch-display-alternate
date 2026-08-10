@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-10T17:50:36.571122+00:00",
+  "fetched_at": "2026-08-10T17:56:37.582091+00:00",
   "launches": [
     {
       "mission": "Michibiki 7 (QZS-7)",
@@ -10,16 +10,6 @@
       "time": "12:23 PM PDT",
       "status": "Go",
       "net": "2026-08-10T19:23:31Z"
-    },
-    {
-      "mission": "Flight 2",
-      "rocket": "Zhuque-3",
-      "site": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "country": "China",
-      "date": "Mon Aug 10 2026",
-      "time": "04:45 PM PDT",
-      "status": "Go",
-      "net": "2026-08-10T23:45:00Z"
     },
     {
       "mission": "Starlink Group 10-19",
@@ -186,6 +176,16 @@
       "rocket": "Angara 1.2",
       "site": "Plesetsk Cosmodrome, Russian Federation",
       "country": "Russia",
+      "date": "Sun Aug 30 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-08-31T00:00:00Z"
+    },
+    {
+      "mission": "Flight 2",
+      "rocket": "Long March 12A",
+      "site": "Jiuquan Satellite Launch Center, People's Republic of China",
+      "country": "China",
       "date": "Sun Aug 30 2026",
       "time": "05:00 PM PDT",
       "status": "TBD",
