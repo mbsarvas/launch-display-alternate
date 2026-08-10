@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-10T21:09:28.208401+00:00",
+  "fetched_at": "2026-08-10T21:15:29.952392+00:00",
   "launches": [
     {
       "mission": "Starlink Group 10-19",
@@ -97,9 +97,9 @@
       "site": "Kennedy SC",
       "country": "United States",
       "date": "Sun Aug 30 2026",
-      "time": "04:25 AM PDT",
+      "time": "04:26 AM PDT",
       "status": "Go",
-      "net": "2026-08-30T11:25:00Z"
+      "net": "2026-08-30T11:26:00Z"
     },
     {
       "mission": "Onward and Upward",
