@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-12T15:52:36.305600+00:00",
+  "fetched_at": "2026-08-12T15:58:37.717921+00:00",
   "launches": [
     {
       "mission": "USSF-366",
@@ -180,6 +180,16 @@
       "time": "09:10 AM PDT",
       "status": "TBD",
       "net": "2026-09-09T16:10:00Z"
+    },
+    {
+      "mission": "Crew-13",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Cape Canaveral SFS, FL, USA",
+      "country": "United States",
+      "date": "Sat Sep 12 2026",
+      "time": "03:34 PM PDT",
+      "status": "Go",
+      "net": "2026-09-12T22:34:00Z"
     }
   ]
 }
