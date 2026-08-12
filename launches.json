@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-12T16:40:48.478953+00:00",
+  "fetched_at": "2026-08-12T16:46:49.564325+00:00",
   "launches": [
     {
       "mission": "USSF-366",
@@ -60,6 +60,16 @@
       "time": "05:00 PM PDT",
       "status": "TBD",
       "net": "2026-08-24T00:00:00Z"
+    },
+    {
+      "mission": "Starlink Group 10-49",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Cape Canaveral SFS, FL, USA",
+      "country": "United States",
+      "date": "Tue Aug 25 2026",
+      "time": "04:00 AM PDT",
+      "status": "Go",
+      "net": "2026-08-25T11:00:00Z"
     },
     {
       "mission": "MTG-I2",
@@ -180,16 +190,6 @@
       "time": "09:10 AM PDT",
       "status": "TBD",
       "net": "2026-09-09T16:10:00Z"
-    },
-    {
-      "mission": "Crew-13",
-      "rocket": "Falcon 9 Block 5",
-      "site": "Cape Canaveral SFS, FL, USA",
-      "country": "United States",
-      "date": "Sat Sep 12 2026",
-      "time": "03:34 PM PDT",
-      "status": "Go",
-      "net": "2026-09-12T22:34:00Z"
     }
   ]
 }
