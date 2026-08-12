@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-12T17:46:59.600020+00:00",
+  "fetched_at": "2026-08-12T17:53:01.423510+00:00",
   "launches": [
     {
       "mission": "USSF-366",
@@ -26,10 +26,10 @@
       "rocket": "Long March 12",
       "site": "Wenchang Space Launch Site, People's Republic of China",
       "country": "China",
-      "date": "Sun Aug 16 2026",
-      "time": "07:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-08-17T02:00:00Z"
+      "date": "Sat Aug 15 2026",
+      "time": "09:10 PM PDT",
+      "status": "Go",
+      "net": "2026-08-16T04:10:00Z"
     },
     {
       "mission": "Starlink Group 17-50",
