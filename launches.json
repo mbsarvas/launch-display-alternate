@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-14T13:41:47.191604+00:00",
+  "fetched_at": "2026-08-14T13:47:48.431887+00:00",
   "launches": [
     {
       "mission": "USSF-366",
@@ -40,6 +40,16 @@
       "time": "08:00 PM PDT",
       "status": "Go",
       "net": "2026-08-17T03:00:00Z"
+    },
+    {
+      "mission": "Flight 2",
+      "rocket": "Zhuque-3",
+      "site": "Jiuquan Satellite Launch Center, People's Republic of China",
+      "country": "China",
+      "date": "Tue Aug 18 2026",
+      "time": "04:35 PM PDT",
+      "status": "Go",
+      "net": "2026-08-18T23:35:00Z"
     },
     {
       "mission": "Starlink Group 17-50",
@@ -186,16 +196,6 @@
       "rocket": "Angara 1.2",
       "site": "Plesetsk Cosmodrome, Russian Federation",
       "country": "Russia",
-      "date": "Sun Aug 30 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-08-31T00:00:00Z"
-    },
-    {
-      "mission": "Flight 2",
-      "rocket": "Long March 12A",
-      "site": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "country": "China",
       "date": "Sun Aug 30 2026",
       "time": "05:00 PM PDT",
       "status": "TBD",
