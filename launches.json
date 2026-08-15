@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-15T04:53:14.588585+00:00",
+  "fetched_at": "2026-08-15T04:59:15.001315+00:00",
   "launches": [
     {
       "mission": "USSF-366",
@@ -7,9 +7,9 @@
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
       "date": "Sat Aug 15 2026",
-      "time": "02:52 PM PDT",
+      "time": "02:54 PM PDT",
       "status": "Go",
-      "net": "2026-08-15T21:52:00Z"
+      "net": "2026-08-15T21:54:02Z"
     },
     {
       "mission": "Globalstar 2-R Mission 1 (x 9)",
