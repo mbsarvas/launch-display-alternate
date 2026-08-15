@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-15T16:56:50.251048+00:00",
+  "fetched_at": "2026-08-15T17:02:51.216004+00:00",
   "launches": [
     {
       "mission": "USSF-366",
@@ -108,7 +108,7 @@
       "country": "United States",
       "date": "Tue Aug 25 2026",
       "time": "09:44 AM PDT",
-      "status": "TBD",
+      "status": "Go",
       "net": "2026-08-25T16:44:00Z"
     },
     {
