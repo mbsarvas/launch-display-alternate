@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-08-16T01:47:21.299953+00:00",
+  "fetched_at": "2026-08-16T01:53:22.257422+00:00",
   "launches": [
-    {
-      "mission": "USSF-366",
-      "rocket": "Falcon 9 Block 5",
-      "site": "Vandenberg SFB, CA, USA",
-      "country": "United States",
-      "date": "Sat Aug 15 2026",
-      "time": "06:50 PM PDT",
-      "status": "Go",
-      "net": "2026-08-16T01:50:45Z"
-    },
     {
       "mission": "Unknown Payload",
       "rocket": "Long March 12",
