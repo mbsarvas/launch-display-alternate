@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-16T00:53:00.244443+00:00",
+  "fetched_at": "2026-08-16T00:59:01.489212+00:00",
   "launches": [
     {
       "mission": "Globalstar 2-R Mission 1 (x 9)",
@@ -9,7 +9,7 @@
       "date": "Sat Aug 15 2026",
       "time": "06:12 PM PDT",
       "status": "Go",
-      "net": "2026-08-16T01:12:00Z"
+      "net": "2026-08-16T01:12:14Z"
     },
     {
       "mission": "USSF-366",
