@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-17T21:24:34.900928+00:00",
+  "fetched_at": "2026-08-17T21:30:35.579694+00:00",
   "launches": [
     {
       "mission": "Flight 2",
@@ -67,9 +67,9 @@
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
       "date": "Tue Aug 25 2026",
-      "time": "09:44 AM PDT",
+      "time": "02:42 AM PDT",
       "status": "Go",
-      "net": "2026-08-25T16:44:00Z"
+      "net": "2026-08-25T09:42:00Z"
     },
     {
       "mission": "MTG-I2",
