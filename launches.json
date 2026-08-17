@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-17T01:06:36.284068+00:00",
+  "fetched_at": "2026-08-17T01:12:37.947546+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -166,6 +166,16 @@
       "rocket": "Angara 1.2",
       "site": "Plesetsk Cosmodrome, Russian Federation",
       "country": "Russia",
+      "date": "Sun Aug 30 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-08-31T00:00:00Z"
+    },
+    {
+      "mission": "Flight 2",
+      "rocket": "Long March 12A",
+      "site": "Jiuquan Satellite Launch Center, People's Republic of China",
+      "country": "China",
       "date": "Sun Aug 30 2026",
       "time": "05:00 PM PDT",
       "status": "TBD",
