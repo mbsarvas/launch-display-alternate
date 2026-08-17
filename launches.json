@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-08-17T02:55:24.334048+00:00",
+  "fetched_at": "2026-08-17T03:01:36.987829+00:00",
   "launches": [
-    {
-      "mission": "Unknown Payload",
-      "rocket": "Long March 2C",
-      "site": "Taiyuan Satellite Launch Center, People's Republic of China",
-      "country": "China",
-      "date": "Sun Aug 16 2026",
-      "time": "08:00 PM PDT",
-      "status": "Go",
-      "net": "2026-08-17T03:00:00Z"
-    },
     {
       "mission": "Flight 2",
       "rocket": "Zhuque-3",
