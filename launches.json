@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-18T04:27:41.841772+00:00",
+  "fetched_at": "2026-08-18T04:33:42.959258+00:00",
   "launches": [
     {
       "mission": "Flight 2",
@@ -17,9 +17,9 @@
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
       "date": "Tue Aug 18 2026",
-      "time": "07:00 PM PDT",
+      "time": "08:45 PM PDT",
       "status": "Go",
-      "net": "2026-08-19T02:00:00Z"
+      "net": "2026-08-19T03:45:08Z"
     },
     {
       "mission": "Starlink Group 10-39",
