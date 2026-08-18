@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-08-18T23:33:03.499061+00:00",
+  "fetched_at": "2026-08-18T23:39:05.676727+00:00",
   "launches": [
-    {
-      "mission": "Flight 2",
-      "rocket": "Zhuque-3",
-      "site": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "country": "China",
-      "date": "Tue Aug 18 2026",
-      "time": "04:35 PM PDT",
-      "status": "Go",
-      "net": "2026-08-18T23:35:00Z"
-    },
     {
       "mission": "Starlink Group 17-50",
       "rocket": "Falcon 9 Block 5",
