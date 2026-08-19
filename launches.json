@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-19T03:27:58.101617+00:00",
+  "fetched_at": "2026-08-19T03:33:59.611489+00:00",
   "launches": [
     {
       "mission": "Starlink Group 17-50",
@@ -86,6 +86,16 @@
       "rocket": "Spectrum",
       "site": "And\u00f8ya Spaceport",
       "country": "Norway",
+      "date": "Sun Aug 30 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-08-31T00:00:00Z"
+    },
+    {
+      "mission": "Glonass-K1 No. 19",
+      "rocket": "Soyuz 2.1b/Fregat",
+      "site": "Plesetsk Cosmodrome, Russian Federation",
+      "country": "Russia",
       "date": "Sun Aug 30 2026",
       "time": "05:00 PM PDT",
       "status": "TBD",
@@ -180,16 +190,6 @@
       "time": "03:34 PM PDT",
       "status": "Go",
       "net": "2026-09-12T22:34:00Z"
-    },
-    {
-      "mission": "Sentinel-3C & FLEX",
-      "rocket": "Vega-C",
-      "site": "Guiana Space Centre, French Guiana",
-      "country": "GUF",
-      "date": "Mon Sep 14 2026",
-      "time": "06:21 PM PDT",
-      "status": "Go",
-      "net": "2026-09-15T01:21:07Z"
     }
   ]
 }
