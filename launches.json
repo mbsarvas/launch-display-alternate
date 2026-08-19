@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-19T01:51:43.409373+00:00",
+  "fetched_at": "2026-08-19T01:57:44.024219+00:00",
   "launches": [
     {
       "mission": "Starlink Group 17-50",
@@ -7,9 +7,9 @@
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
       "date": "Tue Aug 18 2026",
-      "time": "08:46 PM PDT",
+      "time": "09:01 PM PDT",
       "status": "Go",
-      "net": "2026-08-19T03:46:10Z"
+      "net": "2026-08-19T04:01:07Z"
     },
     {
       "mission": "Starlink Group 10-39",
