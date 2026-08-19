@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-19T23:33:50.313327+00:00",
+  "fetched_at": "2026-08-19T23:39:52.326281+00:00",
   "launches": [
     {
       "mission": "The Lightning God Defends (iQPS Launch 8)",
@@ -180,6 +180,16 @@
       "time": "03:34 PM PDT",
       "status": "Go",
       "net": "2026-09-12T22:34:00Z"
+    },
+    {
+      "mission": "Sentinel-3C & FLEX",
+      "rocket": "Vega-C",
+      "site": "Guiana Space Centre, French Guiana",
+      "country": "GUF",
+      "date": "Mon Sep 14 2026",
+      "time": "06:21 PM PDT",
+      "status": "Go",
+      "net": "2026-09-15T01:21:07Z"
     }
   ]
 }
