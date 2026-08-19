@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-19T23:03:41.320520+00:00",
+  "fetched_at": "2026-08-19T23:09:42.967241+00:00",
   "launches": [
     {
       "mission": "The Lightning God Defends (iQPS Launch 8)",
@@ -17,9 +17,9 @@
       "site": "Cape Canaveral SFS, FL, USA",
       "country": "United States",
       "date": "Thu Aug 20 2026",
-      "time": "08:19 AM PDT",
+      "time": "08:38 AM PDT",
       "status": "Go",
-      "net": "2026-08-20T15:19:00Z"
+      "net": "2026-08-20T15:38:44Z"
     },
     {
       "mission": "Starlink Group 15-20",
