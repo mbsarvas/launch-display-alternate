@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-20T12:08:55.127247+00:00",
+  "fetched_at": "2026-08-20T12:14:56.349550+00:00",
   "launches": [
     {
       "mission": "The Lightning God Defends (iQPS Launch 8)",
@@ -37,9 +37,9 @@
       "site": "Wenchang Space Launch Site, People's Republic of China",
       "country": "China",
       "date": "Sun Aug 23 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-08-24T00:00:00Z"
+      "time": "05:05 PM PDT",
+      "status": "Go",
+      "net": "2026-08-24T00:05:00Z"
     },
     {
       "mission": "Starlink Group 10-49",
@@ -102,10 +102,30 @@
       "net": "2026-08-31T00:00:00Z"
     },
     {
+      "mission": "LOXSAT 1",
+      "rocket": "Electron",
+      "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "country": "New Zealand",
+      "date": "Sun Aug 30 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-08-31T00:00:00Z"
+    },
+    {
       "mission": "Demo Flight",
       "rocket": "Mir",
       "site": "Sea Launch",
       "country": "???",
+      "date": "Sun Aug 30 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-08-31T00:00:00Z"
+    },
+    {
+      "mission": "StriX Launch 11",
+      "rocket": "Electron",
+      "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "country": "New Zealand",
       "date": "Sun Aug 30 2026",
       "time": "05:00 PM PDT",
       "status": "TBD",
@@ -136,26 +156,6 @@
       "rocket": "Long March 12A",
       "site": "Jiuquan Satellite Launch Center, People's Republic of China",
       "country": "China",
-      "date": "Sun Aug 30 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-08-31T00:00:00Z"
-    },
-    {
-      "mission": "LOXSAT 1",
-      "rocket": "Electron",
-      "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-      "country": "New Zealand",
-      "date": "Sun Aug 30 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-08-31T00:00:00Z"
-    },
-    {
-      "mission": "StriX Launch 11",
-      "rocket": "Electron",
-      "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-      "country": "New Zealand",
       "date": "Sun Aug 30 2026",
       "time": "05:00 PM PDT",
       "status": "TBD",
