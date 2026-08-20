@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-08-20T13:03:13.836728+00:00",
+  "fetched_at": "2026-08-20T13:09:21.169710+00:00",
   "launches": [
-    {
-      "mission": "The Lightning God Defends (iQPS Launch 8)",
-      "rocket": "Electron",
-      "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-      "country": "New Zealand",
-      "date": "Thu Aug 20 2026",
-      "time": "06:04 AM PDT",
-      "status": "Go",
-      "net": "2026-08-20T13:04:45Z"
-    },
     {
       "mission": "Starlink Group 10-39",
       "rocket": "Falcon 9 Block 5",
