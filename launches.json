@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-20T23:45:02.017094+00:00",
+  "fetched_at": "2026-08-20T23:51:03.430734+00:00",
   "launches": [
     {
       "mission": "Starlink Group 10-39",
@@ -9,7 +9,7 @@
       "date": "Fri Aug 21 2026",
       "time": "08:14 AM PDT",
       "status": "Go",
-      "net": "2026-08-21T15:14:16Z"
+      "net": "2026-08-21T15:14:22Z"
     },
     {
       "mission": "Starlink Group 15-20",
