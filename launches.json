@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-21T14:27:31.978486+00:00",
+  "fetched_at": "2026-08-21T14:33:33.119112+00:00",
   "launches": [
     {
       "mission": "Starlink Group 10-39",
@@ -19,7 +19,7 @@
       "date": "Sat Aug 22 2026",
       "time": "12:25 AM PDT",
       "status": "Go",
-      "net": "2026-08-22T07:25:00Z"
+      "net": "2026-08-22T07:25:09Z"
     },
     {
       "mission": "Chang'e 7",
