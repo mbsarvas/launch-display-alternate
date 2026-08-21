@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-21T13:03:01.287691+00:00",
+  "fetched_at": "2026-08-21T13:09:03.494631+00:00",
   "launches": [
     {
       "mission": "Starlink Group 10-39",
@@ -190,6 +190,16 @@
       "time": "03:34 PM PDT",
       "status": "Go",
       "net": "2026-09-12T22:34:00Z"
+    },
+    {
+      "mission": "Sentinel-3C & FLEX",
+      "rocket": "Vega-C",
+      "site": "Guiana Space Centre, French Guiana",
+      "country": "GUF",
+      "date": "Mon Sep 14 2026",
+      "time": "06:21 PM PDT",
+      "status": "Go",
+      "net": "2026-09-15T01:21:07Z"
     }
   ]
 }
