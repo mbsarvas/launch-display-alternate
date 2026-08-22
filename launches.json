@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-22T15:13:41.773835+00:00",
+  "fetched_at": "2026-08-22T15:19:43.982022+00:00",
   "launches": [
     {
       "mission": "Chang'e 7",
@@ -180,6 +180,16 @@
       "time": "03:34 PM PDT",
       "status": "Go",
       "net": "2026-09-12T22:34:00Z"
+    },
+    {
+      "mission": "Sentinel-3C & FLEX",
+      "rocket": "Vega-C",
+      "site": "Guiana Space Centre, French Guiana",
+      "country": "GUF",
+      "date": "Mon Sep 14 2026",
+      "time": "06:21 PM PDT",
+      "status": "Go",
+      "net": "2026-09-15T01:21:07Z"
     }
   ]
 }
