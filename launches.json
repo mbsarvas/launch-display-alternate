@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-08-22T14:43:14.976388+00:00",
+  "fetched_at": "2026-08-22T14:49:16.744613+00:00",
   "launches": [
     {
       "mission": "Chang'e 7",
       "rocket": "Long March 5",
       "site": "Wenchang Space Launch Site, People's Republic of China",
       "country": "China",
-      "date": "Sun Aug 23 2026",
-      "time": "05:05 PM PDT",
+      "date": "Mon Aug 24 2026",
+      "time": "05:30 PM PDT",
       "status": "Go",
-      "net": "2026-08-24T00:05:00Z"
+      "net": "2026-08-25T00:30:00Z"
     },
     {
       "mission": "Unknown Payload",
