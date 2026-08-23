@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-08-23T13:22:50.285206+00:00",
+  "fetched_at": "2026-08-23T13:28:53.001452+00:00",
   "launches": [
-    {
-      "mission": "Chang'e 7",
-      "rocket": "Long March 5",
-      "site": "Wenchang Space Launch Site, People's Republic of China",
-      "country": "China",
-      "date": "Mon Aug 24 2026",
-      "time": "05:30 PM PDT",
-      "status": "Go",
-      "net": "2026-08-25T00:30:00Z"
-    },
     {
       "mission": "Unknown Payload",
       "rocket": "Long March 6C",
@@ -193,6 +183,16 @@
     },
     {
       "mission": "GISAT-1A (EOS-05)",
+      "rocket": "GSLV Mk II",
+      "site": "Sriharikota",
+      "country": "India",
+      "date": "Tue Sep 29 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-09-30T00:00:00Z"
+    },
+    {
+      "mission": "IRNSS-1L (NVS-03)",
       "rocket": "GSLV Mk II",
       "site": "Sriharikota",
       "country": "India",
