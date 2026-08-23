@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-23T21:32:51.866804+00:00",
+  "fetched_at": "2026-08-23T21:38:53.342132+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -26,10 +26,10 @@
       "rocket": "Falcon 9 Block 5",
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
-      "date": "Tue Aug 25 2026",
-      "time": "02:42 AM PDT",
+      "date": "Wed Aug 26 2026",
+      "time": "02:27 AM PDT",
       "status": "Go",
-      "net": "2026-08-25T09:42:00Z"
+      "net": "2026-08-26T09:27:00Z"
     },
     {
       "mission": "MTG-I2",
