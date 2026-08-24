@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-24T01:40:22.673183+00:00",
+  "fetched_at": "2026-08-24T01:46:25.453086+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -72,30 +72,10 @@
       "net": "2026-08-31T00:00:00Z"
     },
     {
-      "mission": "LOXSAT 1",
-      "rocket": "Electron",
-      "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-      "country": "New Zealand",
-      "date": "Sun Aug 30 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-08-31T00:00:00Z"
-    },
-    {
       "mission": "Demo Flight",
       "rocket": "Mir",
       "site": "Sea Launch",
       "country": "???",
-      "date": "Sun Aug 30 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-08-31T00:00:00Z"
-    },
-    {
-      "mission": "StriX Launch 11",
-      "rocket": "Electron",
-      "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-      "country": "New Zealand",
       "date": "Sun Aug 30 2026",
       "time": "05:00 PM PDT",
       "status": "TBD",
@@ -130,6 +110,16 @@
       "time": "05:00 PM PDT",
       "status": "TBD",
       "net": "2026-08-31T00:00:00Z"
+    },
+    {
+      "mission": "Owl Around The World (StriX Launch 11)",
+      "rocket": "Electron",
+      "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "country": "New Zealand",
+      "date": "Mon Aug 31 2026",
+      "time": "05:00 AM PDT",
+      "status": "Go",
+      "net": "2026-08-31T12:00:00Z"
     },
     {
       "mission": "Starlink Group 15-23",
@@ -196,6 +186,16 @@
       "rocket": "GSLV Mk II",
       "site": "Sriharikota",
       "country": "India",
+      "date": "Tue Sep 29 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-09-30T00:00:00Z"
+    },
+    {
+      "mission": "SDA Tranche 1 Tracking Layer A",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Vandenberg SFB, CA, USA",
+      "country": "United States",
       "date": "Tue Sep 29 2026",
       "time": "05:00 PM PDT",
       "status": "TBD",
