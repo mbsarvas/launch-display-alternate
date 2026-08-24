@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-24T11:26:46.993672+00:00",
+  "fetched_at": "2026-08-24T11:32:49.020748+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -56,16 +56,6 @@
       "rocket": "Spectrum",
       "site": "And\u00f8ya Spaceport",
       "country": "Norway",
-      "date": "Sun Aug 30 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-08-31T00:00:00Z"
-    },
-    {
-      "mission": "Glonass-K1 No. 19",
-      "rocket": "Soyuz 2.1b/Fregat",
-      "site": "Plesetsk Cosmodrome, Russian Federation",
-      "country": "Russia",
       "date": "Sun Aug 30 2026",
       "time": "05:00 PM PDT",
       "status": "TBD",
