@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-24T11:14:43.695633+00:00",
+  "fetched_at": "2026-08-24T11:20:45.670257+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -16,10 +16,10 @@
       "rocket": "Falcon 9 Block 5",
       "site": "Cape Canaveral SFS, FL, USA",
       "country": "United States",
-      "date": "Mon Aug 24 2026",
-      "time": "10:49 PM PDT",
+      "date": "Tue Aug 25 2026",
+      "time": "02:33 AM PDT",
       "status": "Go",
-      "net": "2026-08-25T05:49:00Z"
+      "net": "2026-08-25T09:33:17Z"
     },
     {
       "mission": "Starlink Group 15-22",
