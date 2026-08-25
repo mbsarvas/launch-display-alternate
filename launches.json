@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-08-25T03:16:20.618618+00:00",
+  "fetched_at": "2026-08-25T03:22:30.538962+00:00",
   "launches": [
-    {
-      "mission": "Unknown Payload",
-      "rocket": "Long March 6C",
-      "site": "Taiyuan Satellite Launch Center, People's Republic of China",
-      "country": "China",
-      "date": "Mon Aug 24 2026",
-      "time": "08:20 PM PDT",
-      "status": "Go",
-      "net": "2026-08-25T03:20:00Z"
-    },
     {
       "mission": "Starlink Group 10-49",
       "rocket": "Falcon 9 Block 5",
