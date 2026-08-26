@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-26T03:18:42.188544+00:00",
+  "fetched_at": "2026-08-26T03:24:44.331923+00:00",
   "launches": [
     {
       "mission": "Starlink Group 15-22",
@@ -176,6 +176,16 @@
       "rocket": "Themis Demonstrator",
       "site": "Esrange Space Center",
       "country": "Sweden",
+      "date": "Tue Sep 29 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-09-30T00:00:00Z"
+    },
+    {
+      "mission": "SDA Tranche 1 Transport Layer D",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Vandenberg SFB, CA, USA",
+      "country": "United States",
       "date": "Tue Sep 29 2026",
       "time": "05:00 PM PDT",
       "status": "TBD",
