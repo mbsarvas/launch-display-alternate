@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-08-26T09:33:49.608663+00:00",
+  "fetched_at": "2026-08-26T09:39:50.106352+00:00",
   "launches": [
-    {
-      "mission": "Starlink Group 15-22",
-      "rocket": "Falcon 9 Block 5",
-      "site": "Vandenberg SFB, CA, USA",
-      "country": "United States",
-      "date": "Wed Aug 26 2026",
-      "time": "02:35 AM PDT",
-      "status": "Go",
-      "net": "2026-08-26T09:35:11Z"
-    },
     {
       "mission": "MTG-I2",
       "rocket": "Ariane 62",
@@ -186,6 +176,16 @@
       "rocket": "Falcon 9 Block 5",
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
+      "date": "Tue Sep 29 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-09-30T00:00:00Z"
+    },
+    {
+      "mission": "BlackSky Gen-3 6",
+      "rocket": "Electron",
+      "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "country": "New Zealand",
       "date": "Tue Sep 29 2026",
       "time": "05:00 PM PDT",
       "status": "TBD",
