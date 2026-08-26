@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-26T17:59:34.960734+00:00",
+  "fetched_at": "2026-08-26T18:05:35.679276+00:00",
   "launches": [
     {
       "mission": "MTG-I2",
@@ -87,9 +87,9 @@
       "site": "Baikonur Cosmodrome, Republic of Kazakhstan",
       "country": "Kazakhstan",
       "date": "Wed Sep 09 2026",
-      "time": "09:10 AM PDT",
-      "status": "TBD",
-      "net": "2026-09-09T16:10:00Z"
+      "time": "09:15 AM PDT",
+      "status": "Go",
+      "net": "2026-09-09T16:15:03Z"
     },
     {
       "mission": "Crew-13",
