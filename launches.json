@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-26T10:15:53.805046+00:00",
+  "fetched_at": "2026-08-26T10:21:54.499390+00:00",
   "launches": [
     {
       "mission": "MTG-I2",
@@ -20,16 +20,6 @@
       "time": "04:26 AM PDT",
       "status": "Go",
       "net": "2026-08-30T11:26:00Z"
-    },
-    {
-      "mission": "Demo Flight",
-      "rocket": "Mir",
-      "site": "Sea Launch",
-      "country": "???",
-      "date": "Sun Aug 30 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-08-31T00:00:00Z"
     },
     {
       "mission": "Demo Flight",
@@ -183,6 +173,16 @@
     },
     {
       "mission": "BlackSky Gen-3 6",
+      "rocket": "Electron",
+      "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "country": "New Zealand",
+      "date": "Tue Sep 29 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-09-30T00:00:00Z"
+    },
+    {
+      "mission": "LOXSAT 1",
       "rocket": "Electron",
       "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
       "country": "New Zealand",
