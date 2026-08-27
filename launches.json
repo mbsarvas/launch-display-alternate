@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-27T20:00:21.035576+00:00",
+  "fetched_at": "2026-08-27T20:06:22.520117+00:00",
   "launches": [
     {
       "mission": "MTG-I2",
@@ -7,9 +7,9 @@
       "site": "Guiana Space Centre, French Guiana",
       "country": "GUF",
       "date": "Thu Aug 27 2026",
-      "time": "01:10 PM PDT",
+      "time": "01:11 PM PDT",
       "status": "Go",
-      "net": "2026-08-27T20:10:00Z"
+      "net": "2026-08-27T20:11:00Z"
     },
     {
       "mission": "Nancy Grace Roman Space Telescope",
