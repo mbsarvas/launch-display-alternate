@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-28T20:07:51.515055+00:00",
+  "fetched_at": "2026-08-28T20:13:52.829911+00:00",
   "launches": [
     {
       "mission": "Nancy Grace Roman Space Telescope",
@@ -186,6 +186,16 @@
       "rocket": "Falcon 9 Block 5",
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
+      "date": "Tue Sep 29 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-09-30T00:00:00Z"
+    },
+    {
+      "mission": "Flight 2",
+      "rocket": "Long March 12A",
+      "site": "Jiuquan Satellite Launch Center, People's Republic of China",
+      "country": "China",
       "date": "Tue Sep 29 2026",
       "time": "05:00 PM PDT",
       "status": "TBD",
