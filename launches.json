@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-28T17:36:59.445003+00:00",
+  "fetched_at": "2026-08-28T17:43:03.535471+00:00",
   "launches": [
     {
       "mission": "Nancy Grace Roman Space Telescope",
@@ -10,16 +10,6 @@
       "time": "04:26 AM PDT",
       "status": "Go",
       "net": "2026-08-30T11:26:00Z"
-    },
-    {
-      "mission": "Kosmos (Unknown Payload)",
-      "rocket": "Angara 1.2",
-      "site": "Plesetsk Cosmodrome, Russian Federation",
-      "country": "Russia",
-      "date": "Sun Aug 30 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-08-31T00:00:00Z"
     },
     {
       "mission": "Owl Around The World (StriX Launch 11)",
@@ -186,6 +176,16 @@
       "rocket": "Electron",
       "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
       "country": "New Zealand",
+      "date": "Tue Sep 29 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-09-30T00:00:00Z"
+    },
+    {
+      "mission": "SDA Tranche 1 Transport Layer A",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Vandenberg SFB, CA, USA",
+      "country": "United States",
       "date": "Tue Sep 29 2026",
       "time": "05:00 PM PDT",
       "status": "TBD",
