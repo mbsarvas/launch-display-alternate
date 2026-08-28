@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-28T18:37:31.316732+00:00",
+  "fetched_at": "2026-08-28T18:43:33.043786+00:00",
   "launches": [
     {
       "mission": "Nancy Grace Roman Space Telescope",
@@ -66,10 +66,10 @@
       "rocket": "Falcon 9 Block 5",
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
-      "date": "Sat Sep 05 2026",
-      "time": "04:13 AM PDT",
+      "date": "Sun Sep 06 2026",
+      "time": "03:59 AM PDT",
       "status": "Go",
-      "net": "2026-09-05T11:13:00Z"
+      "net": "2026-09-06T10:59:00Z"
     },
     {
       "mission": "Progress MS-35 (96P)",
