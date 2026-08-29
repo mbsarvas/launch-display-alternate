@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-29T12:43:22.886721+00:00",
+  "fetched_at": "2026-08-29T12:49:25.857867+00:00",
   "launches": [
     {
       "mission": "Nancy Grace Roman Space Telescope",
@@ -102,16 +102,6 @@
       "net": "2026-09-15T01:21:07Z"
     },
     {
-      "mission": "IRNSS-1L (NVS-03)",
-      "rocket": "GSLV Mk II",
-      "site": "Sriharikota",
-      "country": "India",
-      "date": "Tue Sep 29 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-09-30T00:00:00Z"
-    },
-    {
       "mission": "T1H-1",
       "rocket": "Themis Demonstrator",
       "site": "Esrange Space Center",
@@ -196,6 +186,16 @@
       "rocket": "Long March 12A",
       "site": "Jiuquan Satellite Launch Center, People's Republic of China",
       "country": "China",
+      "date": "Tue Sep 29 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-09-30T00:00:00Z"
+    },
+    {
+      "mission": "Amazon Leo (LV-01)",
+      "rocket": "Vulcan VC6L",
+      "site": "Cape Canaveral SFS, FL, USA",
+      "country": "United States",
       "date": "Tue Sep 29 2026",
       "time": "05:00 PM PDT",
       "status": "TBD",
