@@ -1,4 +1,205 @@
 {
-  "fetched_at": "2026-08-29T10:30:25.532832+00:00",
-  "launches": []
+  "fetched_at": "2026-08-29T10:36:27.314791+00:00",
+  "launches": [
+    {
+      "mission": "Nancy Grace Roman Space Telescope",
+      "rocket": "Falcon Heavy",
+      "site": "Kennedy SC",
+      "country": "United States",
+      "date": "Sun Aug 30 2026",
+      "time": "04:26 AM PDT",
+      "status": "Go",
+      "net": "2026-08-30T11:26:00Z"
+    },
+    {
+      "mission": "Owl Around The World (StriX Launch 11)",
+      "rocket": "Electron",
+      "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "country": "New Zealand",
+      "date": "Mon Aug 31 2026",
+      "time": "05:05 AM PDT",
+      "status": "Go",
+      "net": "2026-08-31T12:05:00Z"
+    },
+    {
+      "mission": "Demo Flight",
+      "rocket": "Pallas-1",
+      "site": "Jiuquan Satellite Launch Center, People's Republic of China",
+      "country": "China",
+      "date": "Mon Aug 31 2026",
+      "time": "07:00 PM PDT",
+      "status": "Go",
+      "net": "2026-09-01T02:00:00Z"
+    },
+    {
+      "mission": "Starlink Group 15-23",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Vandenberg SFB, CA, USA",
+      "country": "United States",
+      "date": "Wed Sep 02 2026",
+      "time": "12:46 AM PDT",
+      "status": "Go",
+      "net": "2026-09-02T07:46:00Z"
+    },
+    {
+      "mission": "GISAT-1A (EOS-05)",
+      "rocket": "GSLV Mk II",
+      "site": "Sriharikota",
+      "country": "India",
+      "date": "Thu Sep 03 2026",
+      "time": "02:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-09-03T21:00:00Z"
+    },
+    {
+      "mission": "Onward and Upward",
+      "rocket": "Spectrum",
+      "site": "And\u00f8ya Spaceport",
+      "country": "Norway",
+      "date": "Fri Sep 04 2026",
+      "time": "01:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-09-04T20:00:00Z"
+    },
+    {
+      "mission": "Starlink Group 15-24",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Vandenberg SFB, CA, USA",
+      "country": "United States",
+      "date": "Sun Sep 06 2026",
+      "time": "03:59 AM PDT",
+      "status": "Go",
+      "net": "2026-09-06T10:59:00Z"
+    },
+    {
+      "mission": "Progress MS-35 (96P)",
+      "rocket": "Soyuz 2.1b",
+      "site": "Baikonur Cosmodrome, Republic of Kazakhstan",
+      "country": "Kazakhstan",
+      "date": "Wed Sep 09 2026",
+      "time": "09:15 AM PDT",
+      "status": "Go",
+      "net": "2026-09-09T16:15:03Z"
+    },
+    {
+      "mission": "Crew-13",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Cape Canaveral SFS, FL, USA",
+      "country": "United States",
+      "date": "Sat Sep 12 2026",
+      "time": "03:34 PM PDT",
+      "status": "Go",
+      "net": "2026-09-12T22:34:00Z"
+    },
+    {
+      "mission": "Sentinel-3C & FLEX",
+      "rocket": "Vega-C",
+      "site": "Guiana Space Centre, French Guiana",
+      "country": "GUF",
+      "date": "Mon Sep 14 2026",
+      "time": "06:21 PM PDT",
+      "status": "Go",
+      "net": "2026-09-15T01:21:07Z"
+    },
+    {
+      "mission": "IRNSS-1L (NVS-03)",
+      "rocket": "GSLV Mk II",
+      "site": "Sriharikota",
+      "country": "India",
+      "date": "Tue Sep 29 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-09-30T00:00:00Z"
+    },
+    {
+      "mission": "T1H-1",
+      "rocket": "Themis Demonstrator",
+      "site": "Esrange Space Center",
+      "country": "Sweden",
+      "date": "Tue Sep 29 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-09-30T00:00:00Z"
+    },
+    {
+      "mission": "BlackSky Gen-3 6",
+      "rocket": "Electron",
+      "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "country": "New Zealand",
+      "date": "Tue Sep 29 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-09-30T00:00:00Z"
+    },
+    {
+      "mission": "LOXSAT 1",
+      "rocket": "Electron",
+      "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "country": "New Zealand",
+      "date": "Tue Sep 29 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-09-30T00:00:00Z"
+    },
+    {
+      "mission": "6x HawkEye 360",
+      "rocket": "Electron",
+      "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "country": "New Zealand",
+      "date": "Tue Sep 29 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-09-30T00:00:00Z"
+    },
+    {
+      "mission": "Flight 14",
+      "rocket": "Starship",
+      "site": "SpaceX Starbase, TX, USA",
+      "country": "United States",
+      "date": "Tue Sep 29 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-09-30T00:00:00Z"
+    },
+    {
+      "mission": "O3b mPower 11-13",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Cape Canaveral SFS, FL, USA",
+      "country": "United States",
+      "date": "Tue Sep 29 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-09-30T00:00:00Z"
+    },
+    {
+      "mission": "BlackSky Gen-3 5",
+      "rocket": "Electron",
+      "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "country": "New Zealand",
+      "date": "Tue Sep 29 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-09-30T00:00:00Z"
+    },
+    {
+      "mission": "SDA Tranche 1 Transport Layer A",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Vandenberg SFB, CA, USA",
+      "country": "United States",
+      "date": "Tue Sep 29 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-09-30T00:00:00Z"
+    },
+    {
+      "mission": "Flight 2",
+      "rocket": "Long March 12A",
+      "site": "Jiuquan Satellite Launch Center, People's Republic of China",
+      "country": "China",
+      "date": "Tue Sep 29 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-09-30T00:00:00Z"
+    }
+  ]
 }
