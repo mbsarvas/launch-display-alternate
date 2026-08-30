@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-30T01:29:21.102699+00:00",
+  "fetched_at": "2026-08-30T01:35:23.207316+00:00",
   "launches": [
     {
       "mission": "Nancy Grace Roman Space Telescope",
@@ -82,16 +82,6 @@
       "net": "2026-09-09T16:15:03Z"
     },
     {
-      "mission": "Crew-13",
-      "rocket": "Falcon 9 Block 5",
-      "site": "Cape Canaveral SFS, FL, USA",
-      "country": "United States",
-      "date": "Sat Sep 12 2026",
-      "time": "03:34 PM PDT",
-      "status": "Go",
-      "net": "2026-09-12T22:34:00Z"
-    },
-    {
       "mission": "Sentinel-3C & FLEX",
       "rocket": "Vega-C",
       "site": "Guiana Space Centre, French Guiana",
@@ -142,6 +132,46 @@
       "net": "2026-09-30T00:00:00Z"
     },
     {
+      "mission": "BlackSky Gen-3 5",
+      "rocket": "Electron",
+      "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "country": "New Zealand",
+      "date": "Tue Sep 29 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-09-30T00:00:00Z"
+    },
+    {
+      "mission": "Flight 2",
+      "rocket": "Long March 12A",
+      "site": "Jiuquan Satellite Launch Center, People's Republic of China",
+      "country": "China",
+      "date": "Tue Sep 29 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-09-30T00:00:00Z"
+    },
+    {
+      "mission": "Amazon Leo (LV-01)",
+      "rocket": "Vulcan VC6L",
+      "site": "Cape Canaveral SFS, FL, USA",
+      "country": "United States",
+      "date": "Tue Sep 29 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-09-30T00:00:00Z"
+    },
+    {
+      "mission": "Crew-13",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Cape Canaveral SFS, FL, USA",
+      "country": "United States",
+      "date": "Tue Sep 29 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-09-30T00:00:00Z"
+    },
+    {
       "mission": "Flight 14",
       "rocket": "Starship",
       "site": "SpaceX Starbase, TX, USA",
@@ -162,39 +192,9 @@
       "net": "2026-09-30T00:00:00Z"
     },
     {
-      "mission": "BlackSky Gen-3 5",
-      "rocket": "Electron",
-      "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-      "country": "New Zealand",
-      "date": "Tue Sep 29 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-09-30T00:00:00Z"
-    },
-    {
       "mission": "SDA Tranche 1 Transport Layer A",
       "rocket": "Falcon 9 Block 5",
       "site": "Vandenberg SFB, CA, USA",
-      "country": "United States",
-      "date": "Tue Sep 29 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-09-30T00:00:00Z"
-    },
-    {
-      "mission": "Flight 2",
-      "rocket": "Long March 12A",
-      "site": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "country": "China",
-      "date": "Tue Sep 29 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-09-30T00:00:00Z"
-    },
-    {
-      "mission": "Amazon Leo (LV-01)",
-      "rocket": "Vulcan VC6L",
-      "site": "Cape Canaveral SFS, FL, USA",
       "country": "United States",
       "date": "Tue Sep 29 2026",
       "time": "05:00 PM PDT",
