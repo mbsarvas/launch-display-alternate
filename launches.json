@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-30T09:44:23.312216+00:00",
+  "fetched_at": "2026-08-30T09:50:25.133392+00:00",
   "launches": [
     {
       "mission": "Nancy Grace Roman Space Telescope",
@@ -7,9 +7,9 @@
       "site": "Kennedy SC",
       "country": "United States",
       "date": "Sun Aug 30 2026",
-      "time": "04:25 AM PDT",
+      "time": "04:26 AM PDT",
       "status": "Go",
-      "net": "2026-08-30T11:25:49Z"
+      "net": "2026-08-30T11:26:04Z"
     },
     {
       "mission": "Owl Around The World (StriX Launch 11)",
