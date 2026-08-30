@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-30T12:28:17.763358+00:00",
+  "fetched_at": "2026-08-30T12:34:19.308714+00:00",
   "launches": [
     {
       "mission": "Owl Around The World (StriX Launch 11)",
@@ -70,6 +70,16 @@
       "time": "09:15 AM PDT",
       "status": "Go",
       "net": "2026-09-09T16:15:03Z"
+    },
+    {
+      "mission": "Unknown Payload",
+      "rocket": "Long March 8A",
+      "site": "Wenchang Space Launch Site, People's Republic of China",
+      "country": "China",
+      "date": "Fri Sep 11 2026",
+      "time": "09:00 AM PDT",
+      "status": "TBD",
+      "net": "2026-09-11T16:00:00Z"
     },
     {
       "mission": "Sentinel-3C & FLEX",
@@ -176,16 +186,6 @@
       "rocket": "Long March 12A",
       "site": "Jiuquan Satellite Launch Center, People's Republic of China",
       "country": "China",
-      "date": "Tue Sep 29 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-09-30T00:00:00Z"
-    },
-    {
-      "mission": "Amazon Leo (LV-01)",
-      "rocket": "Vulcan VC6L",
-      "site": "Cape Canaveral SFS, FL, USA",
-      "country": "United States",
       "date": "Tue Sep 29 2026",
       "time": "05:00 PM PDT",
       "status": "TBD",
