@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-08-31T13:20:29.302199+00:00",
+  "fetched_at": "2026-08-31T13:26:30.482332+00:00",
   "launches": [
     {
       "mission": "Demo Flight",
@@ -17,9 +17,9 @@
       "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
       "country": "New Zealand",
       "date": "Tue Sep 01 2026",
-      "time": "04:30 AM PDT",
+      "time": "04:38 AM PDT",
       "status": "Go",
-      "net": "2026-09-01T11:30:00Z"
+      "net": "2026-09-01T11:38:00Z"
     },
     {
       "mission": "Starlink Group 15-23",
