@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T17:35:17.314872+00:00",
+  "fetched_at": "2026-09-02T17:41:20.007052+00:00",
   "launches": [
     {
       "mission": "GISAT-1A (EOS-05)",
@@ -52,13 +52,13 @@
       "net": "2026-09-09T16:15:03Z"
     },
     {
-      "mission": "USSF-xxx (\"R-2\")",
+      "mission": "USSF-153",
       "rocket": "Falcon 9 Block 5",
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
       "date": "Thu Sep 10 2026",
       "time": "08:37 AM PDT",
-      "status": "TBD",
+      "status": "Go",
       "net": "2026-09-10T15:37:00Z"
     },
     {
