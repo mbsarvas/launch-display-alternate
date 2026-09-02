@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-09-02T11:57:13.120058+00:00",
+  "fetched_at": "2026-09-02T12:03:14.525589+00:00",
   "launches": [
-    {
-      "mission": "Owl Around The World (StriX Launch 11)",
-      "rocket": "Electron",
-      "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-      "country": "New Zealand",
-      "date": "Wed Sep 02 2026",
-      "time": "05:01 AM PDT",
-      "status": "Go",
-      "net": "2026-09-02T12:01:00Z"
-    },
     {
       "mission": "GISAT-1A (EOS-05)",
       "rocket": "GSLV Mk II",
