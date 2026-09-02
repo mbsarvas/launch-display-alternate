@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T13:09:37.814887+00:00",
+  "fetched_at": "2026-09-02T13:15:38.876114+00:00",
   "launches": [
     {
       "mission": "GISAT-1A (EOS-05)",
@@ -30,6 +30,16 @@
       "time": "03:59 AM PDT",
       "status": "Go",
       "net": "2026-09-06T10:59:00Z"
+    },
+    {
+      "mission": "Unknown Payload",
+      "rocket": "Long March 2D/YZ-3",
+      "site": "Jiuquan Satellite Launch Center, People's Republic of China",
+      "country": "China",
+      "date": "Wed Sep 09 2026",
+      "time": "02:00 AM PDT",
+      "status": "Go",
+      "net": "2026-09-09T09:00:00Z"
     },
     {
       "mission": "Progress MS-35 (96P)",
@@ -166,16 +176,6 @@
       "rocket": "Long March 12A",
       "site": "Jiuquan Satellite Launch Center, People's Republic of China",
       "country": "China",
-      "date": "Tue Sep 29 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-09-30T00:00:00Z"
-    },
-    {
-      "mission": "Amazon Leo (LV-01)",
-      "rocket": "Vulcan VC6L",
-      "site": "Cape Canaveral SFS, FL, USA",
-      "country": "United States",
       "date": "Tue Sep 29 2026",
       "time": "05:00 PM PDT",
       "status": "TBD",
