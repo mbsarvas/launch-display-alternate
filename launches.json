@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-09-02T08:38:25.142171+00:00",
+  "fetched_at": "2026-09-02T08:44:26.482398+00:00",
   "launches": [
-    {
-      "mission": "Starlink Group 15-23",
-      "rocket": "Falcon 9 Block 5",
-      "site": "Vandenberg SFB, CA, USA",
-      "country": "United States",
-      "date": "Wed Sep 02 2026",
-      "time": "01:42 AM PDT",
-      "status": "Go",
-      "net": "2026-09-02T08:42:12Z"
-    },
     {
       "mission": "Owl Around The World (StriX Launch 11)",
       "rocket": "Electron",
