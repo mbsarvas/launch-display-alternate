@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-02T04:06:49.762782+00:00",
+  "fetched_at": "2026-09-02T04:12:51.203839+00:00",
   "launches": [
     {
       "mission": "Starlink Group 15-23",
@@ -7,9 +7,9 @@
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
       "date": "Wed Sep 02 2026",
-      "time": "01:18 AM PDT",
+      "time": "01:42 AM PDT",
       "status": "Go",
-      "net": "2026-09-02T08:18:09Z"
+      "net": "2026-09-02T08:42:12Z"
     },
     {
       "mission": "Owl Around The World (StriX Launch 11)",
