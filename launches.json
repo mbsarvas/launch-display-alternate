@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-09-03T21:20:12.454979+00:00",
+  "fetched_at": "2026-09-03T21:26:14.433487+00:00",
   "launches": [
-    {
-      "mission": "GISAT-1A (EOS-05)",
-      "rocket": "GSLV Mk II",
-      "site": "Sriharikota",
-      "country": "India",
-      "date": "Thu Sep 03 2026",
-      "time": "02:25 PM PDT",
-      "status": "Go",
-      "net": "2026-09-03T21:25:00Z"
-    },
     {
       "mission": "Onward and Upward",
       "rocket": "Spectrum",
