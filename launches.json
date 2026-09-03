@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-03T11:58:40.575111+00:00",
+  "fetched_at": "2026-09-03T12:04:41.442193+00:00",
   "launches": [
     {
       "mission": "GISAT-1A (EOS-05)",
@@ -190,6 +190,16 @@
       "time": "05:00 PM PDT",
       "status": "TBD",
       "net": "2026-09-30T00:00:00Z"
+    },
+    {
+      "mission": "Amazon Leo (LE-04)",
+      "rocket": "Ariane 64 Block 2",
+      "site": "Guiana Space Centre, French Guiana",
+      "country": "GUF",
+      "date": "Tue Oct 06 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-10-07T00:00:00Z"
     }
   ]
 }
