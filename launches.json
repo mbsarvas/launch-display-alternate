@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T21:22:53.565053+00:00",
+  "fetched_at": "2026-09-04T21:28:56.110032+00:00",
   "launches": [
     {
       "mission": "Onward and Upward",
@@ -190,6 +190,16 @@
       "time": "05:00 PM PDT",
       "status": "TBD",
       "net": "2026-10-07T00:00:00Z"
+    },
+    {
+      "mission": "NeonSat-2 to 6",
+      "rocket": "Nuri",
+      "site": "Naro SC, Korea",
+      "country": "South Korea",
+      "date": "Tue Oct 06 2026",
+      "time": "08:23 PM PDT",
+      "status": "Go",
+      "net": "2026-10-07T03:23:00Z"
     }
   ]
 }
