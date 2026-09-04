@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-04T19:16:07.021112+00:00",
+  "fetched_at": "2026-09-04T19:22:07.551791+00:00",
   "launches": [
     {
       "mission": "Onward and Upward",
@@ -60,6 +60,16 @@
       "time": "09:00 AM PDT",
       "status": "TBD",
       "net": "2026-09-11T16:00:00Z"
+    },
+    {
+      "mission": "O3b mPower 11-13",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Cape Canaveral SFS, FL, USA",
+      "country": "United States",
+      "date": "Sun Sep 13 2026",
+      "time": "11:50 AM PDT",
+      "status": "TBD",
+      "net": "2026-09-13T18:50:00Z"
     },
     {
       "mission": "Sentinel-3C & FLEX",
@@ -125,16 +135,6 @@
       "mission": "Flight 14",
       "rocket": "Starship",
       "site": "SpaceX Starbase, TX, USA",
-      "country": "United States",
-      "date": "Tue Sep 29 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-09-30T00:00:00Z"
-    },
-    {
-      "mission": "O3b mPower 11-13",
-      "rocket": "Falcon 9 Block 5",
-      "site": "Cape Canaveral SFS, FL, USA",
       "country": "United States",
       "date": "Tue Sep 29 2026",
       "time": "05:00 PM PDT",
