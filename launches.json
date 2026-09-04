@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-09-04T13:01:45.776339+00:00",
+  "fetched_at": "2026-09-04T13:07:46.604795+00:00",
   "launches": [
-    {
-      "mission": "Onward and Upward",
-      "rocket": "Spectrum",
-      "site": "And\u00f8ya Spaceport",
-      "country": "Norway",
-      "date": "Fri Sep 04 2026",
-      "time": "01:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-09-04T20:00:00Z"
-    },
     {
       "mission": "Starlink Group 15-24",
       "rocket": "Falcon 9 Block 5",
@@ -76,6 +66,16 @@
       "rocket": "Falcon 9 Block 5",
       "site": "Cape Canaveral SFS, FL, USA",
       "country": "United States",
+      "date": "Tue Sep 29 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-09-30T00:00:00Z"
+    },
+    {
+      "mission": "Onward and Upward",
+      "rocket": "Spectrum",
+      "site": "And\u00f8ya Spaceport",
+      "country": "Norway",
       "date": "Tue Sep 29 2026",
       "time": "05:00 PM PDT",
       "status": "TBD",
