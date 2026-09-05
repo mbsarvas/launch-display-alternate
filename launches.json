@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-05T10:57:52.701244+00:00",
+  "fetched_at": "2026-09-05T11:03:54.214748+00:00",
   "launches": [
     {
       "mission": "Onward and Upward",
@@ -8,7 +8,7 @@
       "country": "Norway",
       "date": "Sat Sep 05 2026",
       "time": "01:00 PM PDT",
-      "status": "TBD",
+      "status": "Go",
       "net": "2026-09-05T20:00:00Z"
     },
     {
