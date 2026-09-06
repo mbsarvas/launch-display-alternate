@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-09-06T14:23:47.533725+00:00",
+  "fetched_at": "2026-09-06T14:29:48.557411+00:00",
   "launches": [
-    {
-      "mission": "Starlink Group 15-24",
-      "rocket": "Falcon 9 Block 5",
-      "site": "Vandenberg SFB, CA, USA",
-      "country": "United States",
-      "date": "Sun Sep 06 2026",
-      "time": "07:26 AM PDT",
-      "status": "Go",
-      "net": "2026-09-06T14:26:54Z"
-    },
     {
       "mission": "Unknown Payload",
       "rocket": "Long March 2D/YZ-3",
