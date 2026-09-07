@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-09-07T16:26:01.113807+00:00",
+  "fetched_at": "2026-09-07T16:32:03.100440+00:00",
   "launches": [
-    {
-      "mission": "Unknown Payload",
-      "rocket": "Long March 2D/YZ-3",
-      "site": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "country": "China",
-      "date": "Wed Sep 09 2026",
-      "time": "02:00 AM PDT",
-      "status": "Go",
-      "net": "2026-09-09T09:00:00Z"
-    },
     {
       "mission": "Progress MS-35 (96P)",
       "rocket": "Soyuz 2.1b",
@@ -20,6 +10,16 @@
       "time": "09:15 AM PDT",
       "status": "Go",
       "net": "2026-09-09T16:15:03Z"
+    },
+    {
+      "mission": "Unknown Payload",
+      "rocket": "Long March 2D/YZ-3",
+      "site": "Jiuquan Satellite Launch Center, People's Republic of China",
+      "country": "China",
+      "date": "Thu Sep 10 2026",
+      "time": "02:00 AM PDT",
+      "status": "Go",
+      "net": "2026-09-10T09:00:00Z"
     },
     {
       "mission": "USSF-153",
