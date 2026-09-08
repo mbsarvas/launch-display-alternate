@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-09-08T16:10:41.339842+00:00",
+  "fetched_at": "2026-09-08T16:16:48.368893+00:00",
   "launches": [
-    {
-      "mission": "Progress MS-35 (96P)",
-      "rocket": "Soyuz 2.1b",
-      "site": "Baikonur Cosmodrome, Republic of Kazakhstan",
-      "country": "Kazakhstan",
-      "date": "Wed Sep 09 2026",
-      "time": "09:15 AM PDT",
-      "status": "Go",
-      "net": "2026-09-09T16:15:03Z"
-    },
     {
       "mission": "Unknown Payload",
       "rocket": "Long March 2D/YZ-3",
@@ -70,6 +60,16 @@
       "time": "06:21 PM PDT",
       "status": "Go",
       "net": "2026-09-15T01:21:07Z"
+    },
+    {
+      "mission": "Progress MS-35 (96P)",
+      "rocket": "Soyuz 2.1b",
+      "site": "Baikonur Cosmodrome, Republic of Kazakhstan",
+      "country": "Kazakhstan",
+      "date": "Tue Sep 15 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-09-16T00:00:00Z"
     },
     {
       "mission": "Starlink Group 15-27",
