@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-08T16:04:39.319033+00:00",
+  "fetched_at": "2026-09-08T16:10:41.339842+00:00",
   "launches": [
     {
       "mission": "Progress MS-35 (96P)",
@@ -50,6 +50,16 @@
       "time": "11:50 AM PDT",
       "status": "TBD",
       "net": "2026-09-13T18:50:00Z"
+    },
+    {
+      "mission": "Flight 14",
+      "rocket": "Starship",
+      "site": "SpaceX Starbase, TX, USA",
+      "country": "United States",
+      "date": "Mon Sep 14 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-09-15T00:00:00Z"
     },
     {
       "mission": "Sentinel-3C & FLEX",
@@ -116,16 +126,6 @@
       "rocket": "Electron",
       "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
       "country": "New Zealand",
-      "date": "Tue Sep 29 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-09-30T00:00:00Z"
-    },
-    {
-      "mission": "Flight 14",
-      "rocket": "Starship",
-      "site": "SpaceX Starbase, TX, USA",
-      "country": "United States",
       "date": "Tue Sep 29 2026",
       "time": "05:00 PM PDT",
       "status": "TBD",
