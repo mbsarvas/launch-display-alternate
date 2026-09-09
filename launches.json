@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-09T16:03:11.813987+00:00",
+  "fetched_at": "2026-09-09T16:09:14.488543+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -60,6 +60,16 @@
       "time": "02:55 PM PDT",
       "status": "Go",
       "net": "2026-09-15T21:55:00Z"
+    },
+    {
+      "mission": "USSF-259",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Vandenberg SFB, CA, USA",
+      "country": "United States",
+      "date": "Tue Sep 15 2026",
+      "time": "06:00 PM PDT",
+      "status": "Go",
+      "net": "2026-09-16T01:00:00Z"
     },
     {
       "mission": "Progress MS-35 (96P)",
@@ -190,16 +200,6 @@
       "time": "05:00 PM PDT",
       "status": "TBD",
       "net": "2026-09-30T00:00:00Z"
-    },
-    {
-      "mission": "Amazon Leo (LE-04)",
-      "rocket": "Ariane 64 Block 2",
-      "site": "Guiana Space Centre, French Guiana",
-      "country": "GUF",
-      "date": "Tue Oct 06 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-10-07T00:00:00Z"
     }
   ]
 }
