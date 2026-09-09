@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-09T15:20:55.417218+00:00",
+  "fetched_at": "2026-09-09T15:26:57.542669+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -27,9 +27,9 @@
       "site": "Cape Canaveral SFS, FL, USA",
       "country": "United States",
       "date": "Sun Sep 13 2026",
-      "time": "11:50 AM PDT",
-      "status": "TBD",
-      "net": "2026-09-13T18:50:00Z"
+      "time": "11:49 AM PDT",
+      "status": "Go",
+      "net": "2026-09-13T18:49:00Z"
     },
     {
       "mission": "Flight 14",
