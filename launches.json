@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-09T15:39:01.896742+00:00",
+  "fetched_at": "2026-09-09T15:45:05.382888+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -66,10 +66,10 @@
       "rocket": "Soyuz 2.1b",
       "site": "Baikonur Cosmodrome, Republic of Kazakhstan",
       "country": "Kazakhstan",
-      "date": "Tue Sep 15 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-09-16T00:00:00Z"
+      "date": "Wed Sep 16 2026",
+      "time": "06:33 AM PDT",
+      "status": "Go",
+      "net": "2026-09-16T13:33:53Z"
     },
     {
       "mission": "Unknown Payload",
