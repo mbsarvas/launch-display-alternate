@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-09T12:14:11.364901+00:00",
+  "fetched_at": "2026-09-09T12:20:13.254961+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -50,6 +50,16 @@
       "time": "06:21 PM PDT",
       "status": "Go",
       "net": "2026-09-15T01:21:07Z"
+    },
+    {
+      "mission": "Unknown Payload",
+      "rocket": "Gravity-1",
+      "site": "Haiyang Oriental Spaceport",
+      "country": "China",
+      "date": "Tue Sep 15 2026",
+      "time": "02:55 PM PDT",
+      "status": "Go",
+      "net": "2026-09-15T21:55:00Z"
     },
     {
       "mission": "Progress MS-35 (96P)",
@@ -190,16 +200,6 @@
       "time": "05:00 PM PDT",
       "status": "TBD",
       "net": "2026-10-07T00:00:00Z"
-    },
-    {
-      "mission": "NeonSat-2 to 6",
-      "rocket": "Nuri",
-      "site": "Naro SC, Korea",
-      "country": "South Korea",
-      "date": "Tue Oct 06 2026",
-      "time": "08:23 PM PDT",
-      "status": "Go",
-      "net": "2026-10-07T03:23:00Z"
     }
   ]
 }
