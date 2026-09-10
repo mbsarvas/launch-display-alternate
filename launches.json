@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-09-10T15:37:10.774990+00:00",
+  "fetched_at": "2026-09-10T15:43:12.674448+00:00",
   "launches": [
-    {
-      "mission": "USSF-153",
-      "rocket": "Falcon 9 Block 5",
-      "site": "Vandenberg SFB, CA, USA",
-      "country": "United States",
-      "date": "Thu Sep 10 2026",
-      "time": "08:42 AM PDT",
-      "status": "Go",
-      "net": "2026-09-10T15:42:30Z"
-    },
     {
       "mission": "O3b mPower 11-13",
       "rocket": "Falcon 9 Block 5",
