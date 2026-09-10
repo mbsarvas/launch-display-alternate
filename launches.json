@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-10T17:07:50.295154+00:00",
+  "fetched_at": "2026-09-10T17:13:51.893908+00:00",
   "launches": [
     {
       "mission": "O3b mPower 11-13",
@@ -10,16 +10,6 @@
       "time": "11:49 AM PDT",
       "status": "Go",
       "net": "2026-09-13T18:49:00Z"
-    },
-    {
-      "mission": "Flight 14",
-      "rocket": "Starship",
-      "site": "SpaceX Starbase, TX, USA",
-      "country": "United States",
-      "date": "Mon Sep 14 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-09-15T00:00:00Z"
     },
     {
       "mission": "Sentinel-3C & FLEX",
@@ -80,6 +70,16 @@
       "time": "05:30 PM PDT",
       "status": "Go",
       "net": "2026-09-17T00:30:00Z"
+    },
+    {
+      "mission": "Flight 14",
+      "rocket": "Starship",
+      "site": "SpaceX Starbase, TX, USA",
+      "country": "United States",
+      "date": "Thu Sep 17 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-09-18T00:00:00Z"
     },
     {
       "mission": "Starlink Group 15-27",
