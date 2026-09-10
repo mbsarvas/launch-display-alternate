@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-10T01:24:54.621067+00:00",
+  "fetched_at": "2026-09-10T01:30:58.675417+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -17,9 +17,9 @@
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
       "date": "Thu Sep 10 2026",
-      "time": "08:37 AM PDT",
+      "time": "08:42 AM PDT",
       "status": "Go",
-      "net": "2026-09-10T15:37:00Z"
+      "net": "2026-09-10T15:42:00Z"
     },
     {
       "mission": "O3b mPower 11-13",
