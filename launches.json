@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-09-10T08:57:34.863670+00:00",
+  "fetched_at": "2026-09-10T09:03:37.456292+00:00",
   "launches": [
-    {
-      "mission": "Unknown Payload",
-      "rocket": "Long March 2D/YZ-3",
-      "site": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "country": "China",
-      "date": "Thu Sep 10 2026",
-      "time": "02:00 AM PDT",
-      "status": "Go",
-      "net": "2026-09-10T09:00:00Z"
-    },
     {
       "mission": "USSF-153",
       "rocket": "Falcon 9 Block 5",
