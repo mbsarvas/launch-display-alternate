@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11T05:37:31.959914+00:00",
+  "fetched_at": "2026-09-11T05:43:33.395822+00:00",
   "launches": [
     {
       "mission": "O3b mPower 11-13",
@@ -92,6 +92,16 @@
       "net": "2026-09-18T00:00:00Z"
     },
     {
+      "mission": "Unknown Payload",
+      "rocket": "Long March 2D",
+      "site": "Taiyuan Satellite Launch Center, People's Republic of China",
+      "country": "China",
+      "date": "Sat Sep 19 2026",
+      "time": "03:50 AM PDT",
+      "status": "Go",
+      "net": "2026-09-19T10:50:00Z"
+    },
+    {
       "mission": "Starlink Group 15-27",
       "rocket": "Falcon 9 Block 5",
       "site": "Vandenberg SFB, CA, USA",
@@ -156,16 +166,6 @@
       "rocket": "Electron",
       "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
       "country": "New Zealand",
-      "date": "Tue Sep 29 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-09-30T00:00:00Z"
-    },
-    {
-      "mission": "SDA Tranche 1 Transport Layer A",
-      "rocket": "Falcon 9 Block 5",
-      "site": "Vandenberg SFB, CA, USA",
-      "country": "United States",
       "date": "Tue Sep 29 2026",
       "time": "05:00 PM PDT",
       "status": "TBD",
