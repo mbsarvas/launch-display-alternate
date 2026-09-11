@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11T05:31:31.019070+00:00",
+  "fetched_at": "2026-09-11T05:37:31.959914+00:00",
   "launches": [
     {
       "mission": "O3b mPower 11-13",
@@ -70,6 +70,16 @@
       "time": "05:30 PM PDT",
       "status": "Go",
       "net": "2026-09-17T00:30:00Z"
+    },
+    {
+      "mission": "Unknown Payload",
+      "rocket": "Kuaizhou 11",
+      "site": "Jiuquan Satellite Launch Center, People's Republic of China",
+      "country": "China",
+      "date": "Wed Sep 16 2026",
+      "time": "07:35 PM PDT",
+      "status": "Go",
+      "net": "2026-09-17T02:35:00Z"
     },
     {
       "mission": "Flight 14",
@@ -156,16 +166,6 @@
       "rocket": "Falcon 9 Block 5",
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
-      "date": "Tue Sep 29 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-09-30T00:00:00Z"
-    },
-    {
-      "mission": "Flight 2",
-      "rocket": "Long March 12A",
-      "site": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "country": "China",
       "date": "Tue Sep 29 2026",
       "time": "05:00 PM PDT",
       "status": "TBD",
