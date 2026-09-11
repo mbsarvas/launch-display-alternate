@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11T20:42:49.296806+00:00",
+  "fetched_at": "2026-09-11T20:48:50.734911+00:00",
   "launches": [
     {
       "mission": "O3b mPower 11-13",
@@ -86,10 +86,10 @@
       "rocket": "Starship",
       "site": "SpaceX Starbase, TX, USA",
       "country": "United States",
-      "date": "Thu Sep 17 2026",
-      "time": "05:00 PM PDT",
+      "date": "Fri Sep 18 2026",
+      "time": "05:15 AM PDT",
       "status": "TBD",
-      "net": "2026-09-18T00:00:00Z"
+      "net": "2026-09-18T12:15:00Z"
     },
     {
       "mission": "Unknown Payload",
