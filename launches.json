@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-11T08:56:39.384641+00:00",
+  "fetched_at": "2026-09-11T09:02:40.190742+00:00",
   "launches": [
     {
       "mission": "O3b mPower 11-13",
@@ -166,6 +166,16 @@
       "rocket": "Electron",
       "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
       "country": "New Zealand",
+      "date": "Tue Sep 29 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-09-30T00:00:00Z"
+    },
+    {
+      "mission": "SDA Tranche 1 Transport Layer A",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Vandenberg SFB, CA, USA",
+      "country": "United States",
       "date": "Tue Sep 29 2026",
       "time": "05:00 PM PDT",
       "status": "TBD",
