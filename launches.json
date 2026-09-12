@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-12T03:26:44.467340+00:00",
+  "fetched_at": "2026-09-12T03:32:45.860139+00:00",
   "launches": [
     {
       "mission": "O3b mPower 11-13",
@@ -186,6 +186,16 @@
       "rocket": "Long March 12A",
       "site": "Jiuquan Satellite Launch Center, People's Republic of China",
       "country": "China",
+      "date": "Tue Sep 29 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-09-30T00:00:00Z"
+    },
+    {
+      "mission": "Amazon Leo (LV-01)",
+      "rocket": "Vulcan VC6L",
+      "site": "Cape Canaveral SFS, FL, USA",
+      "country": "United States",
       "date": "Tue Sep 29 2026",
       "time": "05:00 PM PDT",
       "status": "TBD",
