@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-09-13T18:44:14.142608+00:00",
+  "fetched_at": "2026-09-13T18:50:19.709907+00:00",
   "launches": [
-    {
-      "mission": "O3b mPower 11-13",
-      "rocket": "Falcon 9 Block 5",
-      "site": "Cape Canaveral SFS, FL, USA",
-      "country": "United States",
-      "date": "Sun Sep 13 2026",
-      "time": "11:49 AM PDT",
-      "status": "Go",
-      "net": "2026-09-13T18:49:00Z"
-    },
     {
       "mission": "Sentinel-3C & FLEX",
       "rocket": "Vega-C",
