@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-14T14:08:29.802984+00:00",
+  "fetched_at": "2026-09-14T14:14:30.358077+00:00",
   "launches": [
     {
       "mission": "Sentinel-3C & FLEX",
@@ -72,16 +72,6 @@
       "net": "2026-09-17T02:35:00Z"
     },
     {
-      "mission": "Flight 14",
-      "rocket": "Starship",
-      "site": "SpaceX Starbase, TX, USA",
-      "country": "United States",
-      "date": "Fri Sep 18 2026",
-      "time": "05:15 AM PDT",
-      "status": "TBD",
-      "net": "2026-09-18T12:15:00Z"
-    },
-    {
       "mission": "Unknown Payload",
       "rocket": "Long March 2D",
       "site": "Taiyuan Satellite Launch Center, People's Republic of China",
@@ -100,6 +90,16 @@
       "time": "06:47 PM PDT",
       "status": "Go",
       "net": "2026-09-20T01:47:00Z"
+    },
+    {
+      "mission": "Flight 14",
+      "rocket": "Starship",
+      "site": "SpaceX Starbase, TX, USA",
+      "country": "United States",
+      "date": "Tue Sep 22 2026",
+      "time": "05:15 AM PDT",
+      "status": "TBD",
+      "net": "2026-09-22T12:15:00Z"
     },
     {
       "mission": "Crew-13",
