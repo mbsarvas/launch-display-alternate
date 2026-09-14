@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-14T18:46:32.876838+00:00",
+  "fetched_at": "2026-09-14T18:52:34.888471+00:00",
   "launches": [
     {
       "mission": "Sentinel-3C & FLEX",
@@ -190,6 +190,16 @@
       "time": "05:00 PM PDT",
       "status": "TBD",
       "net": "2026-09-30T00:00:00Z"
+    },
+    {
+      "mission": "Amazon Leo (LE-04)",
+      "rocket": "Ariane 64 Block 2",
+      "site": "Guiana Space Centre, French Guiana",
+      "country": "GUF",
+      "date": "Tue Oct 06 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-10-07T00:00:00Z"
     }
   ]
 }
