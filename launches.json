@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-15T21:38:21.484479+00:00",
+  "fetched_at": "2026-09-15T21:44:23.056294+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -50,6 +50,16 @@
       "time": "07:35 PM PDT",
       "status": "Go",
       "net": "2026-09-17T02:35:00Z"
+    },
+    {
+      "mission": "Owl By The Dozen (StriX Launch 12)",
+      "rocket": "Electron",
+      "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "country": "New Zealand",
+      "date": "Fri Sep 18 2026",
+      "time": "08:15 PM PDT",
+      "status": "Go",
+      "net": "2026-09-19T03:15:00Z"
     },
     {
       "mission": "Unknown Payload",
@@ -166,16 +176,6 @@
       "rocket": "Long March 12A",
       "site": "Jiuquan Satellite Launch Center, People's Republic of China",
       "country": "China",
-      "date": "Tue Sep 29 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-09-30T00:00:00Z"
-    },
-    {
-      "mission": "Amazon Leo (LV-01)",
-      "rocket": "Vulcan VC6L",
-      "site": "Cape Canaveral SFS, FL, USA",
-      "country": "United States",
       "date": "Tue Sep 29 2026",
       "time": "05:00 PM PDT",
       "status": "TBD",
