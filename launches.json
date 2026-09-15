@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-15T16:30:52.574272+00:00",
+  "fetched_at": "2026-09-15T16:36:53.024756+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -17,9 +17,9 @@
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
       "date": "Tue Sep 15 2026",
-      "time": "06:00 PM PDT",
+      "time": "06:29 PM PDT",
       "status": "Go",
-      "net": "2026-09-16T01:00:00Z"
+      "net": "2026-09-16T01:29:18Z"
     },
     {
       "mission": "Progress MS-35 (96P)",
