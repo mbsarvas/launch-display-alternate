@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-09-15T06:21:54.272961+00:00",
+  "fetched_at": "2026-09-15T06:27:54.789619+00:00",
   "launches": [
-    {
-      "mission": "Unknown Payload",
-      "rocket": "Zhuque-2E Block 2",
-      "site": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "country": "China",
-      "date": "Mon Sep 14 2026",
-      "time": "11:25 PM PDT",
-      "status": "Go",
-      "net": "2026-09-15T06:25:00Z"
-    },
     {
       "mission": "Unknown Payload",
       "rocket": "Gravity-1",
