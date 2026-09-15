@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-09-15T21:50:28.433646+00:00",
+  "fetched_at": "2026-09-15T21:56:28.887857+00:00",
   "launches": [
-    {
-      "mission": "Unknown Payload",
-      "rocket": "Gravity-1",
-      "site": "Haiyang Oriental Spaceport",
-      "country": "China",
-      "date": "Tue Sep 15 2026",
-      "time": "02:55 PM PDT",
-      "status": "Go",
-      "net": "2026-09-15T21:55:00Z"
-    },
     {
       "mission": "USSF-259",
       "rocket": "Falcon 9 Block 5",
