@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-16T21:58:27.296538+00:00",
+  "fetched_at": "2026-09-16T22:04:27.686190+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -180,6 +180,16 @@
       "time": "05:00 PM PDT",
       "status": "TBD",
       "net": "2026-10-07T00:00:00Z"
+    },
+    {
+      "mission": "NeonSat-2 to 6",
+      "rocket": "Nuri",
+      "site": "Naro SC, Korea",
+      "country": "South Korea",
+      "date": "Tue Oct 06 2026",
+      "time": "08:23 PM PDT",
+      "status": "Go",
+      "net": "2026-10-07T03:23:00Z"
     }
   ]
 }
