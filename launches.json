@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-16T14:14:00.336971+00:00",
+  "fetched_at": "2026-09-16T14:26:01.180618+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -92,16 +92,6 @@
       "net": "2026-09-26T11:56:00Z"
     },
     {
-      "mission": "Crew-13",
-      "rocket": "Falcon 9 Block 5",
-      "site": "Cape Canaveral SFS, FL, USA",
-      "country": "United States",
-      "date": "Tue Sep 29 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-09-30T00:00:00Z"
-    },
-    {
       "mission": "T1H-1",
       "rocket": "Themis Demonstrator",
       "site": "Esrange Space Center",
@@ -180,6 +170,16 @@
       "time": "05:00 PM PDT",
       "status": "TBD",
       "net": "2026-09-30T00:00:00Z"
+    },
+    {
+      "mission": "Amazon Leo (LE-04)",
+      "rocket": "Ariane 64 Block 2",
+      "site": "Guiana Space Centre, French Guiana",
+      "country": "GUF",
+      "date": "Tue Oct 06 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-10-07T00:00:00Z"
     }
   ]
 }
