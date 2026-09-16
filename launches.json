@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-16T13:55:58.944133+00:00",
+  "fetched_at": "2026-09-16T14:01:59.325959+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -86,10 +86,10 @@
       "rocket": "Falcon 9 Block 5",
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
-      "date": "Sun Sep 27 2026",
-      "time": "04:42 AM PDT",
+      "date": "Sat Sep 26 2026",
+      "time": "04:56 AM PDT",
       "status": "TBD",
-      "net": "2026-09-27T11:42:00Z"
+      "net": "2026-09-26T11:56:00Z"
     },
     {
       "mission": "Crew-13",
