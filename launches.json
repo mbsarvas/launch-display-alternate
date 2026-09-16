@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-16T23:46:46.690407+00:00",
+  "fetched_at": "2026-09-16T23:52:47.062763+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -142,6 +142,16 @@
       "net": "2026-09-30T00:00:00Z"
     },
     {
+      "mission": "Kosmos (Unknown Payload)",
+      "rocket": "Soyuz 2.1b/Fregat",
+      "site": "Plesetsk Cosmodrome, Russian Federation",
+      "country": "Russia",
+      "date": "Tue Sep 29 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-09-30T00:00:00Z"
+    },
+    {
       "mission": "SDA Tranche 1 Transport Layer A",
       "rocket": "Falcon 9 Block 5",
       "site": "Vandenberg SFB, CA, USA",
@@ -180,16 +190,6 @@
       "time": "05:00 PM PDT",
       "status": "TBD",
       "net": "2026-10-07T00:00:00Z"
-    },
-    {
-      "mission": "NeonSat-2 to 6",
-      "rocket": "Nuri",
-      "site": "Naro SC, Korea",
-      "country": "South Korea",
-      "date": "Tue Oct 06 2026",
-      "time": "08:23 PM PDT",
-      "status": "Go",
-      "net": "2026-10-07T03:23:00Z"
     }
   ]
 }
