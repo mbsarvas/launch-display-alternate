@@ -1,4 +1,165 @@
 {
-  "fetched_at": "2026-09-17T07:01:09.832413+00:00",
-  "launches": []
+  "fetched_at": "2026-09-17T07:07:11.675795+00:00",
+  "launches": [
+    {
+      "mission": "Owl By The Dozen (StriX Launch 12)",
+      "rocket": "Electron",
+      "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "country": "New Zealand",
+      "date": "Fri Sep 18 2026",
+      "time": "08:15 PM PDT",
+      "status": "Go",
+      "net": "2026-09-19T03:15:00Z"
+    },
+    {
+      "mission": "Unknown Payload",
+      "rocket": "Long March 2D",
+      "site": "Taiyuan Satellite Launch Center, People's Republic of China",
+      "country": "China",
+      "date": "Sat Sep 19 2026",
+      "time": "03:50 AM PDT",
+      "status": "Go",
+      "net": "2026-09-19T10:50:00Z"
+    },
+    {
+      "mission": "Starlink Group 15-27",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Vandenberg SFB, CA, USA",
+      "country": "United States",
+      "date": "Sat Sep 19 2026",
+      "time": "06:47 PM PDT",
+      "status": "Go",
+      "net": "2026-09-20T01:47:00Z"
+    },
+    {
+      "mission": "Unknown Payload",
+      "rocket": "Kinetica 1",
+      "site": "Jiuquan Satellite Launch Center, People's Republic of China",
+      "country": "China",
+      "date": "Sat Sep 19 2026",
+      "time": "09:00 PM PDT",
+      "status": "Go",
+      "net": "2026-09-20T04:00:00Z"
+    },
+    {
+      "mission": "Starlink Group 31-1 (Starship Flight 14)",
+      "rocket": "Starship",
+      "site": "SpaceX Starbase, TX, USA",
+      "country": "United States",
+      "date": "Tue Sep 22 2026",
+      "time": "05:15 AM PDT",
+      "status": "Go",
+      "net": "2026-09-22T12:15:00Z"
+    },
+    {
+      "mission": "USSF-385",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Vandenberg SFB, CA, USA",
+      "country": "United States",
+      "date": "Sat Sep 26 2026",
+      "time": "04:56 AM PDT",
+      "status": "Go",
+      "net": "2026-09-26T11:56:00Z"
+    },
+    {
+      "mission": "T1H-1",
+      "rocket": "Themis Demonstrator",
+      "site": "Esrange Space Center",
+      "country": "Sweden",
+      "date": "Tue Sep 29 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-09-30T00:00:00Z"
+    },
+    {
+      "mission": "BlackSky Gen-3 6",
+      "rocket": "Electron",
+      "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "country": "New Zealand",
+      "date": "Tue Sep 29 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-09-30T00:00:00Z"
+    },
+    {
+      "mission": "LOXSAT 1",
+      "rocket": "Electron",
+      "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "country": "New Zealand",
+      "date": "Tue Sep 29 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-09-30T00:00:00Z"
+    },
+    {
+      "mission": "Unknown Payload",
+      "rocket": "Long March 8A",
+      "site": "Wenchang Space Launch Site, People's Republic of China",
+      "country": "China",
+      "date": "Tue Sep 29 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-09-30T00:00:00Z"
+    },
+    {
+      "mission": "6x HawkEye 360",
+      "rocket": "Electron",
+      "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "country": "New Zealand",
+      "date": "Tue Sep 29 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-09-30T00:00:00Z"
+    },
+    {
+      "mission": "Kosmos (Unknown Payload)",
+      "rocket": "Soyuz 2.1b/Fregat",
+      "site": "Plesetsk Cosmodrome, Russian Federation",
+      "country": "Russia",
+      "date": "Tue Sep 29 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-09-30T00:00:00Z"
+    },
+    {
+      "mission": "SDA Tranche 1 Transport Layer A",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Vandenberg SFB, CA, USA",
+      "country": "United States",
+      "date": "Tue Sep 29 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-09-30T00:00:00Z"
+    },
+    {
+      "mission": "Flight 2",
+      "rocket": "Long March 12A",
+      "site": "Jiuquan Satellite Launch Center, People's Republic of China",
+      "country": "China",
+      "date": "Tue Sep 29 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-09-30T00:00:00Z"
+    },
+    {
+      "mission": "Amazon Leo (LV-01)",
+      "rocket": "Vulcan VC6L",
+      "site": "Cape Canaveral SFS, FL, USA",
+      "country": "United States",
+      "date": "Tue Sep 29 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-09-30T00:00:00Z"
+    },
+    {
+      "mission": "Amazon Leo (LE-04)",
+      "rocket": "Ariane 64 Block 2",
+      "site": "Guiana Space Centre, French Guiana",
+      "country": "GUF",
+      "date": "Tue Oct 06 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-10-07T00:00:00Z"
+    }
+  ]
 }
