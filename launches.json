@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-17T18:28:03.303256+00:00",
+  "fetched_at": "2026-09-17T18:34:05.375680+00:00",
   "launches": [
     {
       "mission": "Owl By The Dozen (StriX Launch 12)",
@@ -57,9 +57,9 @@
       "site": "SpaceX Starbase, TX, USA",
       "country": "United States",
       "date": "Mon Sep 28 2026",
-      "time": "06:15 AM PDT",
+      "time": "05:15 AM PDT",
       "status": "TBD",
-      "net": "2026-09-28T13:15:00Z"
+      "net": "2026-09-28T12:15:00Z"
     },
     {
       "mission": "T1H-1",
