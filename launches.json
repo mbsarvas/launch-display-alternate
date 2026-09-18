@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-18T03:06:28.614990+00:00",
+  "fetched_at": "2026-09-18T03:12:29.507094+00:00",
   "launches": [
     {
       "mission": "Owl By The Dozen (StriX Launch 12)",
@@ -60,16 +60,6 @@
       "time": "05:15 AM PDT",
       "status": "TBD",
       "net": "2026-09-28T12:15:00Z"
-    },
-    {
-      "mission": "T1H-1",
-      "rocket": "Themis Demonstrator",
-      "site": "Esrange Space Center",
-      "country": "Sweden",
-      "date": "Tue Sep 29 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-09-30T00:00:00Z"
     },
     {
       "mission": "BlackSky Gen-3 6",
@@ -140,6 +130,16 @@
       "time": "05:00 PM PDT",
       "status": "TBD",
       "net": "2026-09-30T00:00:00Z"
+    },
+    {
+      "mission": "Flight 2",
+      "rocket": "SR75",
+      "site": "SaxaVord Spaceport",
+      "country": "United Kingdom",
+      "date": "Sun Oct 04 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-10-05T00:00:00Z"
     },
     {
       "mission": "Amazon Leo (LE-04)",
