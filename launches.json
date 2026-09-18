@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-18T00:29:32.729216+00:00",
+  "fetched_at": "2026-09-18T00:35:34.115322+00:00",
   "launches": [
     {
       "mission": "Owl By The Dozen (StriX Launch 12)",
@@ -170,6 +170,16 @@
       "time": "08:23 PM PDT",
       "status": "Go",
       "net": "2026-10-07T03:23:00Z"
+    },
+    {
+      "mission": "Martian Moon eXplorer (MMX)",
+      "rocket": "H3-24",
+      "site": "Tanegashima",
+      "country": "Japan",
+      "date": "Mon Oct 19 2026",
+      "time": "12:41 PM PDT",
+      "status": "Go",
+      "net": "2026-10-19T19:41:03Z"
     }
   ]
 }
