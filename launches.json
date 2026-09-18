@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-18T01:05:41.412830+00:00",
+  "fetched_at": "2026-09-18T01:11:46.474960+00:00",
   "launches": [
     {
       "mission": "Owl By The Dozen (StriX Launch 12)",
@@ -180,6 +180,16 @@
       "time": "12:41 PM PDT",
       "status": "Go",
       "net": "2026-10-19T19:41:03Z"
+    },
+    {
+      "mission": "Crew-13",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Cape Canaveral SFS, FL, USA",
+      "country": "United States",
+      "date": "Fri Oct 30 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-10-31T00:00:00Z"
     }
   ]
 }
