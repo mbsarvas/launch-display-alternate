@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-18T07:20:24.864345+00:00",
+  "fetched_at": "2026-09-18T07:26:26.242835+00:00",
   "launches": [
     {
       "mission": "Owl By The Dozen (StriX Launch 12)",
@@ -96,16 +96,6 @@
       "rocket": "Electron",
       "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
       "country": "New Zealand",
-      "date": "Tue Sep 29 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-09-30T00:00:00Z"
-    },
-    {
-      "mission": "Kosmos (Unknown Payload)",
-      "rocket": "Soyuz 2.1b/Fregat",
-      "site": "Plesetsk Cosmodrome, Russian Federation",
-      "country": "Russia",
       "date": "Tue Sep 29 2026",
       "time": "05:00 PM PDT",
       "status": "TBD",
