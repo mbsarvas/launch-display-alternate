@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-18T02:29:59.681116+00:00",
+  "fetched_at": "2026-09-18T02:36:01.958972+00:00",
   "launches": [
     {
       "mission": "Owl By The Dozen (StriX Launch 12)",
@@ -122,16 +122,6 @@
       "net": "2026-09-30T00:00:00Z"
     },
     {
-      "mission": "SDA Tranche 1 Transport Layer A",
-      "rocket": "Falcon 9 Block 5",
-      "site": "Vandenberg SFB, CA, USA",
-      "country": "United States",
-      "date": "Tue Sep 29 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-09-30T00:00:00Z"
-    },
-    {
       "mission": "Flight 2",
       "rocket": "Long March 12A",
       "site": "Jiuquan Satellite Launch Center, People's Republic of China",
@@ -183,6 +173,16 @@
     },
     {
       "mission": "Crew-13",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Cape Canaveral SFS, FL, USA",
+      "country": "United States",
+      "date": "Fri Oct 30 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-10-31T00:00:00Z"
+    },
+    {
+      "mission": "Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
       "rocket": "Falcon 9 Block 5",
       "site": "Cape Canaveral SFS, FL, USA",
       "country": "United States",
