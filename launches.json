@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-09-19T10:46:35.844470+00:00",
+  "fetched_at": "2026-09-19T10:52:36.283827+00:00",
   "launches": [
-    {
-      "mission": "Unknown Payload",
-      "rocket": "Long March 2D",
-      "site": "Taiyuan Satellite Launch Center, People's Republic of China",
-      "country": "China",
-      "date": "Sat Sep 19 2026",
-      "time": "03:50 AM PDT",
-      "status": "Go",
-      "net": "2026-09-19T10:50:00Z"
-    },
     {
       "mission": "Starlink Group 15-27",
       "rocket": "Falcon 9 Block 5",
