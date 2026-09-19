@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-19T21:01:44.012627+00:00",
+  "fetched_at": "2026-09-19T21:07:45.583036+00:00",
   "launches": [
     {
       "mission": "Starlink Group 15-27",
@@ -92,6 +92,16 @@
       "net": "2026-09-30T00:00:00Z"
     },
     {
+      "mission": "Starlink Group 15-25",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Vandenberg SFB, CA, USA",
+      "country": "United States",
+      "date": "Wed Sep 30 2026",
+      "time": "07:00 AM PDT",
+      "status": "Go",
+      "net": "2026-09-30T14:00:00Z"
+    },
+    {
       "mission": "Crew-13",
       "rocket": "Falcon 9 Block 5",
       "site": "Cape Canaveral SFS, FL, USA",
@@ -165,16 +175,6 @@
       "mission": "Transporter 18 (Dedicated SSO Rideshare)",
       "rocket": "Falcon 9 Block 5",
       "site": "Vandenberg SFB, CA, USA",
-      "country": "United States",
-      "date": "Fri Oct 30 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-10-31T00:00:00Z"
-    },
-    {
-      "mission": "Dragon CRS-2 SpX-35",
-      "rocket": "Falcon 9 Block 5",
-      "site": "Cape Canaveral SFS, FL, USA",
       "country": "United States",
       "date": "Fri Oct 30 2026",
       "time": "05:00 PM PDT",
