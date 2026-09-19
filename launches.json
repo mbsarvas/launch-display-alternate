@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-19T01:25:33.391651+00:00",
+  "fetched_at": "2026-09-19T01:31:35.453997+00:00",
   "launches": [
     {
       "mission": "Owl By The Dozen (StriX Launch 12)",
@@ -7,9 +7,9 @@
       "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
       "country": "New Zealand",
       "date": "Fri Sep 18 2026",
-      "time": "08:15 PM PDT",
+      "time": "08:22 PM PDT",
       "status": "Go",
-      "net": "2026-09-19T03:15:00Z"
+      "net": "2026-09-19T03:22:00Z"
     },
     {
       "mission": "Unknown Payload",
