@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-19T04:20:25.505190+00:00",
+  "fetched_at": "2026-09-19T04:26:27.366406+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -72,27 +72,7 @@
       "net": "2026-09-28T12:15:00Z"
     },
     {
-      "mission": "BlackSky Gen-3 6",
-      "rocket": "Electron",
-      "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-      "country": "New Zealand",
-      "date": "Tue Sep 29 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-09-30T00:00:00Z"
-    },
-    {
-      "mission": "LOXSAT 1",
-      "rocket": "Electron",
-      "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-      "country": "New Zealand",
-      "date": "Tue Sep 29 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-09-30T00:00:00Z"
-    },
-    {
-      "mission": "6x HawkEye 360",
+      "mission": "StriX Launch 13",
       "rocket": "Electron",
       "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
       "country": "New Zealand",
@@ -185,6 +165,26 @@
       "mission": "NROL-97",
       "rocket": "Falcon Heavy",
       "site": "Kennedy SC",
+      "country": "United States",
+      "date": "Fri Oct 30 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-10-31T00:00:00Z"
+    },
+    {
+      "mission": "Transporter 18 (Dedicated SSO Rideshare)",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Vandenberg SFB, CA, USA",
+      "country": "United States",
+      "date": "Fri Oct 30 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-10-31T00:00:00Z"
+    },
+    {
+      "mission": "Dragon CRS-2 SpX-35",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Cape Canaveral SFS, FL, USA",
       "country": "United States",
       "date": "Fri Oct 30 2026",
       "time": "05:00 PM PDT",
