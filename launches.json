@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-20T16:06:32.731077+00:00",
+  "fetched_at": "2026-09-20T16:12:33.693819+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -57,9 +57,9 @@
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
       "date": "Wed Sep 30 2026",
-      "time": "07:00 AM PDT",
+      "time": "09:00 AM PDT",
       "status": "Go",
-      "net": "2026-09-30T14:00:00Z"
+      "net": "2026-09-30T16:00:00Z"
     },
     {
       "mission": "Crew-13",
