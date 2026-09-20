@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-09-20T01:44:50.959508+00:00",
+  "fetched_at": "2026-09-20T01:50:51.782141+00:00",
   "launches": [
-    {
-      "mission": "Starlink Group 15-27",
-      "rocket": "Falcon 9 Block 5",
-      "site": "Vandenberg SFB, CA, USA",
-      "country": "United States",
-      "date": "Sat Sep 19 2026",
-      "time": "06:47 PM PDT",
-      "status": "Go",
-      "net": "2026-09-20T01:47:00Z"
-    },
     {
       "mission": "Unknown Payload",
       "rocket": "Kinetica 1",
