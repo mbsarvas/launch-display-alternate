@@ -1,4 +1,185 @@
 {
-  "fetched_at": "2026-09-20T20:02:06.513210+00:00",
-  "launches": []
+  "fetched_at": "2026-09-20T20:08:07.435668+00:00",
+  "launches": [
+    {
+      "mission": "Unknown Payload",
+      "rocket": "Long March 8A",
+      "site": "Wenchang Space Launch Site, People's Republic of China",
+      "country": "China",
+      "date": "Wed Sep 23 2026",
+      "time": "06:30 AM PDT",
+      "status": "Go",
+      "net": "2026-09-23T13:30:00Z"
+    },
+    {
+      "mission": "Unknown Payload",
+      "rocket": "Long March 6A",
+      "site": "Taiyuan Satellite Launch Center, People's Republic of China",
+      "country": "China",
+      "date": "Thu Sep 24 2026",
+      "time": "01:45 AM PDT",
+      "status": "Go",
+      "net": "2026-09-24T08:45:00Z"
+    },
+    {
+      "mission": "Owlright, Owlright, Owlright (StriX Launch 13)",
+      "rocket": "Electron",
+      "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "country": "New Zealand",
+      "date": "Fri Sep 25 2026",
+      "time": "05:15 PM PDT",
+      "status": "Go",
+      "net": "2026-09-26T00:15:00Z"
+    },
+    {
+      "mission": "USSF-385",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Vandenberg SFB, CA, USA",
+      "country": "United States",
+      "date": "Sat Sep 26 2026",
+      "time": "04:56 AM PDT",
+      "status": "Go",
+      "net": "2026-09-26T11:56:00Z"
+    },
+    {
+      "mission": "Starlink Group 31-1 (Starship Flight 14)",
+      "rocket": "Starship",
+      "site": "SpaceX Starbase, TX, USA",
+      "country": "United States",
+      "date": "Mon Sep 28 2026",
+      "time": "05:15 AM PDT",
+      "status": "TBD",
+      "net": "2026-09-28T12:15:00Z"
+    },
+    {
+      "mission": "Starlink Group 15-25",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Vandenberg SFB, CA, USA",
+      "country": "United States",
+      "date": "Wed Sep 30 2026",
+      "time": "09:00 AM PDT",
+      "status": "Go",
+      "net": "2026-09-30T16:00:00Z"
+    },
+    {
+      "mission": "Crew-13",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Cape Canaveral SFS, FL, USA",
+      "country": "United States",
+      "date": "Thu Oct 01 2026",
+      "time": "08:10 AM PDT",
+      "status": "TBD",
+      "net": "2026-10-01T15:10:06Z"
+    },
+    {
+      "mission": "Flight 2",
+      "rocket": "SR75",
+      "site": "SaxaVord Spaceport",
+      "country": "United Kingdom",
+      "date": "Sun Oct 04 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-10-05T00:00:00Z"
+    },
+    {
+      "mission": "Amazon Leo (LE-04)",
+      "rocket": "Ariane 64 Block 2",
+      "site": "Guiana Space Centre, French Guiana",
+      "country": "GUF",
+      "date": "Tue Oct 06 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-10-07T00:00:00Z"
+    },
+    {
+      "mission": "NeonSat-2 to 6",
+      "rocket": "Nuri",
+      "site": "Naro SC, Korea",
+      "country": "South Korea",
+      "date": "Tue Oct 06 2026",
+      "time": "08:23 PM PDT",
+      "status": "Go",
+      "net": "2026-10-07T03:23:00Z"
+    },
+    {
+      "mission": "Martian Moon eXplorer (MMX)",
+      "rocket": "H3-24",
+      "site": "Tanegashima",
+      "country": "Japan",
+      "date": "Mon Oct 19 2026",
+      "time": "12:41 PM PDT",
+      "status": "Go",
+      "net": "2026-10-19T19:41:03Z"
+    },
+    {
+      "mission": "Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Cape Canaveral SFS, FL, USA",
+      "country": "United States",
+      "date": "Fri Oct 30 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-10-31T00:00:00Z"
+    },
+    {
+      "mission": "NROL-97",
+      "rocket": "Falcon Heavy",
+      "site": "Kennedy SC",
+      "country": "United States",
+      "date": "Fri Oct 30 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-10-31T00:00:00Z"
+    },
+    {
+      "mission": "Transporter 18 (Dedicated SSO Rideshare)",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Vandenberg SFB, CA, USA",
+      "country": "United States",
+      "date": "Fri Oct 30 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-10-31T00:00:00Z"
+    },
+    {
+      "mission": "Dragon CRS-2 SpX-35",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Cape Canaveral SFS, FL, USA",
+      "country": "United States",
+      "date": "Fri Oct 30 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-10-31T00:00:00Z"
+    },
+    {
+      "mission": "SDA Tranche 1 Transport Layer A",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Vandenberg SFB, CA, USA",
+      "country": "United States",
+      "date": "Fri Oct 30 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-10-31T00:00:00Z"
+    },
+    {
+      "mission": "Flight 2",
+      "rocket": "Long March 12A",
+      "site": "Jiuquan Satellite Launch Center, People's Republic of China",
+      "country": "China",
+      "date": "Fri Oct 30 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-10-31T00:00:00Z"
+    },
+    {
+      "mission": "Amazon Leo (LV-01)",
+      "rocket": "Vulcan VC6L",
+      "site": "Cape Canaveral SFS, FL, USA",
+      "country": "United States",
+      "date": "Fri Oct 30 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-10-31T00:00:00Z"
+    }
+  ]
 }
