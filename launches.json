@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-09-20T03:57:22.382383+00:00",
+  "fetched_at": "2026-09-20T04:03:23.182801+00:00",
   "launches": [
-    {
-      "mission": "Unknown Payload",
-      "rocket": "Kinetica 1",
-      "site": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "country": "China",
-      "date": "Sat Sep 19 2026",
-      "time": "09:00 PM PDT",
-      "status": "Go",
-      "net": "2026-09-20T04:00:00Z"
-    },
     {
       "mission": "Unknown Payload",
       "rocket": "Long March 8A",
