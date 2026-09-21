@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-21T19:21:10.359900+00:00",
+  "fetched_at": "2026-09-21T19:27:12.156769+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -72,6 +72,16 @@
       "net": "2026-10-01T15:10:06Z"
     },
     {
+      "mission": "Transporter 18 (Dedicated SSO Rideshare)",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Vandenberg SFB, CA, USA",
+      "country": "United States",
+      "date": "Thu Oct 01 2026",
+      "time": "11:08 AM PDT",
+      "status": "TBD",
+      "net": "2026-10-01T18:08:00Z"
+    },
+    {
       "mission": "Flight 2",
       "rocket": "SR75",
       "site": "SaxaVord Spaceport",
@@ -125,16 +135,6 @@
       "mission": "NROL-97",
       "rocket": "Falcon Heavy",
       "site": "Kennedy SC",
-      "country": "United States",
-      "date": "Fri Oct 30 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-10-31T00:00:00Z"
-    },
-    {
-      "mission": "Transporter 18 (Dedicated SSO Rideshare)",
-      "rocket": "Falcon 9 Block 5",
-      "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
       "date": "Fri Oct 30 2026",
       "time": "05:00 PM PDT",
