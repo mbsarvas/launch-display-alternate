@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-21T03:58:21.746806+00:00",
+  "fetched_at": "2026-09-21T04:04:23.412757+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -190,6 +190,16 @@
       "time": "09:03 PM PST",
       "status": "TBD",
       "net": "2026-11-24T05:03:00Z"
+    },
+    {
+      "mission": "Metop-SG B1",
+      "rocket": "Ariane 62",
+      "site": "Guiana Space Centre, French Guiana",
+      "country": "GUF",
+      "date": "Sun Nov 29 2026",
+      "time": "04:00 PM PST",
+      "status": "TBD",
+      "net": "2026-11-30T00:00:00Z"
     }
   ]
 }
