@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-21T01:45:46.094957+00:00",
+  "fetched_at": "2026-09-21T01:51:47.566247+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -180,6 +180,16 @@
       "time": "05:00 PM PDT",
       "status": "TBD",
       "net": "2026-10-31T00:00:00Z"
+    },
+    {
+      "mission": "Progress MS-36 (97P)",
+      "rocket": "Soyuz 2.1b",
+      "site": "Baikonur Cosmodrome, Republic of Kazakhstan",
+      "country": "Kazakhstan",
+      "date": "Mon Nov 23 2026",
+      "time": "09:03 PM PST",
+      "status": "TBD",
+      "net": "2026-11-24T05:03:00Z"
     }
   ]
 }
