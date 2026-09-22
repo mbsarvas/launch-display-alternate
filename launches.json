@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-22T01:22:48.525224+00:00",
+  "fetched_at": "2026-09-22T01:28:49.988978+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -106,10 +106,10 @@
       "rocket": "Falcon 9 Block 5",
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
-      "date": "Fri Oct 09 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-10-10T00:00:00Z"
+      "date": "Sat Oct 10 2026",
+      "time": "09:00 AM PDT",
+      "status": "Go",
+      "net": "2026-10-10T16:00:00Z"
     },
     {
       "mission": "Martian Moon eXplorer (MMX)",
