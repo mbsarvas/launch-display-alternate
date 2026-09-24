@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-09-24T08:39:39.119910+00:00",
+  "fetched_at": "2026-09-24T08:45:40.123155+00:00",
   "launches": [
-    {
-      "mission": "Unknown Payload",
-      "rocket": "Long March 6A",
-      "site": "Taiyuan Satellite Launch Center, People's Republic of China",
-      "country": "China",
-      "date": "Thu Sep 24 2026",
-      "time": "01:45 AM PDT",
-      "status": "Go",
-      "net": "2026-09-24T08:45:00Z"
-    },
     {
       "mission": "Owlright, Owlright, Owlright (StriX Launch 13)",
       "rocket": "Electron",
