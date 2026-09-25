@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-25T12:36:26.281844+00:00",
+  "fetched_at": "2026-09-25T12:42:26.606819+00:00",
   "launches": [
     {
       "mission": "Owlright, Owlright, Owlright (StriX Launch 13)",
@@ -72,16 +72,6 @@
       "net": "2026-10-05T00:00:00Z"
     },
     {
-      "mission": "Amazon Leo (LE-04)",
-      "rocket": "Ariane 64 Block 2",
-      "site": "Guiana Space Centre, French Guiana",
-      "country": "GUF",
-      "date": "Tue Oct 06 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-10-07T00:00:00Z"
-    },
-    {
       "mission": "NeonSat-2 to 6",
       "rocket": "Nuri",
       "site": "Naro SC, Korea",
@@ -126,6 +116,16 @@
       "rocket": "Falcon 9 Block 5",
       "site": "Cape Canaveral SFS, FL, USA",
       "country": "United States",
+      "date": "Fri Oct 30 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-10-31T00:00:00Z"
+    },
+    {
+      "mission": "Amazon Leo (LE-04)",
+      "rocket": "Ariane 64 Block 2",
+      "site": "Guiana Space Centre, French Guiana",
+      "country": "GUF",
       "date": "Fri Oct 30 2026",
       "time": "05:00 PM PDT",
       "status": "TBD",
