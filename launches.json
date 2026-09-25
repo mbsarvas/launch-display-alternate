@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-25T00:45:45.486364+00:00",
+  "fetched_at": "2026-09-25T00:51:45.870715+00:00",
   "launches": [
     {
       "mission": "Owlright, Owlright, Owlright (StriX Launch 13)",
@@ -47,9 +47,9 @@
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
       "date": "Thu Oct 01 2026",
-      "time": "11:08 AM PDT",
-      "status": "TBD",
-      "net": "2026-10-01T18:08:00Z"
+      "time": "11:18 AM PDT",
+      "status": "Go",
+      "net": "2026-10-01T18:18:00Z"
     },
     {
       "mission": "NROL-97",
