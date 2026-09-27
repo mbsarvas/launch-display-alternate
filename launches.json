@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-27T00:35:05.338876+00:00",
+  "fetched_at": "2026-09-27T00:41:08.865217+00:00",
   "launches": [
     {
       "mission": "Starlink Group 31-1 (Starship Flight 14)",
@@ -176,6 +176,16 @@
       "rocket": "Ariane 62",
       "site": "Guiana Space Centre, French Guiana",
       "country": "GUF",
+      "date": "Sun Nov 29 2026",
+      "time": "04:00 PM PST",
+      "status": "TBD",
+      "net": "2026-11-30T00:00:00Z"
+    },
+    {
+      "mission": "InnoSat-0",
+      "rocket": "HANBIT-Nano",
+      "site": "Alc\u00e2ntara Space Center, Federative Republic of Brazil",
+      "country": "Brazil",
       "date": "Sun Nov 29 2026",
       "time": "04:00 PM PST",
       "status": "TBD",
