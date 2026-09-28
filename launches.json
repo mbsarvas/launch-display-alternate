@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-28T10:40:55.183540+00:00",
+  "fetched_at": "2026-09-28T10:46:56.290783+00:00",
   "launches": [
     {
       "mission": "Starlink Group 31-1 (Starship Flight 14)",
@@ -7,9 +7,9 @@
       "site": "SpaceX Starbase, TX, USA",
       "country": "United States",
       "date": "Mon Sep 28 2026",
-      "time": "05:15 AM PDT",
+      "time": "05:46 AM PDT",
       "status": "Go",
-      "net": "2026-09-28T12:15:00Z"
+      "net": "2026-09-28T12:46:59Z"
     },
     {
       "mission": "Crew-13",
