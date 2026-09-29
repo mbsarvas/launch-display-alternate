@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-29T11:31:19.584161+00:00",
+  "fetched_at": "2026-09-29T11:37:20.639016+00:00",
   "launches": [
     {
       "mission": "Crew-13",
@@ -76,10 +76,10 @@
       "rocket": "GSLV Mk II",
       "site": "Sriharikota",
       "country": "India",
-      "date": "Wed Oct 14 2026",
-      "time": "05:00 PM PDT",
+      "date": "Tue Oct 13 2026",
+      "time": "10:00 AM PDT",
       "status": "TBD",
-      "net": "2026-10-15T00:00:00Z"
+      "net": "2026-10-13T17:00:00Z"
     },
     {
       "mission": "Martian Moon eXplorer (MMX)",
