@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-09-30T23:17:12.102892+00:00",
+  "fetched_at": "2026-09-30T23:23:13.005735+00:00",
   "launches": [
     {
       "mission": "Crew-13",
@@ -77,9 +77,9 @@
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
       "date": "Sat Oct 10 2026",
-      "time": "09:00 AM PDT",
+      "time": "04:00 PM PDT",
       "status": "Go",
-      "net": "2026-10-10T16:00:00Z"
+      "net": "2026-10-10T23:00:00Z"
     },
     {
       "mission": "IRNSS-1L (NVS-03)",
