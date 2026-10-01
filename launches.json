@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-01T18:17:34.506076+00:00",
+  "fetched_at": "2026-10-01T18:23:34.866061+00:00",
   "launches": [
     {
       "mission": "Transporter 18 (Dedicated SSO Rideshare)",
@@ -62,6 +62,16 @@
       "net": "2026-10-10T23:00:00Z"
     },
     {
+      "mission": "Dragon CRS-2 SpX-35",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Cape Canaveral SFS, FL, USA",
+      "country": "United States",
+      "date": "Mon Oct 12 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-10-13T00:00:00Z"
+    },
+    {
       "mission": "IRNSS-1L (NVS-03)",
       "rocket": "GSLV Mk II",
       "site": "Sriharikota",
@@ -96,16 +106,6 @@
       "rocket": "Ariane 64 Block 2",
       "site": "Guiana Space Centre, French Guiana",
       "country": "GUF",
-      "date": "Fri Oct 30 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-10-31T00:00:00Z"
-    },
-    {
-      "mission": "Dragon CRS-2 SpX-35",
-      "rocket": "Falcon 9 Block 5",
-      "site": "Cape Canaveral SFS, FL, USA",
-      "country": "United States",
       "date": "Fri Oct 30 2026",
       "time": "05:00 PM PDT",
       "status": "TBD",
