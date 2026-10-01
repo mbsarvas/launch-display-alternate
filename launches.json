@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-01T22:00:38.107406+00:00",
+  "fetched_at": "2026-10-01T22:06:39.150183+00:00",
   "launches": [
     {
       "mission": "NROL-97",
@@ -57,9 +57,9 @@
       "site": "Cape Canaveral SFS, FL, USA",
       "country": "United States",
       "date": "Tue Oct 13 2026",
-      "time": "03:30 AM PDT",
+      "time": "03:33 AM PDT",
       "status": "TBD",
-      "net": "2026-10-13T10:30:00Z"
+      "net": "2026-10-13T10:33:00Z"
     },
     {
       "mission": "Martian Moon eXplorer (MMX)",
