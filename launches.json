@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-01T11:33:19.120730+00:00",
+  "fetched_at": "2026-10-01T11:39:20.338523+00:00",
   "launches": [
     {
       "mission": "Crew-13",
@@ -30,16 +30,6 @@
       "time": "08:53 PM PDT",
       "status": "Go",
       "net": "2026-10-02T03:53:00Z"
-    },
-    {
-      "mission": "Flight 2",
-      "rocket": "SR75",
-      "site": "SaxaVord Spaceport",
-      "country": "United Kingdom",
-      "date": "Sun Oct 04 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-10-05T00:00:00Z"
     },
     {
       "mission": "SDA Tranche 1 Transport Layer A",
@@ -196,6 +186,16 @@
       "rocket": "PSLV-XL",
       "site": "Sriharikota",
       "country": "India",
+      "date": "Sun Nov 29 2026",
+      "time": "04:00 PM PST",
+      "status": "TBD",
+      "net": "2026-11-30T00:00:00Z"
+    },
+    {
+      "mission": "Griffin Mission One",
+      "rocket": "Falcon Heavy",
+      "site": "Kennedy SC",
+      "country": "United States",
       "date": "Sun Nov 29 2026",
       "time": "04:00 PM PST",
       "status": "TBD",
