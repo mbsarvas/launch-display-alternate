@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-01T14:21:53.799584+00:00",
+  "fetched_at": "2026-10-01T14:27:57.275146+00:00",
   "launches": [
     {
       "mission": "Crew-13",
@@ -192,10 +192,10 @@
       "net": "2026-11-30T00:00:00Z"
     },
     {
-      "mission": "Griffin Mission One",
-      "rocket": "Falcon Heavy",
-      "site": "Kennedy SC",
-      "country": "United States",
+      "mission": "Gaganyaan-1",
+      "rocket": "LVM-3",
+      "site": "Sriharikota",
+      "country": "India",
       "date": "Sun Nov 29 2026",
       "time": "04:00 PM PST",
       "status": "TBD",
