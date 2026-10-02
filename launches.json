@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-10-02T03:50:09.992413+00:00",
+  "fetched_at": "2026-10-02T03:56:11.657574+00:00",
   "launches": [
-    {
-      "mission": "NROL-97",
-      "rocket": "Falcon Heavy",
-      "site": "Kennedy SC",
-      "country": "United States",
-      "date": "Thu Oct 01 2026",
-      "time": "08:54 PM PDT",
-      "status": "Go",
-      "net": "2026-10-02T03:54:00Z"
-    },
     {
       "mission": "SDA Tranche 1 Transport Layer A",
       "rocket": "Falcon 9 Block 5",
