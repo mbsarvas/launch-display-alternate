@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-02T17:23:50.615763+00:00",
+  "fetched_at": "2026-10-02T17:29:51.585907+00:00",
   "launches": [
     {
       "mission": "SDA Tranche 1 Transport Layer A",
@@ -48,8 +48,8 @@
       "country": "United States",
       "date": "Tue Oct 13 2026",
       "time": "03:33 AM PDT",
-      "status": "TBD",
-      "net": "2026-10-13T10:33:00Z"
+      "status": "Go",
+      "net": "2026-10-13T10:33:44Z"
     },
     {
       "mission": "Martian Moon eXplorer (MMX)",
