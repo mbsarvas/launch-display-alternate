@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-04T15:10:46.078722+00:00",
+  "fetched_at": "2026-10-04T15:16:47.605601+00:00",
   "launches": [
     {
       "mission": "SDA Tranche 1 Transport Layer A",
@@ -152,6 +152,16 @@
       "net": "2026-11-30T00:00:00Z"
     },
     {
+      "mission": "Cygnus CRS-2 NG-25",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Cape Canaveral SFS, FL, USA",
+      "country": "United States",
+      "date": "Sun Nov 29 2026",
+      "time": "04:00 PM PST",
+      "status": "TBD",
+      "net": "2026-11-30T00:00:00Z"
+    },
+    {
       "mission": "Gaganyaan-1",
       "rocket": "LVM-3",
       "site": "Sriharikota",
@@ -186,16 +196,6 @@
       "rocket": "HASTE",
       "site": "Wallops Flight Facility, Virginia, USA",
       "country": "United States",
-      "date": "Wed Dec 30 2026",
-      "time": "04:00 PM PST",
-      "status": "TBD",
-      "net": "2026-12-31T00:00:00Z"
-    },
-    {
-      "mission": "TV-D2",
-      "rocket": "Gaganyaan Abort Test Booster",
-      "site": "Sriharikota",
-      "country": "India",
       "date": "Wed Dec 30 2026",
       "time": "04:00 PM PST",
       "status": "TBD",
