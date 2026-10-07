@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-10-07T03:20:58.530352+00:00",
+  "fetched_at": "2026-10-07T03:27:00.710387+00:00",
   "launches": [
-    {
-      "mission": "NeonSat-2 to 6",
-      "rocket": "Nuri",
-      "site": "Naro SC, Korea",
-      "country": "South Korea",
-      "date": "Tue Oct 06 2026",
-      "time": "08:25 PM PDT",
-      "status": "Go",
-      "net": "2026-10-07T03:25:00Z"
-    },
     {
       "mission": "SDA Tranche 1 Transport Layer A",
       "rocket": "Falcon 9 Block 5",
