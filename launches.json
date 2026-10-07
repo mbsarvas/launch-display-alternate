@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-07T00:32:16.620876+00:00",
+  "fetched_at": "2026-10-07T00:38:17.636510+00:00",
   "launches": [
     {
       "mission": "NeonSat-2 to 6",
@@ -7,9 +7,9 @@
       "site": "Naro SC, Korea",
       "country": "South Korea",
       "date": "Tue Oct 06 2026",
-      "time": "08:23 PM PDT",
+      "time": "08:25 PM PDT",
       "status": "Go",
-      "net": "2026-10-07T03:23:00Z"
+      "net": "2026-10-07T03:25:00Z"
     },
     {
       "mission": "SDA Tranche 1 Transport Layer A",
