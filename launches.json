@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-10-07T20:31:22.393387+00:00",
+  "fetched_at": "2026-10-07T20:37:23.637924+00:00",
   "launches": [
     {
       "mission": "SDA Tranche 1 Transport Layer A",
       "rocket": "Falcon 9 Block 5",
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
-      "date": "Thu Oct 08 2026",
-      "time": "12:54 AM PDT",
+      "date": "Fri Oct 09 2026",
+      "time": "12:36 AM PDT",
       "status": "Go",
-      "net": "2026-10-08T07:54:00Z"
+      "net": "2026-10-09T07:36:00Z"
     },
     {
       "mission": "Unknown Payload",
