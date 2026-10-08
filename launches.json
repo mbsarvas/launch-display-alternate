@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-08T14:12:05.898319+00:00",
+  "fetched_at": "2026-10-08T14:18:07.623189+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -26,10 +26,10 @@
       "rocket": "Falcon 9 Block 5",
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
-      "date": "Sun Oct 11 2026",
+      "date": "Mon Oct 12 2026",
       "time": "04:00 PM PDT",
       "status": "Go",
-      "net": "2026-10-11T23:00:00Z"
+      "net": "2026-10-12T23:00:00Z"
     },
     {
       "mission": "Dragon CRS-2 SpX-35",
