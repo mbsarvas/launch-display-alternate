@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-08T18:01:34.588100+00:00",
+  "fetched_at": "2026-10-08T18:07:35.864611+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -62,6 +62,16 @@
       "net": "2026-10-19T19:41:03Z"
     },
     {
+      "mission": "Amazon Leo (LV-01)",
+      "rocket": "Vulcan VC6L",
+      "site": "Cape Canaveral SFS, FL, USA",
+      "country": "United States",
+      "date": "Wed Oct 28 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-10-29T00:00:00Z"
+    },
+    {
       "mission": "IRNSS-1L (NVS-03)",
       "rocket": "GSLV Mk II",
       "site": "Sriharikota",
@@ -106,16 +116,6 @@
       "rocket": "SSLV",
       "site": "Sriharikota",
       "country": "India",
-      "date": "Fri Oct 30 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-10-31T00:00:00Z"
-    },
-    {
-      "mission": "Amazon Leo (LV-01)",
-      "rocket": "Vulcan VC6L",
-      "site": "Cape Canaveral SFS, FL, USA",
-      "country": "United States",
       "date": "Fri Oct 30 2026",
       "time": "05:00 PM PDT",
       "status": "TBD",
