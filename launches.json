@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-10-09T19:21:27.984828+00:00",
+  "fetched_at": "2026-10-09T19:27:29.184037+00:00",
   "launches": [
-    {
-      "mission": "Unknown Payload",
-      "rocket": "Long March 12",
-      "site": "Wenchang Space Launch Site, People's Republic of China",
-      "country": "China",
-      "date": "Fri Oct 09 2026",
-      "time": "12:25 PM PDT",
-      "status": "Go",
-      "net": "2026-10-09T19:25:00Z"
-    },
     {
       "mission": "SDA Tranche 1 Transport Layer A",
       "rocket": "Falcon 9 Block 5",
