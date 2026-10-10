@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-10T19:21:22.843041+00:00",
+  "fetched_at": "2026-10-10T19:27:23.868991+00:00",
   "launches": [
     {
       "mission": "Starlink Group 15-25",
@@ -176,6 +176,16 @@
       "rocket": "HASTE",
       "site": "Wallops Flight Facility, Virginia, USA",
       "country": "United States",
+      "date": "Wed Dec 30 2026",
+      "time": "04:00 PM PST",
+      "status": "TBD",
+      "net": "2026-12-31T00:00:00Z"
+    },
+    {
+      "mission": "TV-D2",
+      "rocket": "Gaganyaan Abort Test Booster",
+      "site": "Sriharikota",
+      "country": "India",
       "date": "Wed Dec 30 2026",
       "time": "04:00 PM PST",
       "status": "TBD",
