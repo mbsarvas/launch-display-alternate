@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-12T15:10:04.161249+00:00",
+  "fetched_at": "2026-10-12T15:16:12.490494+00:00",
   "launches": [
     {
       "mission": "Starlink Group 15-25",
@@ -40,6 +40,16 @@
       "time": "12:41 PM PDT",
       "status": "Go",
       "net": "2026-10-19T19:41:03Z"
+    },
+    {
+      "mission": "Starlink Group 15-15",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Vandenberg SFB, CA, USA",
+      "country": "United States",
+      "date": "Tue Oct 20 2026",
+      "time": "03:14 PM PDT",
+      "status": "Go",
+      "net": "2026-10-20T22:14:00Z"
     },
     {
       "mission": "Amazon Leo (LV-01)",
@@ -186,16 +196,6 @@
       "rocket": "Gaganyaan Abort Test Booster",
       "site": "Sriharikota",
       "country": "India",
-      "date": "Wed Dec 30 2026",
-      "time": "04:00 PM PST",
-      "status": "TBD",
-      "net": "2026-12-31T00:00:00Z"
-    },
-    {
-      "mission": "USSF-23",
-      "rocket": "Vulcan",
-      "site": "Cape Canaveral SFS, FL, USA",
-      "country": "United States",
       "date": "Wed Dec 30 2026",
       "time": "04:00 PM PST",
       "status": "TBD",
