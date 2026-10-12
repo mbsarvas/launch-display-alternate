@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-12T22:06:29.545766+00:00",
+  "fetched_at": "2026-10-12T22:12:31.584962+00:00",
   "launches": [
     {
       "mission": "Starlink Group 15-25",
@@ -7,9 +7,9 @@
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
       "date": "Mon Oct 12 2026",
-      "time": "05:11 PM PDT",
+      "time": "05:28 PM PDT",
       "status": "Go",
-      "net": "2026-10-13T00:11:44Z"
+      "net": "2026-10-13T00:28:11Z"
     },
     {
       "mission": "Dragon CRS-2 SpX-35",
