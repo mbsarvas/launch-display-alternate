@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-12T23:31:12.065756+00:00",
+  "fetched_at": "2026-10-12T23:37:12.472183+00:00",
   "launches": [
     {
       "mission": "Starlink Group 15-25",
@@ -50,6 +50,16 @@
       "time": "03:14 PM PDT",
       "status": "Go",
       "net": "2026-10-20T22:14:00Z"
+    },
+    {
+      "mission": "We're Not Hawking Around (3x HawkEye 360)",
+      "rocket": "Electron",
+      "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "country": "New Zealand",
+      "date": "Tue Oct 20 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-10-21T00:00:00Z"
     },
     {
       "mission": "Amazon Leo (LV-01)",
@@ -110,6 +120,16 @@
       "time": "05:00 PM PDT",
       "status": "TBD",
       "net": "2026-10-31T00:00:00Z"
+    },
+    {
+      "mission": "The Sea God Surveys (iQPS Launch 10)",
+      "rocket": "Electron",
+      "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "country": "New Zealand",
+      "date": "Tue Nov 03 2026",
+      "time": "04:00 PM PST",
+      "status": "TBD",
+      "net": "2026-11-04T00:00:00Z"
     },
     {
       "mission": "Progress MS-36 (97P)",
@@ -176,26 +196,6 @@
       "rocket": "Falcon 9 Block 5",
       "site": "Cape Canaveral SFS, FL, USA",
       "country": "United States",
-      "date": "Wed Dec 30 2026",
-      "time": "04:00 PM PST",
-      "status": "TBD",
-      "net": "2026-12-31T00:00:00Z"
-    },
-    {
-      "mission": "Leidos-3",
-      "rocket": "HASTE",
-      "site": "Wallops Flight Facility, Virginia, USA",
-      "country": "United States",
-      "date": "Wed Dec 30 2026",
-      "time": "04:00 PM PST",
-      "status": "TBD",
-      "net": "2026-12-31T00:00:00Z"
-    },
-    {
-      "mission": "TV-D2",
-      "rocket": "Gaganyaan Abort Test Booster",
-      "site": "Sriharikota",
-      "country": "India",
       "date": "Wed Dec 30 2026",
       "time": "04:00 PM PST",
       "status": "TBD",
