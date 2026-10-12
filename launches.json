@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-12T23:37:12.472183+00:00",
+  "fetched_at": "2026-10-12T23:43:13.006733+00:00",
   "launches": [
     {
       "mission": "Starlink Group 15-25",
@@ -122,7 +122,7 @@
       "net": "2026-10-31T00:00:00Z"
     },
     {
-      "mission": "The Sea God Surveys (iQPS Launch 10)",
+      "mission": "The Sea God Surveys (iQPS Launch 9)",
       "rocket": "Electron",
       "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
       "country": "New Zealand",
@@ -130,6 +130,16 @@
       "time": "04:00 PM PST",
       "status": "TBD",
       "net": "2026-11-04T00:00:00Z"
+    },
+    {
+      "mission": "The Mountain God Rises (iQPS Launch 10)",
+      "rocket": "Electron",
+      "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "country": "New Zealand",
+      "date": "Mon Nov 09 2026",
+      "time": "04:00 PM PST",
+      "status": "TBD",
+      "net": "2026-11-10T00:00:00Z"
     },
     {
       "mission": "Progress MS-36 (97P)",
@@ -185,16 +195,6 @@
       "mission": "Leidos-4",
       "rocket": "HASTE",
       "site": "Wallops Flight Facility, Virginia, USA",
-      "country": "United States",
-      "date": "Wed Dec 30 2026",
-      "time": "04:00 PM PST",
-      "status": "TBD",
-      "net": "2026-12-31T00:00:00Z"
-    },
-    {
-      "mission": "Inmarsat-7 F1 (GX-7)",
-      "rocket": "Falcon 9 Block 5",
-      "site": "Cape Canaveral SFS, FL, USA",
       "country": "United States",
       "date": "Wed Dec 30 2026",
       "time": "04:00 PM PST",
