@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-10-13T10:28:40.281172+00:00",
+  "fetched_at": "2026-10-13T10:34:40.690780+00:00",
   "launches": [
-    {
-      "mission": "Dragon CRS-2 SpX-35",
-      "rocket": "Falcon 9 Block 5",
-      "site": "Cape Canaveral SFS, FL, USA",
-      "country": "United States",
-      "date": "Tue Oct 13 2026",
-      "time": "03:33 AM PDT",
-      "status": "Go",
-      "net": "2026-10-13T10:33:44Z"
-    },
     {
       "mission": "Unknown Payload",
       "rocket": "Zhuque-2E",
