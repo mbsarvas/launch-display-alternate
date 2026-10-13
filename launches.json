@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-12T23:55:14.401116+00:00",
+  "fetched_at": "2026-10-13T00:01:14.934329+00:00",
   "launches": [
     {
       "mission": "Starlink Group 15-25",
@@ -30,6 +30,16 @@
       "time": "04:44 PM PDT",
       "status": "Go",
       "net": "2026-10-15T23:44:00Z"
+    },
+    {
+      "mission": "Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Cape Canaveral SFS, FL, USA",
+      "country": "United States",
+      "date": "Sun Oct 18 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-10-19T00:00:00Z"
     },
     {
       "mission": "Martian Moons eXploration (MMX)",
@@ -76,16 +86,6 @@
       "rocket": "GSLV Mk II",
       "site": "Sriharikota",
       "country": "India",
-      "date": "Fri Oct 30 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-10-31T00:00:00Z"
-    },
-    {
-      "mission": "Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
-      "rocket": "Falcon 9 Block 5",
-      "site": "Cape Canaveral SFS, FL, USA",
-      "country": "United States",
       "date": "Fri Oct 30 2026",
       "time": "05:00 PM PDT",
       "status": "TBD",
