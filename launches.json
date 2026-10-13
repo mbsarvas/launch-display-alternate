@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-13T17:24:22.347877+00:00",
+  "fetched_at": "2026-10-13T17:30:39.274403+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -28,7 +28,7 @@
       "country": "United States",
       "date": "Mon Oct 19 2026",
       "time": "03:30 AM PDT",
-      "status": "TBD",
+      "status": "Go",
       "net": "2026-10-19T10:30:00Z"
     },
     {
