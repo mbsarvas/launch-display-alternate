@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-10-14T11:37:47.157355+00:00",
+  "fetched_at": "2026-10-14T11:43:48.553847+00:00",
   "launches": [
-    {
-      "mission": "Unknown Payload",
-      "rocket": "Zhuque-2E",
-      "site": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "country": "China",
-      "date": "Wed Oct 14 2026",
-      "time": "04:40 AM PDT",
-      "status": "Go",
-      "net": "2026-10-14T11:40:00Z"
-    },
     {
       "mission": "USSF-481",
       "rocket": "Falcon 9 Block 5",
