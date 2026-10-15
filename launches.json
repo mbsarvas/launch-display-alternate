@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-15T17:49:13.088736+00:00",
+  "fetched_at": "2026-10-15T17:55:14.468618+00:00",
   "launches": [
     {
       "mission": "USSF-481",
@@ -47,9 +47,9 @@
       "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
       "country": "New Zealand",
       "date": "Tue Oct 20 2026",
-      "time": "05:00 PM PDT",
+      "time": "10:00 PM PDT",
       "status": "TBD",
-      "net": "2026-10-21T00:00:00Z"
+      "net": "2026-10-21T05:00:00Z"
     },
     {
       "mission": "Starlink Group 15-16",
