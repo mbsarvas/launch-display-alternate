@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-15T20:44:16.876218+00:00",
+  "fetched_at": "2026-10-15T20:50:18.179913+00:00",
   "launches": [
     {
       "mission": "USSF-481",
@@ -7,9 +7,9 @@
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
       "date": "Thu Oct 15 2026",
-      "time": "04:57 PM PDT",
+      "time": "05:01 PM PDT",
       "status": "Go",
-      "net": "2026-10-15T23:57:05Z"
+      "net": "2026-10-16T00:01:05Z"
     },
     {
       "mission": "Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
