@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-10-15T23:57:21.393653+00:00",
+  "fetched_at": "2026-10-16T00:03:22.394024+00:00",
   "launches": [
-    {
-      "mission": "USSF-481",
-      "rocket": "Falcon 9 Block 5",
-      "site": "Vandenberg SFB, CA, USA",
-      "country": "United States",
-      "date": "Thu Oct 15 2026",
-      "time": "05:01 PM PDT",
-      "status": "Go",
-      "net": "2026-10-16T00:01:05Z"
-    },
     {
       "mission": "Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
       "rocket": "Falcon 9 Block 5",
