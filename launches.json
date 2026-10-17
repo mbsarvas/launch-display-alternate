@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-17T14:09:41.342852+00:00",
+  "fetched_at": "2026-10-17T14:15:43.287410+00:00",
   "launches": [
     {
       "mission": "Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
@@ -60,6 +60,16 @@
       "time": "07:57 PM PDT",
       "status": "Go",
       "net": "2026-10-22T02:57:00Z"
+    },
+    {
+      "mission": "Unknown Payload",
+      "rocket": "Long March 6A",
+      "site": "Taiyuan Satellite Launch Center, People's Republic of China",
+      "country": "China",
+      "date": "Fri Oct 23 2026",
+      "time": "03:15 AM PDT",
+      "status": "Go",
+      "net": "2026-10-23T10:15:00Z"
     },
     {
       "mission": "Unknown Payload",
@@ -190,16 +200,6 @@
       "time": "04:00 PM PST",
       "status": "TBD",
       "net": "2026-11-30T00:00:00Z"
-    },
-    {
-      "mission": "Leidos-4",
-      "rocket": "HASTE",
-      "site": "Wallops Flight Facility, Virginia, USA",
-      "country": "United States",
-      "date": "Wed Dec 30 2026",
-      "time": "04:00 PM PST",
-      "status": "TBD",
-      "net": "2026-12-31T00:00:00Z"
     }
   ]
 }
