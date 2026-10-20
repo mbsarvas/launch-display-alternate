@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-10-20T22:58:42.862981+00:00",
+  "fetched_at": "2026-10-20T23:04:44.264824+00:00",
   "launches": [
-    {
-      "mission": "Starlink Group 15-15",
-      "rocket": "Falcon 9 Block 5",
-      "site": "Vandenberg SFB, CA, USA",
-      "country": "United States",
-      "date": "Tue Oct 20 2026",
-      "time": "05:06 PM PDT",
-      "status": "Go",
-      "net": "2026-10-21T00:06:47Z"
-    },
     {
       "mission": "Unknown Payload",
       "rocket": "Ceres-1S",
@@ -30,6 +20,16 @@
       "time": "12:00 AM PDT",
       "status": "Go",
       "net": "2026-10-21T07:00:00Z"
+    },
+    {
+      "mission": "Starlink Group 15-15",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Vandenberg SFB, CA, USA",
+      "country": "United States",
+      "date": "Wed Oct 21 2026",
+      "time": "02:59 PM PDT",
+      "status": "Go",
+      "net": "2026-10-21T21:59:00Z"
     },
     {
       "mission": "Unknown Payload",
