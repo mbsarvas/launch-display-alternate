@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-20T12:31:35.176605+00:00",
+  "fetched_at": "2026-10-20T12:37:38.192837+00:00",
   "launches": [
     {
       "mission": "Starlink Group 15-15",
@@ -33,16 +33,6 @@
     },
     {
       "mission": "Unknown Payload",
-      "rocket": "Long March 8A",
-      "site": "Wenchang Space Launch Site, People's Republic of China",
-      "country": "China",
-      "date": "Wed Oct 21 2026",
-      "time": "07:57 PM PDT",
-      "status": "Go",
-      "net": "2026-10-22T02:57:00Z"
-    },
-    {
-      "mission": "Unknown Payload",
       "rocket": "Long March 6A",
       "site": "Taiyuan Satellite Launch Center, People's Republic of China",
       "country": "China",
@@ -70,6 +60,16 @@
       "time": "10:29 PM PDT",
       "status": "Go",
       "net": "2026-10-24T05:29:00Z"
+    },
+    {
+      "mission": "Unknown Payload",
+      "rocket": "Long March 8A",
+      "site": "Wenchang Space Launch Site, People's Republic of China",
+      "country": "China",
+      "date": "Sat Oct 24 2026",
+      "time": "06:50 PM PDT",
+      "status": "Go",
+      "net": "2026-10-25T01:50:00Z"
     },
     {
       "mission": "Starlink Group 15-18",
