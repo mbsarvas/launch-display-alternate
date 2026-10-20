@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-20T12:19:25.677880+00:00",
+  "fetched_at": "2026-10-20T12:25:27.267006+00:00",
   "launches": [
     {
       "mission": "Starlink Group 15-15",
@@ -132,6 +132,16 @@
       "net": "2026-11-04T00:00:00Z"
     },
     {
+      "mission": "NROL-195",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Vandenberg SFB, CA, USA",
+      "country": "United States",
+      "date": "Thu Nov 05 2026",
+      "time": "02:34 PM PST",
+      "status": "TBD",
+      "net": "2026-11-05T22:34:00Z"
+    },
+    {
       "mission": "Starlink Group 15-21",
       "rocket": "Falcon 9 Block 5",
       "site": "Vandenberg SFB, CA, USA",
@@ -170,16 +180,6 @@
       "time": "09:03 PM PST",
       "status": "TBD",
       "net": "2026-11-24T05:03:00Z"
-    },
-    {
-      "mission": "TDS-01",
-      "rocket": "PSLV-XL",
-      "site": "Sriharikota",
-      "country": "India",
-      "date": "Sun Nov 29 2026",
-      "time": "04:00 PM PST",
-      "status": "TBD",
-      "net": "2026-11-30T00:00:00Z"
     }
   ]
 }
