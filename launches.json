@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-20T09:59:53.309954+00:00",
+  "fetched_at": "2026-10-20T10:05:54.619460+00:00",
   "launches": [
     {
       "mission": "Bandwagon 5 (Dedicated Mid-Inclination Rideshare)",
@@ -7,9 +7,9 @@
       "site": "Cape Canaveral SFS, FL, USA",
       "country": "United States",
       "date": "Tue Oct 20 2026",
-      "time": "03:30 AM PDT",
+      "time": "04:04 AM PDT",
       "status": "Go",
-      "net": "2026-10-20T10:30:00Z"
+      "net": "2026-10-20T11:04:00Z"
     },
     {
       "mission": "Starlink Group 15-15",
