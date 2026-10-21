@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-21T05:12:41.215014+00:00",
+  "fetched_at": "2026-10-21T05:18:42.278808+00:00",
   "launches": [
     {
       "mission": "Starlink Group 15-15",
@@ -10,6 +10,16 @@
       "time": "04:02 PM PDT",
       "status": "Go",
       "net": "2026-10-21T23:02:41Z"
+    },
+    {
+      "mission": "We're Not Hawking Around (3x HawkEye 360)",
+      "rocket": "Electron",
+      "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "country": "New Zealand",
+      "date": "Thu Oct 22 2026",
+      "time": "12:00 AM PDT",
+      "status": "TBD",
+      "net": "2026-10-22T07:00:00Z"
     },
     {
       "mission": "Unknown Payload",
@@ -76,16 +86,6 @@
       "rocket": "GSLV Mk II",
       "site": "Sriharikota",
       "country": "India",
-      "date": "Fri Oct 30 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-10-31T00:00:00Z"
-    },
-    {
-      "mission": "We're Not Hawking Around (3x HawkEye 360)",
-      "rocket": "Electron",
-      "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-      "country": "New Zealand",
       "date": "Fri Oct 30 2026",
       "time": "05:00 PM PDT",
       "status": "TBD",
