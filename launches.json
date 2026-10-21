@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-10-21T05:00:38.475034+00:00",
+  "fetched_at": "2026-10-21T05:06:39.795308+00:00",
   "launches": [
-    {
-      "mission": "We're Not Hawking Around (3x HawkEye 360)",
-      "rocket": "Electron",
-      "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-      "country": "New Zealand",
-      "date": "Wed Oct 21 2026",
-      "time": "12:00 AM PDT",
-      "status": "Go",
-      "net": "2026-10-21T07:00:00Z"
-    },
     {
       "mission": "Starlink Group 15-15",
       "rocket": "Falcon 9 Block 5",
@@ -86,6 +76,16 @@
       "rocket": "GSLV Mk II",
       "site": "Sriharikota",
       "country": "India",
+      "date": "Fri Oct 30 2026",
+      "time": "05:00 PM PDT",
+      "status": "TBD",
+      "net": "2026-10-31T00:00:00Z"
+    },
+    {
+      "mission": "We're Not Hawking Around (3x HawkEye 360)",
+      "rocket": "Electron",
+      "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "country": "New Zealand",
       "date": "Fri Oct 30 2026",
       "time": "05:00 PM PDT",
       "status": "TBD",
