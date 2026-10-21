@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-10-21T23:26:15.702103+00:00",
+  "fetched_at": "2026-10-21T23:32:17.339036+00:00",
   "launches": [
-    {
-      "mission": "Starlink Group 15-15",
-      "rocket": "Falcon 9 Block 5",
-      "site": "Vandenberg SFB, CA, USA",
-      "country": "United States",
-      "date": "Wed Oct 21 2026",
-      "time": "04:38 PM PDT",
-      "status": "Hold",
-      "net": "2026-10-21T23:38:57Z"
-    },
     {
       "mission": "We're Not Hawking Around (3x HawkEye 360)",
       "rocket": "Electron",
@@ -20,6 +10,16 @@
       "time": "12:00 AM PDT",
       "status": "TBD",
       "net": "2026-10-22T07:00:00Z"
+    },
+    {
+      "mission": "Starlink Group 15-15",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Vandenberg SFB, CA, USA",
+      "country": "United States",
+      "date": "Thu Oct 22 2026",
+      "time": "02:45 PM PDT",
+      "status": "Go",
+      "net": "2026-10-22T21:45:00Z"
     },
     {
       "mission": "Unknown Payload",
