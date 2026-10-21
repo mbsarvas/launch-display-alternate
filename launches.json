@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-10-21T03:29:47.672673+00:00",
+  "fetched_at": "2026-10-21T03:35:48.743810+00:00",
   "launches": [
-    {
-      "mission": "Unknown Payload",
-      "rocket": "Ceres-1S",
-      "site": "Haiyang Oriental Spaceport",
-      "country": "China",
-      "date": "Tue Oct 20 2026",
-      "time": "08:35 PM PDT",
-      "status": "Go",
-      "net": "2026-10-21T03:35:00Z"
-    },
     {
       "mission": "We're Not Hawking Around (3x HawkEye 360)",
       "rocket": "Electron",
