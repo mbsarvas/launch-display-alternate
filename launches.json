@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-21T21:00:49.111712+00:00",
+  "fetched_at": "2026-10-21T21:06:50.204770+00:00",
   "launches": [
     {
       "mission": "Starlink Group 15-15",
@@ -7,9 +7,9 @@
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
       "date": "Wed Oct 21 2026",
-      "time": "04:02 PM PDT",
+      "time": "04:22 PM PDT",
       "status": "Go",
-      "net": "2026-10-21T23:02:41Z"
+      "net": "2026-10-21T23:22:34Z"
     },
     {
       "mission": "We're Not Hawking Around (3x HawkEye 360)",
@@ -42,16 +42,6 @@
       "net": "2026-10-23T19:25:00Z"
     },
     {
-      "mission": "Starlink Group 15-16",
-      "rocket": "Falcon 9 Block 5",
-      "site": "Vandenberg SFB, CA, USA",
-      "country": "United States",
-      "date": "Fri Oct 23 2026",
-      "time": "10:29 PM PDT",
-      "status": "Go",
-      "net": "2026-10-24T05:29:00Z"
-    },
-    {
       "mission": "Unknown Payload",
       "rocket": "Long March 8A",
       "site": "Wenchang Space Launch Site, People's Republic of China",
@@ -60,6 +50,16 @@
       "time": "06:50 PM PDT",
       "status": "Go",
       "net": "2026-10-25T01:50:00Z"
+    },
+    {
+      "mission": "Starlink Group 15-16",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Vandenberg SFB, CA, USA",
+      "country": "United States",
+      "date": "Sat Oct 24 2026",
+      "time": "10:14 PM PDT",
+      "status": "Go",
+      "net": "2026-10-25T05:14:00Z"
     },
     {
       "mission": "Starlink Group 15-18",
