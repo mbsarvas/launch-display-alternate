@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-22T01:03:07.407773+00:00",
+  "fetched_at": "2026-10-22T01:09:09.103784+00:00",
   "launches": [
     {
       "mission": "We're Not Hawking Around (3x HawkEye 360)",
@@ -17,9 +17,9 @@
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
       "date": "Thu Oct 22 2026",
-      "time": "02:45 PM PDT",
+      "time": "03:40 PM PDT",
       "status": "Go",
-      "net": "2026-10-22T21:45:00Z"
+      "net": "2026-10-22T22:40:24Z"
     },
     {
       "mission": "Unknown Payload",
@@ -56,20 +56,10 @@
       "rocket": "Falcon 9 Block 5",
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
-      "date": "Sat Oct 24 2026",
-      "time": "10:14 PM PDT",
+      "date": "Sun Oct 25 2026",
+      "time": "10:00 PM PDT",
       "status": "Go",
-      "net": "2026-10-25T05:14:00Z"
-    },
-    {
-      "mission": "Starlink Group 15-18",
-      "rocket": "Falcon 9 Block 5",
-      "site": "Vandenberg SFB, CA, USA",
-      "country": "United States",
-      "date": "Tue Oct 27 2026",
-      "time": "09:31 PM PDT",
-      "status": "Go",
-      "net": "2026-10-28T04:31:00Z"
+      "net": "2026-10-26T05:00:00Z"
     },
     {
       "mission": "Amazon Leo (LV-01)",
@@ -80,6 +70,16 @@
       "time": "05:00 PM PDT",
       "status": "TBD",
       "net": "2026-10-29T00:00:00Z"
+    },
+    {
+      "mission": "Starlink Group 15-18",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Vandenberg SFB, CA, USA",
+      "country": "United States",
+      "date": "Wed Oct 28 2026",
+      "time": "09:17 PM PDT",
+      "status": "Go",
+      "net": "2026-10-29T04:17:00Z"
     },
     {
       "mission": "IRNSS-1L (NVS-03)",
