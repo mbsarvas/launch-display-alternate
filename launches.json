@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-23T08:04:54.508404+00:00",
+  "fetched_at": "2026-10-23T08:11:01.352090+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -76,10 +76,10 @@
       "rocket": "GSLV Mk II",
       "site": "Sriharikota",
       "country": "India",
-      "date": "Thu Oct 29 2026",
-      "time": "05:00 PM PDT",
+      "date": "Fri Oct 30 2026",
+      "time": "10:00 AM PDT",
       "status": "TBD",
-      "net": "2026-10-30T00:00:00Z"
+      "net": "2026-10-30T17:00:00Z"
     },
     {
       "mission": "Flight 2",
@@ -96,10 +96,10 @@
       "rocket": "Electron",
       "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
       "country": "New Zealand",
-      "date": "Tue Nov 03 2026",
+      "date": "Mon Nov 02 2026",
       "time": "04:00 PM PST",
       "status": "TBD",
-      "net": "2026-11-04T00:00:00Z"
+      "net": "2026-11-03T00:00:00Z"
     },
     {
       "mission": "Starlink Group 15-21",
