@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-10-23T10:11:38.437680+00:00",
+  "fetched_at": "2026-10-23T10:17:39.520868+00:00",
   "launches": [
-    {
-      "mission": "Unknown Payload",
-      "rocket": "Long March 6A",
-      "site": "Taiyuan Satellite Launch Center, People's Republic of China",
-      "country": "China",
-      "date": "Fri Oct 23 2026",
-      "time": "03:15 AM PDT",
-      "status": "Go",
-      "net": "2026-10-23T10:15:00Z"
-    },
     {
       "mission": "Unknown Payload",
       "rocket": "Long March 4B",
