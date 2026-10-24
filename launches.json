@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-24T10:09:01.594339+00:00",
+  "fetched_at": "2026-10-24T10:15:09.699002+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -165,6 +165,16 @@
       "mission": "Leidos-4",
       "rocket": "HASTE",
       "site": "Wallops Flight Facility, Virginia, USA",
+      "country": "United States",
+      "date": "Wed Dec 30 2026",
+      "time": "04:00 PM PST",
+      "status": "TBD",
+      "net": "2026-12-31T00:00:00Z"
+    },
+    {
+      "mission": "Inmarsat-7 F1 (GX-7)",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Cape Canaveral SFS, FL, USA",
       "country": "United States",
       "date": "Wed Dec 30 2026",
       "time": "04:00 PM PST",
