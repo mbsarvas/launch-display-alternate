@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-26T11:59:33.696144+00:00",
+  "fetched_at": "2026-10-26T12:05:35.360422+00:00",
   "launches": [
     {
       "mission": "Starlink Group 15-16",
@@ -27,9 +27,9 @@
       "site": "Sriharikota",
       "country": "India",
       "date": "Fri Oct 30 2026",
-      "time": "10:00 AM PDT",
-      "status": "TBD",
-      "net": "2026-10-30T17:00:00Z"
+      "time": "11:21 AM PDT",
+      "status": "Go",
+      "net": "2026-10-30T18:21:00Z"
     },
     {
       "mission": "Flight 2",
