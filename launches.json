@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-26T12:47:49.463155+00:00",
+  "fetched_at": "2026-10-26T12:53:55.087673+00:00",
   "launches": [
     {
       "mission": "Starlink Group 15-16",
@@ -30,16 +30,6 @@
       "time": "11:21 AM PDT",
       "status": "Go",
       "net": "2026-10-30T18:21:00Z"
-    },
-    {
-      "mission": "Flight 2",
-      "rocket": "Long March 12A",
-      "site": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "country": "China",
-      "date": "Fri Oct 30 2026",
-      "time": "05:00 PM PDT",
-      "status": "TBD",
-      "net": "2026-10-31T00:00:00Z"
     },
     {
       "mission": "The Sea God Surveys (iQPS Launch 9)",
@@ -196,6 +186,16 @@
       "rocket": "Gaganyaan Abort Test Booster",
       "site": "Sriharikota",
       "country": "India",
+      "date": "Wed Dec 30 2026",
+      "time": "04:00 PM PST",
+      "status": "TBD",
+      "net": "2026-12-31T00:00:00Z"
+    },
+    {
+      "mission": "USSF-23",
+      "rocket": "Vulcan",
+      "site": "Cape Canaveral SFS, FL, USA",
+      "country": "United States",
       "date": "Wed Dec 30 2026",
       "time": "04:00 PM PST",
       "status": "TBD",
