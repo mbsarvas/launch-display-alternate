@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-28T19:38:55.904345+00:00",
+  "fetched_at": "2026-10-28T19:44:57.328350+00:00",
   "launches": [
     {
       "mission": "IRNSS-1L (NVS-03)",
@@ -32,6 +32,16 @@
       "net": "2026-11-02T08:45:00Z"
     },
     {
+      "mission": "SpaceSail Polar Group TBD?",
+      "rocket": "Kinetica 2",
+      "site": "Jiuquan Satellite Launch Center, People's Republic of China",
+      "country": "China",
+      "date": "Mon Nov 02 2026",
+      "time": "04:10 PM PST",
+      "status": "Go",
+      "net": "2026-11-03T00:10:00Z"
+    },
+    {
       "mission": "USSF-432",
       "rocket": "Falcon 9 Block 5",
       "site": "Vandenberg SFB, CA, USA",
@@ -50,6 +60,16 @@
       "time": "09:00 PM PST",
       "status": "TBD",
       "net": "2026-11-04T05:00:00Z"
+    },
+    {
+      "mission": "Unknown Payload",
+      "rocket": "Ceres-2",
+      "site": "Jiuquan Satellite Launch Center, People's Republic of China",
+      "country": "China",
+      "date": "Wed Nov 04 2026",
+      "time": "01:00 PM PST",
+      "status": "TBD",
+      "net": "2026-11-04T21:00:00Z"
     },
     {
       "mission": "SatNet LEO Group TBD?",
@@ -173,26 +193,6 @@
     },
     {
       "mission": "Leidos-4",
-      "rocket": "HASTE",
-      "site": "Wallops Flight Facility, Virginia, USA",
-      "country": "United States",
-      "date": "Wed Dec 30 2026",
-      "time": "04:00 PM PST",
-      "status": "TBD",
-      "net": "2026-12-31T00:00:00Z"
-    },
-    {
-      "mission": "Inmarsat-7 F1 (GX-7)",
-      "rocket": "Falcon 9 Block 5",
-      "site": "Cape Canaveral SFS, FL, USA",
-      "country": "United States",
-      "date": "Wed Dec 30 2026",
-      "time": "04:00 PM PST",
-      "status": "TBD",
-      "net": "2026-12-31T00:00:00Z"
-    },
-    {
-      "mission": "Leidos-3",
       "rocket": "HASTE",
       "site": "Wallops Flight Facility, Virginia, USA",
       "country": "United States",
