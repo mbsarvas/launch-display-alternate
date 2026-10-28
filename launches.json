@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-10-28T19:20:50.263739+00:00",
+  "fetched_at": "2026-10-28T19:26:52.072310+00:00",
   "launches": [
-    {
-      "mission": "Starlink Group 15-18",
-      "rocket": "Falcon 9 Block 5",
-      "site": "Vandenberg SFB, CA, USA",
-      "country": "United States",
-      "date": "Thu Oct 29 2026",
-      "time": "09:02 PM PDT",
-      "status": "Go",
-      "net": "2026-10-30T04:02:00Z"
-    },
     {
       "mission": "IRNSS-1L (NVS-03)",
       "rocket": "GSLV Mk II",
@@ -22,14 +12,14 @@
       "net": "2026-10-30T18:21:00Z"
     },
     {
-      "mission": "USSF-432",
+      "mission": "Starlink Group 15-18",
       "rocket": "Falcon 9 Block 5",
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
-      "date": "Sun Nov 01 2026",
-      "time": "05:56 PM PST",
+      "date": "Fri Oct 30 2026",
+      "time": "08:48 PM PDT",
       "status": "Go",
-      "net": "2026-11-02T01:56:00Z"
+      "net": "2026-10-31T03:48:00Z"
     },
     {
       "mission": "The Sea God Surveys (iQPS Launch 9)",
@@ -42,6 +32,16 @@
       "net": "2026-11-02T08:45:00Z"
     },
     {
+      "mission": "USSF-432",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Vandenberg SFB, CA, USA",
+      "country": "United States",
+      "date": "Mon Nov 02 2026",
+      "time": "05:42 PM PST",
+      "status": "Go",
+      "net": "2026-11-03T01:42:00Z"
+    },
+    {
       "mission": "Demo Flight",
       "rocket": "Mir",
       "site": "Sea Launch",
@@ -52,16 +52,6 @@
       "net": "2026-11-04T05:00:00Z"
     },
     {
-      "mission": "Starlink Group 15-21",
-      "rocket": "Falcon 9 Block 5",
-      "site": "Vandenberg SFB, CA, USA",
-      "country": "United States",
-      "date": "Wed Nov 04 2026",
-      "time": "06:35 PM PST",
-      "status": "Go",
-      "net": "2026-11-05T02:35:00Z"
-    },
-    {
       "mission": "SatNet LEO Group TBD?",
       "rocket": "Long March 12",
       "site": "Wenchang Space Launch Site, People's Republic of China",
@@ -70,6 +60,16 @@
       "time": "12:00 PM PST",
       "status": "TBD",
       "net": "2026-11-05T20:00:00Z"
+    },
+    {
+      "mission": "Starlink Group 15-21",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Vandenberg SFB, CA, USA",
+      "country": "United States",
+      "date": "Thu Nov 05 2026",
+      "time": "06:21 PM PST",
+      "status": "Go",
+      "net": "2026-11-06T02:21:00Z"
     },
     {
       "mission": "The Mountain God Rises (iQPS Launch 10)",
