@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-28T15:12:54.973139+00:00",
+  "fetched_at": "2026-10-28T15:18:56.952082+00:00",
   "launches": [
     {
       "mission": "Starlink Group 15-18",
@@ -70,6 +70,16 @@
       "time": "04:00 PM PST",
       "status": "TBD",
       "net": "2026-11-10T00:00:00Z"
+    },
+    {
+      "mission": "Amazon Leo (LV-01)",
+      "rocket": "Vulcan VC6L",
+      "site": "Cape Canaveral SFS, FL, USA",
+      "country": "United States",
+      "date": "Thu Nov 12 2026",
+      "time": "04:00 PM PST",
+      "status": "TBD",
+      "net": "2026-11-13T00:00:00Z"
     },
     {
       "mission": "Amazon Leo (LE-04)",
@@ -146,16 +156,6 @@
       "rocket": "LVM-3",
       "site": "Sriharikota",
       "country": "India",
-      "date": "Sun Nov 29 2026",
-      "time": "04:00 PM PST",
-      "status": "TBD",
-      "net": "2026-11-30T00:00:00Z"
-    },
-    {
-      "mission": "Amazon Leo (LV-01)",
-      "rocket": "Vulcan VC6L",
-      "site": "Cape Canaveral SFS, FL, USA",
-      "country": "United States",
       "date": "Sun Nov 29 2026",
       "time": "04:00 PM PST",
       "status": "TBD",
