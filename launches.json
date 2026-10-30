@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-30T13:31:51.363396+00:00",
+  "fetched_at": "2026-10-30T13:37:52.750885+00:00",
   "launches": [
     {
       "mission": "IRNSS-1L (NVS-03)",
@@ -72,14 +72,24 @@
       "net": "2026-11-04T21:00:00Z"
     },
     {
+      "mission": "Unknown Payload",
+      "rocket": "Long March 2C",
+      "site": "Xichang Satellite Launch Center, People's Republic of China",
+      "country": "China",
+      "date": "Thu Nov 05 2026",
+      "time": "08:00 AM PST",
+      "status": "Go",
+      "net": "2026-11-05T16:00:00Z"
+    },
+    {
       "mission": "SatNet LEO Group TBD?",
       "rocket": "Long March 12",
       "site": "Wenchang Space Launch Site, People's Republic of China",
       "country": "China",
       "date": "Thu Nov 05 2026",
-      "time": "12:00 PM PST",
-      "status": "TBD",
-      "net": "2026-11-05T20:00:00Z"
+      "time": "01:15 PM PST",
+      "status": "Go",
+      "net": "2026-11-05T21:15:00Z"
     },
     {
       "mission": "Starlink Group 15-21",
@@ -183,16 +193,6 @@
     },
     {
       "mission": "NROL-195",
-      "rocket": "Falcon 9 Block 5",
-      "site": "Vandenberg SFB, CA, USA",
-      "country": "United States",
-      "date": "Sun Nov 29 2026",
-      "time": "04:00 PM PST",
-      "status": "TBD",
-      "net": "2026-11-30T00:00:00Z"
-    },
-    {
-      "mission": "OneWeb 21",
       "rocket": "Falcon 9 Block 5",
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
