@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-30T14:14:12.461706+00:00",
+  "fetched_at": "2026-10-30T14:20:16.251276+00:00",
   "launches": [
     {
       "mission": "IRNSS-1L (NVS-03)",
@@ -17,9 +17,9 @@
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
       "date": "Fri Oct 30 2026",
-      "time": "08:48 PM PDT",
+      "time": "09:02 PM PDT",
       "status": "Go",
-      "net": "2026-10-31T03:48:00Z"
+      "net": "2026-10-31T04:02:22Z"
     },
     {
       "mission": "The Sea God Surveys (iQPS Launch 9)",
