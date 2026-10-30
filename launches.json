@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-10-30T18:15:45.426197+00:00",
+  "fetched_at": "2026-10-30T18:21:46.796896+00:00",
   "launches": [
-    {
-      "mission": "IRNSS-1L (NVS-03)",
-      "rocket": "GSLV Mk II",
-      "site": "Sriharikota",
-      "country": "India",
-      "date": "Fri Oct 30 2026",
-      "time": "11:21 AM PDT",
-      "status": "Go",
-      "net": "2026-10-30T18:21:00Z"
-    },
     {
       "mission": "Starlink Group 15-18",
       "rocket": "Falcon 9 Block 5",
