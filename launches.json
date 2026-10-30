@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-30T07:17:04.239310+00:00",
+  "fetched_at": "2026-10-30T07:23:05.354379+00:00",
   "launches": [
     {
       "mission": "IRNSS-1L (NVS-03)",
@@ -27,9 +27,9 @@
       "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
       "country": "New Zealand",
       "date": "Mon Nov 02 2026",
-      "time": "12:45 AM PST",
+      "time": "08:00 AM PST",
       "status": "TBD",
-      "net": "2026-11-02T08:45:00Z"
+      "net": "2026-11-02T16:00:00Z"
     },
     {
       "mission": "SpaceSail Polar Group TBD?",
