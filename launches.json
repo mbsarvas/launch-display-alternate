@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-10-31T02:31:09.595310+00:00",
+  "fetched_at": "2026-10-31T02:37:11.097514+00:00",
   "launches": [
     {
       "mission": "Starlink Group 15-18",
@@ -7,9 +7,9 @@
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
       "date": "Fri Oct 30 2026",
-      "time": "09:02 PM PDT",
+      "time": "09:04 PM PDT",
       "status": "Go",
-      "net": "2026-10-31T04:02:22Z"
+      "net": "2026-10-31T04:04:34Z"
     },
     {
       "mission": "The Sea God Surveys (iQPS Launch 9)",
