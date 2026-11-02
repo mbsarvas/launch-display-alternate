@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-02T02:49:48.598692+00:00",
+  "fetched_at": "2026-11-02T02:55:51.161348+00:00",
   "launches": [
     {
       "mission": "The Sea God Surveys (iQPS Launch 9)",
@@ -43,16 +43,6 @@
     },
     {
       "mission": "Unknown Payload",
-      "rocket": "Ceres-2",
-      "site": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "country": "China",
-      "date": "Wed Nov 04 2026",
-      "time": "01:00 PM PST",
-      "status": "TBD",
-      "net": "2026-11-04T21:00:00Z"
-    },
-    {
-      "mission": "Unknown Payload",
       "rocket": "Long March 2C",
       "site": "Xichang Satellite Launch Center, People's Republic of China",
       "country": "China",
@@ -70,6 +60,16 @@
       "time": "01:15 PM PST",
       "status": "Go",
       "net": "2026-11-05T21:15:00Z"
+    },
+    {
+      "mission": "Unknown Payload",
+      "rocket": "Ceres-2",
+      "site": "Jiuquan Satellite Launch Center, People's Republic of China",
+      "country": "China",
+      "date": "Fri Nov 06 2026",
+      "time": "03:35 PM PST",
+      "status": "Go",
+      "net": "2026-11-06T23:35:00Z"
     },
     {
       "mission": "The Mountain God Rises (iQPS Launch 10)",
