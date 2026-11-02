@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-02T00:30:51.437755+00:00",
+  "fetched_at": "2026-11-02T00:36:56.419936+00:00",
   "launches": [
     {
       "mission": "The Sea God Surveys (iQPS Launch 9)",
@@ -70,16 +70,6 @@
       "time": "01:15 PM PST",
       "status": "Go",
       "net": "2026-11-05T21:15:00Z"
-    },
-    {
-      "mission": "Starlink Group 15-21",
-      "rocket": "Falcon 9 Block 5",
-      "site": "Vandenberg SFB, CA, USA",
-      "country": "United States",
-      "date": "Thu Nov 05 2026",
-      "time": "06:21 PM PST",
-      "status": "Go",
-      "net": "2026-11-06T02:21:00Z"
     },
     {
       "mission": "The Mountain God Rises (iQPS Launch 10)",
@@ -185,6 +175,16 @@
       "mission": "Flight 15",
       "rocket": "Starship",
       "site": "SpaceX Starbase, TX, USA",
+      "country": "United States",
+      "date": "Sun Nov 29 2026",
+      "time": "04:00 PM PST",
+      "status": "TBD",
+      "net": "2026-11-30T00:00:00Z"
+    },
+    {
+      "mission": "Starlink Group 15-21",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
       "date": "Sun Nov 29 2026",
       "time": "04:00 PM PST",
