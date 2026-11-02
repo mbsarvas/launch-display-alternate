@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-02T17:50:50.801598+00:00",
+  "fetched_at": "2026-11-02T17:56:52.770657+00:00",
   "launches": [
     {
       "mission": "SpaceSail Polar Group TBD?",
@@ -157,9 +157,9 @@
       "site": "Cape Canaveral SFS, FL, USA",
       "country": "United States",
       "date": "Sun Nov 29 2026",
-      "time": "08:00 AM PST",
-      "status": "TBD",
-      "net": "2026-11-29T16:00:00Z"
+      "time": "07:49 AM PST",
+      "status": "Go",
+      "net": "2026-11-29T15:49:00Z"
     },
     {
       "mission": "Flight 15",
