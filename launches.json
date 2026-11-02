@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-02T16:01:32.215674+00:00",
+  "fetched_at": "2026-11-02T16:07:36.662453+00:00",
   "launches": [
     {
       "mission": "The Sea God Surveys (iQPS Launch 9)",
@@ -76,10 +76,10 @@
       "rocket": "Falcon 9 Block 5",
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
-      "date": "Mon Nov 09 2026",
-      "time": "07:03 PM PST",
+      "date": "Sun Nov 08 2026",
+      "time": "07:17 PM PST",
       "status": "TBD",
-      "net": "2026-11-10T03:03:00Z"
+      "net": "2026-11-09T03:17:00Z"
     },
     {
       "mission": "Amazon Leo (LV-01)",
