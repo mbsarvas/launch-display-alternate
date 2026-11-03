@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-03T23:29:09.517072+00:00",
+  "fetched_at": "2026-11-03T23:35:13.809770+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -52,13 +52,13 @@
       "net": "2026-11-10T03:03:00Z"
     },
     {
-      "mission": "USSF-xxx (\"R-6\")",
+      "mission": "USSF-317",
       "rocket": "Falcon 9 Block 5",
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
       "date": "Thu Nov 12 2026",
       "time": "08:23 PM PST",
-      "status": "TBD",
+      "status": "Go",
       "net": "2026-11-13T04:23:00Z"
     },
     {
