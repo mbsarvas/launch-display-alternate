@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-03T13:05:52.508030+00:00",
+  "fetched_at": "2026-11-03T13:11:54.151640+00:00",
   "launches": [
     {
       "mission": "Demo Flight",
@@ -22,16 +22,6 @@
       "net": "2026-11-05T16:00:00Z"
     },
     {
-      "mission": "SatNet LEO Group TBD?",
-      "rocket": "Long March 12",
-      "site": "Wenchang Space Launch Site, People's Republic of China",
-      "country": "China",
-      "date": "Thu Nov 05 2026",
-      "time": "01:15 PM PST",
-      "status": "Go",
-      "net": "2026-11-05T21:15:00Z"
-    },
-    {
       "mission": "Unknown Payload",
       "rocket": "Ceres-2",
       "site": "Jiuquan Satellite Launch Center, People's Republic of China",
@@ -52,14 +42,24 @@
       "net": "2026-11-07T00:46:00Z"
     },
     {
+      "mission": "SatNet LEO Group TBD?",
+      "rocket": "Long March 12",
+      "site": "Wenchang Space Launch Site, People's Republic of China",
+      "country": "China",
+      "date": "Sun Nov 08 2026",
+      "time": "12:25 PM PST",
+      "status": "Go",
+      "net": "2026-11-08T20:25:00Z"
+    },
+    {
       "mission": "USSF-xxx (\"R-5\")",
       "rocket": "Falcon 9 Block 5",
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
-      "date": "Sun Nov 08 2026",
-      "time": "07:17 PM PST",
+      "date": "Mon Nov 09 2026",
+      "time": "07:03 PM PST",
       "status": "TBD",
-      "net": "2026-11-09T03:17:00Z"
+      "net": "2026-11-10T03:03:00Z"
     },
     {
       "mission": "Amazon Leo (LV-01)",
