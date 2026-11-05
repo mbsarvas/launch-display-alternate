@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-11-05T15:57:17.449404+00:00",
+  "fetched_at": "2026-11-05T16:09:38.519856+00:00",
   "launches": [
-    {
-      "mission": "Unknown Payload",
-      "rocket": "Long March 2C",
-      "site": "Xichang Satellite Launch Center, People's Republic of China",
-      "country": "China",
-      "date": "Thu Nov 05 2026",
-      "time": "08:00 AM PST",
-      "status": "Go",
-      "net": "2026-11-05T16:00:00Z"
-    },
     {
       "mission": "Unknown Payload",
       "rocket": "Ceres-2",
