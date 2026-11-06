@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-11-06T23:32:38.428375+00:00",
+  "fetched_at": "2026-11-06T23:38:40.023544+00:00",
   "launches": [
-    {
-      "mission": "Unknown Payload",
-      "rocket": "Ceres-2",
-      "site": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "country": "China",
-      "date": "Fri Nov 06 2026",
-      "time": "03:35 PM PST",
-      "status": "Go",
-      "net": "2026-11-06T23:35:00Z"
-    },
     {
       "mission": "USSF-432",
       "rocket": "Falcon 9 Block 5",
