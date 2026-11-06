@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-06T14:41:04.636182+00:00",
+  "fetched_at": "2026-11-06T14:47:07.414125+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -46,10 +46,10 @@
       "rocket": "Mir",
       "site": "Sea Launch",
       "country": "???",
-      "date": "Mon Nov 09 2026",
-      "time": "10:00 PM PST",
+      "date": "Tue Nov 10 2026",
+      "time": "09:00 PM PST",
       "status": "Go",
-      "net": "2026-11-10T06:00:00Z"
+      "net": "2026-11-11T05:00:00Z"
     },
     {
       "mission": "Unknown Payload",
