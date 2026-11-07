@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-11-07T00:45:00.071011+00:00",
+  "fetched_at": "2026-11-07T00:51:05.349812+00:00",
   "launches": [
-    {
-      "mission": "USSF-432",
-      "rocket": "Falcon 9 Block 5",
-      "site": "Vandenberg SFB, CA, USA",
-      "country": "United States",
-      "date": "Fri Nov 06 2026",
-      "time": "04:48 PM PST",
-      "status": "Go",
-      "net": "2026-11-07T00:48:42Z"
-    },
     {
       "mission": "SatNet LEO Group TBD?",
       "rocket": "Long March 12",
