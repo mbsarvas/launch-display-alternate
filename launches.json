@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-08T00:46:47.781248+00:00",
+  "fetched_at": "2026-11-08T00:52:48.507291+00:00",
   "launches": [
     {
       "mission": "SatNet LEO Group TBD?",
@@ -176,6 +176,16 @@
       "rocket": "Falcon 9 Block 5",
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
+      "date": "Sun Nov 29 2026",
+      "time": "04:00 PM PST",
+      "status": "TBD",
+      "net": "2026-11-30T00:00:00Z"
+    },
+    {
+      "mission": "TDS-01",
+      "rocket": "PSLV-XL",
+      "site": "Sriharikota",
+      "country": "India",
       "date": "Sun Nov 29 2026",
       "time": "04:00 PM PST",
       "status": "TBD",
