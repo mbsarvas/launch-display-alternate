@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-11-08T20:19:54.801764+00:00",
+  "fetched_at": "2026-11-08T20:25:56.458879+00:00",
   "launches": [
-    {
-      "mission": "SatNet LEO Group TBD?",
-      "rocket": "Long March 12",
-      "site": "Wenchang Space Launch Site, People's Republic of China",
-      "country": "China",
-      "date": "Sun Nov 08 2026",
-      "time": "12:25 PM PST",
-      "status": "Go",
-      "net": "2026-11-08T20:25:00Z"
-    },
     {
       "mission": "USSF-627",
       "rocket": "Falcon 9 Block 5",
