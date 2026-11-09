@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-11-09T21:10:06.478128+00:00",
+  "fetched_at": "2026-11-09T21:16:12.193228+00:00",
   "launches": [
     {
       "mission": "USSF-627",
       "rocket": "Falcon 9 Block 5",
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
-      "date": "Mon Nov 09 2026",
-      "time": "08:59 PM PST",
+      "date": "Tue Nov 10 2026",
+      "time": "06:49 PM PST",
       "status": "Go",
-      "net": "2026-11-10T04:59:49Z"
+      "net": "2026-11-11T02:49:00Z"
     },
     {
       "mission": "Demo Flight",
