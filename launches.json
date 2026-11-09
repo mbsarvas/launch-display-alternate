@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-09T20:21:46.054964+00:00",
+  "fetched_at": "2026-11-09T20:27:47.258475+00:00",
   "launches": [
     {
       "mission": "USSF-627",
@@ -184,6 +184,16 @@
     {
       "mission": "TDS-01",
       "rocket": "PSLV-XL",
+      "site": "Sriharikota",
+      "country": "India",
+      "date": "Sun Nov 29 2026",
+      "time": "04:00 PM PST",
+      "status": "TBD",
+      "net": "2026-11-30T00:00:00Z"
+    },
+    {
+      "mission": "Gaganyaan-1",
+      "rocket": "LVM-3",
       "site": "Sriharikota",
       "country": "India",
       "date": "Sun Nov 29 2026",
