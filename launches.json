@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-11-11T11:35:46.139150+00:00",
+  "fetched_at": "2026-11-11T11:41:46.916106+00:00",
   "launches": [
-    {
-      "mission": "Unknown Payload",
-      "rocket": "Long March 2D",
-      "site": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "country": "China",
-      "date": "Wed Nov 11 2026",
-      "time": "03:40 AM PST",
-      "status": "Go",
-      "net": "2026-11-11T11:40:00Z"
-    },
     {
       "mission": "USSF-627",
       "rocket": "Falcon 9 Block 5",
