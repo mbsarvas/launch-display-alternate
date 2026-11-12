@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-11-12T04:31:38.260676+00:00",
+  "fetched_at": "2026-11-12T04:37:39.707785+00:00",
   "launches": [
-    {
-      "mission": "USSF-627",
-      "rocket": "Falcon 9 Block 5",
-      "site": "Vandenberg SFB, CA, USA",
-      "country": "United States",
-      "date": "Wed Nov 11 2026",
-      "time": "08:36 PM PST",
-      "status": "Go",
-      "net": "2026-11-12T04:36:30Z"
-    },
     {
       "mission": "Unknown Payload",
       "rocket": "Kuaizhou 11",
