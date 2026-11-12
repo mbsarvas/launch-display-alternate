@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-12T16:01:27.629514+00:00",
+  "fetched_at": "2026-11-12T16:07:29.486980+00:00",
   "launches": [
     {
       "mission": "Amazon Leo (LV-01)",
@@ -23,7 +23,7 @@
     },
     {
       "mission": "MKA Kinosputnik, KOEN and others",
-      "rocket": "Soyuz 2.1a/Fregat-M",
+      "rocket": "Soyuz 2.1b/Fregat-M",
       "site": "Vostochny Cosmodrome, Siberia, Russian Federation",
       "country": "Russia",
       "date": "Fri Nov 13 2026",
