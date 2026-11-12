@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-12T19:15:23.310138+00:00",
+  "fetched_at": "2026-11-12T19:21:27.241149+00:00",
   "launches": [
     {
       "mission": "Amazon Leo (LV-01)",
@@ -60,6 +60,16 @@
       "time": "08:49 AM PST",
       "status": "Go",
       "net": "2026-11-18T16:49:00Z"
+    },
+    {
+      "mission": "Unknown Payload",
+      "rocket": "Long March 2D",
+      "site": "Taiyuan Satellite Launch Center, People's Republic of China",
+      "country": "China",
+      "date": "Wed Nov 18 2026",
+      "time": "02:50 PM PST",
+      "status": "Go",
+      "net": "2026-11-18T22:50:00Z"
     },
     {
       "mission": "SatNet LEO Group TBD?",
@@ -176,16 +186,6 @@
       "rocket": "Falcon 9 Block 5",
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
-      "date": "Sun Nov 29 2026",
-      "time": "04:00 PM PST",
-      "status": "TBD",
-      "net": "2026-11-30T00:00:00Z"
-    },
-    {
-      "mission": "TDS-01",
-      "rocket": "PSLV-XL",
-      "site": "Sriharikota",
-      "country": "India",
       "date": "Sun Nov 29 2026",
       "time": "04:00 PM PST",
       "status": "TBD",
