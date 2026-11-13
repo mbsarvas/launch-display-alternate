@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-13T15:32:02.178646+00:00",
+  "fetched_at": "2026-11-13T15:38:08.679772+00:00",
   "launches": [
     {
       "mission": "Starlink Group 31-2 (Starship Flight 15)",
@@ -17,9 +17,9 @@
       "site": "Vostochny Cosmodrome, Siberia, Russian Federation",
       "country": "Russia",
       "date": "Fri Nov 13 2026",
-      "time": "04:50 PM PST",
+      "time": "05:16 PM PST",
       "status": "Go",
-      "net": "2026-11-14T00:50:00Z"
+      "net": "2026-11-14T01:16:00Z"
     },
     {
       "mission": "The Mountain God Rises (iQPS Launch 10)",
