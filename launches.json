@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-13T17:27:12.699309+00:00",
+  "fetched_at": "2026-11-13T17:33:14.868800+00:00",
   "launches": [
     {
       "mission": "Starlink Group 31-2 (Starship Flight 15)",
@@ -52,16 +52,6 @@
       "net": "2026-11-18T03:14:00Z"
     },
     {
-      "mission": "USSF-266",
-      "rocket": "Falcon 9 Block 5",
-      "site": "Vandenberg SFB, CA, USA",
-      "country": "United States",
-      "date": "Wed Nov 18 2026",
-      "time": "08:49 AM PST",
-      "status": "Go",
-      "net": "2026-11-18T16:49:00Z"
-    },
-    {
       "mission": "Unknown Payload",
       "rocket": "Long March 2D",
       "site": "Taiyuan Satellite Launch Center, People's Republic of China",
@@ -100,6 +90,16 @@
       "time": "04:00 PM PST",
       "status": "TBD",
       "net": "2026-11-23T00:00:00Z"
+    },
+    {
+      "mission": "USSF-266",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Vandenberg SFB, CA, USA",
+      "country": "United States",
+      "date": "Mon Nov 23 2026",
+      "time": "08:04 AM PST",
+      "status": "Go",
+      "net": "2026-11-23T16:04:00Z"
     },
     {
       "mission": "Progress MS-36 (97P)",
