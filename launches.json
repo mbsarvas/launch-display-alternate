@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-13T21:47:51.655016+00:00",
+  "fetched_at": "2026-11-13T21:53:52.318154+00:00",
   "launches": [
     {
       "mission": "Starlink Group 31-2 (Starship Flight 15)",
@@ -7,9 +7,9 @@
       "site": "SpaceX Starbase, TX, USA",
       "country": "United States",
       "date": "Fri Nov 13 2026",
-      "time": "02:45 PM PST",
+      "time": "02:47 PM PST",
       "status": "Go",
-      "net": "2026-11-13T22:45:00Z"
+      "net": "2026-11-13T22:47:36Z"
     },
     {
       "mission": "MKA Kinosputnik, KOEN and others",
