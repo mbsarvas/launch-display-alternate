@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-13T12:36:09.680292+00:00",
+  "fetched_at": "2026-11-13T12:42:16.709578+00:00",
   "launches": [
     {
       "mission": "Amazon Leo (LV-01)",
@@ -147,9 +147,9 @@
       "site": "Cape Canaveral SFS, FL, USA",
       "country": "United States",
       "date": "Sun Nov 29 2026",
-      "time": "07:49 AM PST",
+      "time": "07:47 AM PST",
       "status": "Go",
-      "net": "2026-11-29T15:49:00Z"
+      "net": "2026-11-29T15:47:00Z"
     },
     {
       "mission": "Starlink Group 15-21",
