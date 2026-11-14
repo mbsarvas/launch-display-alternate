@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-11-14T05:26:56.281939+00:00",
+  "fetched_at": "2026-11-14T05:32:57.197317+00:00",
   "launches": [
-    {
-      "mission": "The Mountain God Rises (iQPS Launch 10)",
-      "rocket": "Electron",
-      "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
-      "country": "New Zealand",
-      "date": "Fri Nov 13 2026",
-      "time": "09:30 PM PST",
-      "status": "Go",
-      "net": "2026-11-14T05:30:00Z"
-    },
     {
       "mission": "Amazon Leo (LV-01)",
       "rocket": "Vulcan VC6L",
