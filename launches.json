@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-11-14T01:13:27.234804+00:00",
+  "fetched_at": "2026-11-14T01:19:29.433028+00:00",
   "launches": [
-    {
-      "mission": "MKA Kinosputnik, KOEN and others",
-      "rocket": "Soyuz 2.1b/Fregat-M",
-      "site": "Vostochny Cosmodrome, Siberia, Russian Federation",
-      "country": "Russia",
-      "date": "Fri Nov 13 2026",
-      "time": "05:16 PM PST",
-      "status": "Go",
-      "net": "2026-11-14T01:16:00Z"
-    },
     {
       "mission": "The Mountain God Rises (iQPS Launch 10)",
       "rocket": "Electron",
