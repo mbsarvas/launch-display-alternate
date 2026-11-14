@@ -1,15 +1,15 @@
 {
-  "fetched_at": "2026-11-14T14:12:27.509614+00:00",
+  "fetched_at": "2026-11-14T14:18:30.135015+00:00",
   "launches": [
     {
       "mission": "Amazon Leo (LV-01)",
       "rocket": "Vulcan VC6L",
       "site": "Cape Canaveral SFS, FL, USA",
       "country": "United States",
-      "date": "Sat Nov 14 2026",
-      "time": "09:32 AM PST",
+      "date": "Sun Nov 15 2026",
+      "time": "09:11 AM PST",
       "status": "Go",
-      "net": "2026-11-14T17:32:30Z"
+      "net": "2026-11-15T17:11:30Z"
     },
     {
       "mission": "USSF-317",
