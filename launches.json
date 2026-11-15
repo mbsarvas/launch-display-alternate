@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-15T16:35:25.506533+00:00",
+  "fetched_at": "2026-11-15T16:41:30.613125+00:00",
   "launches": [
     {
       "mission": "Amazon Leo (LV-01)",
@@ -9,7 +9,7 @@
       "date": "Sun Nov 15 2026",
       "time": "09:11 AM PST",
       "status": "Go",
-      "net": "2026-11-15T17:11:30Z"
+      "net": "2026-11-15T17:11:40Z"
     },
     {
       "mission": "USSF-317",
