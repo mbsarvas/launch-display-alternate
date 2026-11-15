@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-11-15T18:54:26.994513+00:00",
+  "fetched_at": "2026-11-15T19:00:37.284061+00:00",
   "launches": [
-    {
-      "mission": "USSF-317",
-      "rocket": "Falcon 9 Block 5",
-      "site": "Vandenberg SFB, CA, USA",
-      "country": "United States",
-      "date": "Tue Nov 17 2026",
-      "time": "07:14 PM PST",
-      "status": "Go",
-      "net": "2026-11-18T03:14:00Z"
-    },
     {
       "mission": "Unknown Payload",
       "rocket": "Long March 2D",
@@ -20,6 +10,16 @@
       "time": "02:50 PM PST",
       "status": "Go",
       "net": "2026-11-18T22:50:00Z"
+    },
+    {
+      "mission": "USSF-317",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Vandenberg SFB, CA, USA",
+      "country": "United States",
+      "date": "Wed Nov 18 2026",
+      "time": "07:00 PM PST",
+      "status": "Go",
+      "net": "2026-11-19T03:00:00Z"
     },
     {
       "mission": "SatNet LEO Group TBD?",
