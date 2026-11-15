@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-15T17:17:45.101682+00:00",
+  "fetched_at": "2026-11-15T17:23:46.696032+00:00",
   "launches": [
     {
       "mission": "Amazon Leo (LV-01)",
@@ -7,9 +7,9 @@
       "site": "Cape Canaveral SFS, FL, USA",
       "country": "United States",
       "date": "Sun Nov 15 2026",
-      "time": "09:31 AM PST",
-      "status": "Hold",
-      "net": "2026-11-15T17:31:00Z"
+      "time": "09:40 AM PST",
+      "status": "Go",
+      "net": "2026-11-15T17:40:30Z"
     },
     {
       "mission": "USSF-317",
