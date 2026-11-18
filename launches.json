@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-18T08:23:47.605811+00:00",
+  "fetched_at": "2026-11-18T08:29:50.230402+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -27,9 +27,9 @@
       "site": "Wenchang Space Launch Site, People's Republic of China",
       "country": "China",
       "date": "Fri Nov 20 2026",
-      "time": "03:00 AM PST",
-      "status": "TBD",
-      "net": "2026-11-20T11:00:00Z"
+      "time": "03:59 AM PST",
+      "status": "Go",
+      "net": "2026-11-20T11:59:00Z"
     },
     {
       "mission": "NROL-136",
