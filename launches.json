@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-11-18T22:48:07.115585+00:00",
+  "fetched_at": "2026-11-18T22:54:07.753609+00:00",
   "launches": [
-    {
-      "mission": "Unknown Payload",
-      "rocket": "Long March 2D",
-      "site": "Taiyuan Satellite Launch Center, People's Republic of China",
-      "country": "China",
-      "date": "Wed Nov 18 2026",
-      "time": "02:50 PM PST",
-      "status": "Go",
-      "net": "2026-11-18T22:50:00Z"
-    },
     {
       "mission": "USSF-317",
       "rocket": "Falcon 9 Block 5",
