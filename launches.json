@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-19T14:50:31.038729+00:00",
+  "fetched_at": "2026-11-19T14:56:32.138143+00:00",
   "launches": [
     {
       "mission": "USSF-317",
@@ -7,9 +7,9 @@
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
       "date": "Thu Nov 19 2026",
-      "time": "08:28 PM PST",
+      "time": "08:32 PM PST",
       "status": "Go",
-      "net": "2026-11-20T04:28:55Z"
+      "net": "2026-11-20T04:32:55Z"
     },
     {
       "mission": "SatNet LEO Group TBD?",
