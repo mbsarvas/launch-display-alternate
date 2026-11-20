@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-11-20T17:15:38.323863+00:00",
+  "fetched_at": "2026-11-20T17:21:40.259388+00:00",
   "launches": [
-    {
-      "mission": "Unknown Payload",
-      "rocket": "Long March 6C",
-      "site": "Taiyuan Satellite Launch Center, People's Republic of China",
-      "country": "China",
-      "date": "Fri Nov 20 2026",
-      "time": "07:50 PM PST",
-      "status": "Go",
-      "net": "2026-11-21T03:50:00Z"
-    },
     {
       "mission": "USSF-317",
       "rocket": "Falcon 9 Block 5",
@@ -130,6 +120,16 @@
       "time": "05:00 PM PST",
       "status": "TBD",
       "net": "2026-11-29T01:00:00Z"
+    },
+    {
+      "mission": "Unknown Payload",
+      "rocket": "Long March 6C",
+      "site": "Taiyuan Satellite Launch Center, People's Republic of China",
+      "country": "China",
+      "date": "Sat Nov 28 2026",
+      "time": "07:50 PM PST",
+      "status": "Go",
+      "net": "2026-11-29T03:50:00Z"
     },
     {
       "mission": "Cygnus CRS-2 NG-25",
