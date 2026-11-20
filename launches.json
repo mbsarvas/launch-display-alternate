@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-20T16:15:09.315326+00:00",
+  "fetched_at": "2026-11-20T16:21:09.974076+00:00",
   "launches": [
     {
       "mission": "USSF-317",
@@ -26,10 +26,10 @@
       "rocket": "Falcon 9 Block 5",
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
-      "date": "Sat Nov 21 2026",
-      "time": "04:30 AM PST",
+      "date": "Sun Nov 22 2026",
+      "time": "04:16 AM PST",
       "status": "Go",
-      "net": "2026-11-21T12:30:00Z"
+      "net": "2026-11-22T12:16:00Z"
     },
     {
       "mission": "Amazon Leo (LE-04)",
