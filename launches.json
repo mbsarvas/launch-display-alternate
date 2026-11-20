@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-20T09:11:27.412822+00:00",
+  "fetched_at": "2026-11-20T09:17:28.514340+00:00",
   "launches": [
     {
       "mission": "SatNet LEO Group TBD?",
@@ -80,6 +80,16 @@
       "time": "04:18 PM PST",
       "status": "Go",
       "net": "2026-11-25T00:18:00Z"
+    },
+    {
+      "mission": "Unknown Payload",
+      "rocket": "Long March 2D",
+      "site": "Xichang Satellite Launch Center, People's Republic of China",
+      "country": "China",
+      "date": "Thu Nov 26 2026",
+      "time": "01:35 AM PST",
+      "status": "Go",
+      "net": "2026-11-26T09:35:00Z"
     },
     {
       "mission": "AT-Astra and Others (Spectrum Flight 3)",
@@ -190,16 +200,6 @@
       "time": "11:00 PM PST",
       "status": "TBD",
       "net": "2026-12-10T07:00:00Z"
-    },
-    {
-      "mission": "Metop-SG B1",
-      "rocket": "Ariane 62",
-      "site": "Guiana Space Centre, French Guiana",
-      "country": "GUF",
-      "date": "Wed Dec 16 2026",
-      "time": "04:00 PM PST",
-      "status": "TBD",
-      "net": "2026-12-17T00:00:00Z"
     }
   ]
 }
