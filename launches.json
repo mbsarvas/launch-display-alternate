@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-20T17:39:45.832285+00:00",
+  "fetched_at": "2026-11-20T17:45:51.629984+00:00",
   "launches": [
     {
       "mission": "USSF-317",
@@ -137,9 +137,9 @@
       "site": "Cape Canaveral SFS, FL, USA",
       "country": "United States",
       "date": "Sun Nov 29 2026",
-      "time": "07:47 AM PST",
+      "time": "07:50 AM PST",
       "status": "Go",
-      "net": "2026-11-29T15:47:00Z"
+      "net": "2026-11-29T15:50:00Z"
     },
     {
       "mission": "Starlink Group 15-21",
