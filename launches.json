@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-11-20T17:03:34.002258+00:00",
+  "fetched_at": "2026-11-20T17:09:36.384655+00:00",
   "launches": [
-    {
-      "mission": "USSF-317",
-      "rocket": "Falcon 9 Block 5",
-      "site": "Vandenberg SFB, CA, USA",
-      "country": "United States",
-      "date": "Fri Nov 20 2026",
-      "time": "06:32 PM PST",
-      "status": "Go",
-      "net": "2026-11-21T02:32:00Z"
-    },
     {
       "mission": "Unknown Payload",
       "rocket": "Long March 6C",
@@ -20,6 +10,16 @@
       "time": "07:50 PM PST",
       "status": "Go",
       "net": "2026-11-21T03:50:00Z"
+    },
+    {
+      "mission": "USSF-317",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Vandenberg SFB, CA, USA",
+      "country": "United States",
+      "date": "Fri Nov 20 2026",
+      "time": "08:20 PM PST",
+      "status": "Go",
+      "net": "2026-11-21T04:20:35Z"
     },
     {
       "mission": "NROL-136",
