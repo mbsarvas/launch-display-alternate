@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-21T20:51:10.343016+00:00",
+  "fetched_at": "2026-11-21T20:57:11.861004+00:00",
   "launches": [
     {
       "mission": "NROL-136",
@@ -7,9 +7,9 @@
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
       "date": "Sun Nov 22 2026",
-      "time": "04:16 AM PST",
+      "time": "04:23 AM PST",
       "status": "Go",
-      "net": "2026-11-22T12:16:00Z"
+      "net": "2026-11-22T12:23:56Z"
     },
     {
       "mission": "Amazon Leo (LE-04)",
