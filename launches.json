@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-22T19:42:44.641816+00:00",
+  "fetched_at": "2026-11-22T19:48:45.890043+00:00",
   "launches": [
     {
       "mission": "Amazon Leo (LE-04)",
@@ -16,10 +16,10 @@
       "rocket": "Soyuz 2.1b",
       "site": "Baikonur Cosmodrome, Republic of Kazakhstan",
       "country": "Kazakhstan",
-      "date": "Mon Nov 23 2026",
-      "time": "09:03 PM PST",
+      "date": "Tue Nov 24 2026",
+      "time": "02:13 AM PST",
       "status": "TBD",
-      "net": "2026-11-24T05:03:00Z"
+      "net": "2026-11-24T10:13:00Z"
     },
     {
       "mission": "USSF-266",
