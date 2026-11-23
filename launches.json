@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-23T15:38:56.697040+00:00",
+  "fetched_at": "2026-11-23T15:44:58.994785+00:00",
   "launches": [
     {
       "mission": "Progress MS-36 (97P)",
@@ -73,16 +73,6 @@
     },
     {
       "mission": "Unknown Payload",
-      "rocket": "Kinetica 1",
-      "site": "Haiyang Oriental Spaceport",
-      "country": "China",
-      "date": "Sat Nov 28 2026",
-      "time": "05:00 PM PST",
-      "status": "TBD",
-      "net": "2026-11-29T01:00:00Z"
-    },
-    {
-      "mission": "Unknown Payload",
       "rocket": "Long March 6C",
       "site": "Taiyuan Satellite Launch Center, People's Republic of China",
       "country": "China",
@@ -130,6 +120,16 @@
       "time": "04:00 PM PST",
       "status": "TBD",
       "net": "2026-11-30T00:00:00Z"
+    },
+    {
+      "mission": "Unknown Payload",
+      "rocket": "Kinetica 1",
+      "site": "Haiyang Oriental Spaceport",
+      "country": "China",
+      "date": "Mon Nov 30 2026",
+      "time": "05:45 PM PST",
+      "status": "Go",
+      "net": "2026-12-01T01:45:00Z"
     },
     {
       "mission": "SatNet LEO Group TBD?",
