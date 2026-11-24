@@ -1,6 +1,16 @@
 {
-  "fetched_at": "2026-11-24T11:04:15.329225+00:00",
+  "fetched_at": "2026-11-24T11:10:17.301625+00:00",
   "launches": [
+    {
+      "mission": "Amazon Leo (LE-04)",
+      "rocket": "Ariane 64 Block 2",
+      "site": "Guiana Space Centre, French Guiana",
+      "country": "GUF",
+      "date": "Tue Nov 24 2026",
+      "time": "03:14 AM PST",
+      "status": "Go",
+      "net": "2026-11-24T11:14:00Z"
+    },
     {
       "mission": "USSF-266",
       "rocket": "Falcon 9 Block 5",
