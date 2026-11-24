@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-24T19:58:19.561307+00:00",
+  "fetched_at": "2026-11-24T20:04:25.132669+00:00",
   "launches": [
     {
       "mission": "Shenzhou 24",
@@ -152,8 +152,8 @@
       "net": "2026-12-31T00:00:00Z"
     },
     {
-      "mission": "USSF-23",
-      "rocket": "Vulcan",
+      "mission": "SDA Tranche 2 Tracking Layer A",
+      "rocket": "Falcon 9 Block 5",
       "site": "Cape Canaveral SFS, FL, USA",
       "country": "United States",
       "date": "Wed Dec 30 2026",
@@ -162,7 +162,7 @@
       "net": "2026-12-31T00:00:00Z"
     },
     {
-      "mission": "SDA Tranche 2 Tracking Layer A",
+      "mission": "BlueBird 14-16 (Block 2 #9-11)",
       "rocket": "Falcon 9 Block 5",
       "site": "Cape Canaveral SFS, FL, USA",
       "country": "United States",
