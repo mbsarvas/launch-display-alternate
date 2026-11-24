@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-24T19:52:17.138261+00:00",
+  "fetched_at": "2026-11-24T19:58:19.561307+00:00",
   "launches": [
     {
       "mission": "Shenzhou 24",
@@ -152,18 +152,18 @@
       "net": "2026-12-31T00:00:00Z"
     },
     {
-      "mission": "TV-D2",
-      "rocket": "Gaganyaan Abort Test Booster",
-      "site": "Sriharikota",
-      "country": "India",
+      "mission": "USSF-23",
+      "rocket": "Vulcan",
+      "site": "Cape Canaveral SFS, FL, USA",
+      "country": "United States",
       "date": "Wed Dec 30 2026",
       "time": "04:00 PM PST",
       "status": "TBD",
       "net": "2026-12-31T00:00:00Z"
     },
     {
-      "mission": "USSF-23",
-      "rocket": "Vulcan",
+      "mission": "SDA Tranche 2 Tracking Layer A",
+      "rocket": "Falcon 9 Block 5",
       "site": "Cape Canaveral SFS, FL, USA",
       "country": "United States",
       "date": "Wed Dec 30 2026",
