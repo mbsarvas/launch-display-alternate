@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-24T19:46:14.070313+00:00",
+  "fetched_at": "2026-11-24T19:52:17.138261+00:00",
   "launches": [
     {
       "mission": "Shenzhou 24",
@@ -67,9 +67,9 @@
       "site": "Cape Canaveral SFS, FL, USA",
       "country": "United States",
       "date": "Sun Nov 29 2026",
-      "time": "07:50 AM PST",
+      "time": "07:47 AM PST",
       "status": "Go",
-      "net": "2026-11-29T15:50:00Z"
+      "net": "2026-11-29T15:47:00Z"
     },
     {
       "mission": "Demo Flight",
