@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-24T09:03:04.369935+00:00",
+  "fetched_at": "2026-11-24T09:09:06.957908+00:00",
   "launches": [
     {
       "mission": "Progress MS-36 (97P)",
@@ -8,7 +8,7 @@
       "country": "Kazakhstan",
       "date": "Tue Nov 24 2026",
       "time": "02:17 AM PST",
-      "status": "TBD",
+      "status": "Go",
       "net": "2026-11-24T10:17:00Z"
     },
     {
