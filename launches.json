@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-11-25T00:18:28.536044+00:00",
+  "fetched_at": "2026-11-25T00:24:31.077693+00:00",
   "launches": [
-    {
-      "mission": "Shenzhou 24",
-      "rocket": "Long March 2F/G",
-      "site": "Jiuquan Satellite Launch Center, People's Republic of China",
-      "country": "China",
-      "date": "Tue Nov 24 2026",
-      "time": "04:18 PM PST",
-      "status": "Go",
-      "net": "2026-11-25T00:18:49Z"
-    },
     {
       "mission": "Unknown Payload",
       "rocket": "Long March 2D",
