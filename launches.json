@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-25T17:15:27.862351+00:00",
+  "fetched_at": "2026-11-25T17:21:33.842925+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -102,6 +102,16 @@
       "net": "2026-12-02T20:30:00Z"
     },
     {
+      "mission": "CHORUS",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Cape Canaveral SFS, FL, USA",
+      "country": "United States",
+      "date": "Fri Dec 04 2026",
+      "time": "04:55 AM PST",
+      "status": "Go",
+      "net": "2026-12-04T12:55:00Z"
+    },
+    {
       "mission": "SatNet LEO Group TBD?",
       "rocket": "Long March 12",
       "site": "Wenchang Space Launch Site, People's Republic of China",
@@ -142,26 +152,6 @@
       "net": "2026-12-31T00:00:00Z"
     },
     {
-      "mission": "SDA Tranche 2 Tracking Layer A",
-      "rocket": "Falcon 9 Block 5",
-      "site": "Cape Canaveral SFS, FL, USA",
-      "country": "United States",
-      "date": "Wed Dec 30 2026",
-      "time": "04:00 PM PST",
-      "status": "TBD",
-      "net": "2026-12-31T00:00:00Z"
-    },
-    {
-      "mission": "BlueBird 14-16 (Block 2 #9-11)",
-      "rocket": "Falcon 9 Block 5",
-      "site": "Cape Canaveral SFS, FL, USA",
-      "country": "United States",
-      "date": "Wed Dec 30 2026",
-      "time": "04:00 PM PST",
-      "status": "TBD",
-      "net": "2026-12-31T00:00:00Z"
-    },
-    {
       "mission": "SDA Tranche 1 Tracking Layer A",
       "rocket": "Falcon 9 Block 5",
       "site": "Vandenberg SFB, CA, USA",
@@ -183,6 +173,16 @@
     },
     {
       "mission": "Starlink Group 15-21",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Vandenberg SFB, CA, USA",
+      "country": "United States",
+      "date": "Wed Dec 30 2026",
+      "time": "04:00 PM PST",
+      "status": "TBD",
+      "net": "2026-12-31T00:00:00Z"
+    },
+    {
+      "mission": "SDA Tranche 1 Transport Layer D",
       "rocket": "Falcon 9 Block 5",
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
