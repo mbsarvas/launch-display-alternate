@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-25T09:05:11.401088+00:00",
+  "fetched_at": "2026-11-25T09:11:14.210872+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -116,10 +116,10 @@
       "rocket": "Ariane 62",
       "site": "Guiana Space Centre, French Guiana",
       "country": "GUF",
-      "date": "Wed Dec 16 2026",
-      "time": "04:00 PM PST",
-      "status": "TBD",
-      "net": "2026-12-17T00:00:00Z"
+      "date": "Thu Dec 17 2026",
+      "time": "04:36 PM PST",
+      "status": "Go",
+      "net": "2026-12-18T00:36:00Z"
     },
     {
       "mission": "Leidos-4",
