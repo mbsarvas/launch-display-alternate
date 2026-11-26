@@ -1,16 +1,6 @@
 {
-  "fetched_at": "2026-11-26T09:34:59.827196+00:00",
+  "fetched_at": "2026-11-26T09:41:03.150030+00:00",
   "launches": [
-    {
-      "mission": "Unknown Payload",
-      "rocket": "Long March 2D",
-      "site": "Xichang Satellite Launch Center, People's Republic of China",
-      "country": "China",
-      "date": "Thu Nov 26 2026",
-      "time": "01:35 AM PST",
-      "status": "Go",
-      "net": "2026-11-26T09:35:00Z"
-    },
     {
       "mission": "Night Owls Never Sleep (StriX Launch 14)",
       "rocket": "Electron",
