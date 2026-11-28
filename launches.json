@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-28T17:34:57.294315+00:00",
+  "fetched_at": "2026-11-28T17:40:59.390124+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -17,9 +17,9 @@
       "site": "Vandenberg SFB, CA, USA",
       "country": "United States",
       "date": "Sat Nov 28 2026",
-      "time": "08:39 PM PST",
+      "time": "10:26 PM PST",
       "status": "Go",
-      "net": "2026-11-29T04:39:03Z"
+      "net": "2026-11-29T06:26:45Z"
     },
     {
       "mission": "Cygnus CRS-2 NG-25",
