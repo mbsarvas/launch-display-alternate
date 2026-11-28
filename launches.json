@@ -1,4 +1,195 @@
 {
-  "fetched_at": "2026-11-28T07:01:09.938881+00:00",
-  "launches": []
+  "fetched_at": "2026-11-28T07:07:10.879877+00:00",
+  "launches": [
+    {
+      "mission": "Unknown Payload",
+      "rocket": "Long March 6C",
+      "site": "Taiyuan Satellite Launch Center, People's Republic of China",
+      "country": "China",
+      "date": "Sat Nov 28 2026",
+      "time": "07:50 PM PST",
+      "status": "Go",
+      "net": "2026-11-29T03:50:00Z"
+    },
+    {
+      "mission": "USSF-380",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Vandenberg SFB, CA, USA",
+      "country": "United States",
+      "date": "Sat Nov 28 2026",
+      "time": "08:39 PM PST",
+      "status": "Go",
+      "net": "2026-11-29T04:39:03Z"
+    },
+    {
+      "mission": "Cygnus CRS-2 NG-25",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Cape Canaveral SFS, FL, USA",
+      "country": "United States",
+      "date": "Sun Nov 29 2026",
+      "time": "07:47 AM PST",
+      "status": "Go",
+      "net": "2026-11-29T15:47:00Z"
+    },
+    {
+      "mission": "Unknown Payload",
+      "rocket": "Kinetica 1",
+      "site": "Haiyang Oriental Spaceport",
+      "country": "China",
+      "date": "Mon Nov 30 2026",
+      "time": "05:45 PM PST",
+      "status": "Go",
+      "net": "2026-12-01T01:45:00Z"
+    },
+    {
+      "mission": "Unknown Payload",
+      "rocket": "Kuaizhou 11",
+      "site": "Jiuquan Satellite Launch Center, People's Republic of China",
+      "country": "China",
+      "date": "Wed Dec 02 2026",
+      "time": "03:55 AM PST",
+      "status": "Go",
+      "net": "2026-12-02T11:55:00Z"
+    },
+    {
+      "mission": "NROL-132",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Vandenberg SFB, CA, USA",
+      "country": "United States",
+      "date": "Wed Dec 02 2026",
+      "time": "12:30 PM PST",
+      "status": "TBD",
+      "net": "2026-12-02T20:30:00Z"
+    },
+    {
+      "mission": "CHORUS",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Cape Canaveral SFS, FL, USA",
+      "country": "United States",
+      "date": "Fri Dec 04 2026",
+      "time": "04:55 AM PST",
+      "status": "Go",
+      "net": "2026-12-04T12:55:00Z"
+    },
+    {
+      "mission": "SatNet LEO Group TBD?",
+      "rocket": "Long March 12",
+      "site": "Wenchang Space Launch Site, People's Republic of China",
+      "country": "China",
+      "date": "Wed Dec 09 2026",
+      "time": "11:00 PM PST",
+      "status": "TBD",
+      "net": "2026-12-10T07:00:00Z"
+    },
+    {
+      "mission": "Metop-SG B1",
+      "rocket": "Ariane 62",
+      "site": "Guiana Space Centre, French Guiana",
+      "country": "GUF",
+      "date": "Thu Dec 17 2026",
+      "time": "04:36 PM PST",
+      "status": "Go",
+      "net": "2026-12-18T00:36:00Z"
+    },
+    {
+      "mission": "Leidos-4",
+      "rocket": "HASTE",
+      "site": "Wallops Flight Facility, Virginia, USA",
+      "country": "United States",
+      "date": "Wed Dec 30 2026",
+      "time": "04:00 PM PST",
+      "status": "TBD",
+      "net": "2026-12-31T00:00:00Z"
+    },
+    {
+      "mission": "Leidos-3",
+      "rocket": "HASTE",
+      "site": "Wallops Flight Facility, Virginia, USA",
+      "country": "United States",
+      "date": "Wed Dec 30 2026",
+      "time": "04:00 PM PST",
+      "status": "TBD",
+      "net": "2026-12-31T00:00:00Z"
+    },
+    {
+      "mission": "SDA Tranche 2 Tracking Layer A",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Cape Canaveral SFS, FL, USA",
+      "country": "United States",
+      "date": "Wed Dec 30 2026",
+      "time": "04:00 PM PST",
+      "status": "TBD",
+      "net": "2026-12-31T00:00:00Z"
+    },
+    {
+      "mission": "BlueBird 14-16 (Block 2 #9-11)",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Cape Canaveral SFS, FL, USA",
+      "country": "United States",
+      "date": "Wed Dec 30 2026",
+      "time": "04:00 PM PST",
+      "status": "TBD",
+      "net": "2026-12-31T00:00:00Z"
+    },
+    {
+      "mission": "SDA Tranche 1 Tracking Layer A",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Vandenberg SFB, CA, USA",
+      "country": "United States",
+      "date": "Wed Dec 30 2026",
+      "time": "04:00 PM PST",
+      "status": "TBD",
+      "net": "2026-12-31T00:00:00Z"
+    },
+    {
+      "mission": "T1H-1",
+      "rocket": "Themis Demonstrator",
+      "site": "Esrange Space Center",
+      "country": "Sweden",
+      "date": "Wed Dec 30 2026",
+      "time": "04:00 PM PST",
+      "status": "TBD",
+      "net": "2026-12-31T00:00:00Z"
+    },
+    {
+      "mission": "Starlink Group 15-21",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Vandenberg SFB, CA, USA",
+      "country": "United States",
+      "date": "Wed Dec 30 2026",
+      "time": "04:00 PM PST",
+      "status": "TBD",
+      "net": "2026-12-31T00:00:00Z"
+    },
+    {
+      "mission": "SDA Tranche 1 Transport Layer D",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Vandenberg SFB, CA, USA",
+      "country": "United States",
+      "date": "Wed Dec 30 2026",
+      "time": "04:00 PM PST",
+      "status": "TBD",
+      "net": "2026-12-31T00:00:00Z"
+    },
+    {
+      "mission": "USSF-31",
+      "rocket": "Falcon 9 Block 5",
+      "site": "Cape Canaveral SFS, FL, USA",
+      "country": "United States",
+      "date": "Wed Dec 30 2026",
+      "time": "04:00 PM PST",
+      "status": "TBD",
+      "net": "2026-12-31T00:00:00Z"
+    },
+    {
+      "mission": "Demo Flight",
+      "rocket": "Gravity-2",
+      "site": "Haiyang Oriental Spaceport",
+      "country": "China",
+      "date": "Wed Dec 30 2026",
+      "time": "04:00 PM PST",
+      "status": "TBD",
+      "net": "2026-12-31T00:00:00Z"
+    }
+  ]
 }
