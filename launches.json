@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-28T13:03:19.640069+00:00",
+  "fetched_at": "2026-11-28T13:09:22.336325+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -186,6 +186,16 @@
       "rocket": "Gravity-2",
       "site": "Haiyang Oriental Spaceport",
       "country": "China",
+      "date": "Wed Dec 30 2026",
+      "time": "04:00 PM PST",
+      "status": "TBD",
+      "net": "2026-12-31T00:00:00Z"
+    },
+    {
+      "mission": "BlackSky Gen-3 6",
+      "rocket": "Electron",
+      "site": "Rocket Lab Launch Complex 1, Mahia Peninsula, New Zealand",
+      "country": "New Zealand",
       "date": "Wed Dec 30 2026",
       "time": "04:00 PM PST",
       "status": "TBD",
