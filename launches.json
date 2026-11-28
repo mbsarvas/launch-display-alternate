@@ -1,5 +1,5 @@
 {
-  "fetched_at": "2026-11-28T16:46:41.840836+00:00",
+  "fetched_at": "2026-11-28T16:52:43.888993+00:00",
   "launches": [
     {
       "mission": "Unknown Payload",
@@ -29,7 +29,7 @@
       "date": "Sun Nov 29 2026",
       "time": "07:47 AM PST",
       "status": "Go",
-      "net": "2026-11-29T15:47:00Z"
+      "net": "2026-11-29T15:47:23Z"
     },
     {
       "mission": "Unknown Payload",
